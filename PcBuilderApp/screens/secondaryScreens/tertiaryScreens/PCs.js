@@ -1,8 +1,8 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
-//import { useBuildContext } from ''.../contexts/BuildContext.js'; // Correct import path
+import { useBuildContext } from '../../../contexts/BuildContext';
 
-export default function BuildDetailsScreen({ route }) {
+export default function PCs({ route }) {
   const { build } = route.params;
   const { builds } = useBuildContext();
   const buildDetails = builds[build];

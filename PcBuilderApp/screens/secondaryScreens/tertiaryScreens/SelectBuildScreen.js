@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, TextInput, Alert } from 'react-native';
-//import { useBuildContext } from '../../../BuildContext'; // Adjust relative path as needed
+import { useBuildContext } from '../../../contexts/BuildContext';
+
 
 
 export default function SelectBuildScreen({ route, navigation }) {
@@ -10,12 +11,12 @@ export default function SelectBuildScreen({ route, navigation }) {
 
   const handleAddOption = () => {
     if (!selectedBuild) {
-      Alert.alert('Error', 'Please select a PC build');
+      Alert.alert('Error', ' Por favor selecione um PC montado ');
       return;
     }
   
     addOptionToBuild(selectedBuild, type, option);
-    navigation.navigate('BuildDetailsScreen', { build: selectedBuild });
+    navigation.navigate('PCs', { build: selectedBuild });
   };
 
   return (
