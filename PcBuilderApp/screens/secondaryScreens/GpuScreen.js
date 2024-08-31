@@ -4,18 +4,21 @@ import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 export default function GpuScreen({ navigation }) {
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>Escolha uma GPU</Text>
-      <View style={styles.grid}>
-        <TouchableOpacity style={styles.optionButton}>
-          <Text style={styles.optionText}>Option 1</Text>
-        </TouchableOpacity>
-        <TouchableOpacity style={styles.optionButton}>
-          <Text style={styles.optionText}>Option 2</Text>
-        </TouchableOpacity>
-        <TouchableOpacity style={styles.optionButton}>
-          <Text style={styles.optionText}>Option 3</Text>
-        </TouchableOpacity>
-      </View>
+      <Text style={styles.title}>Select GPU Brand</Text>
+      
+      <TouchableOpacity
+        style={styles.button}
+        onPress={() => navigation.navigate('GpuCategoryScreen', { category: 'AMD' })}
+      >
+        <Text style={styles.buttonText}>AMD RADEON </Text>
+      </TouchableOpacity>
+
+      <TouchableOpacity
+        style={styles.button}
+        onPress={() => navigation.navigate('GpuCategoryScreen', { category: 'NVIDIA' })}
+      >
+        <Text style={styles.buttonText}>NVIDIA GEFORCE </Text>
+      </TouchableOpacity>
     </View>
   );
 }
@@ -23,33 +26,27 @@ export default function GpuScreen({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    padding: 16,
-    backgroundColor: '#f5f5f5',
-  },
-  header: {
-    fontSize: 24,
-    marginBottom: 16,
-    color: 'purple',
-  },
-  grid: {
-    flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    flexDirection: 'row',
-    flexWrap: 'wrap',
+    backgroundColor: '#f5f5f5',
+    padding: 10,
   },
-  optionButton: {
-    width: 100,
-    height: 100,
+  title: {
+    fontSize: 24,
+    marginBottom: 20,
+    color: 'purple',
+  },
+  button: {
+    width: '80%',
+    padding: 15,
     backgroundColor: 'purple',
     justifyContent: 'center',
     alignItems: 'center',
-    borderRadius: 10,
-    margin: 10,
+    borderRadius: 5,
+    marginBottom: 10,
   },
-  optionText: {
+  buttonText: {
     color: 'white',
-    fontSize: 16,
-    textAlign: 'center',
+    fontSize: 18,
   },
 });

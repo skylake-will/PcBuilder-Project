@@ -4,7 +4,7 @@ import { View, Text, StyleSheet, Button, TouchableOpacity } from 'react-native';
 export default function PcBuildScreen({ navigation }) {
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>Select PC Parts</Text>
+      <Text style={styles.header}>Selecionar peças</Text>
       <View style={styles.grid}>
         <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('CpuScreen')}>
           <Text style={styles.buttonText}>CPU</Text>

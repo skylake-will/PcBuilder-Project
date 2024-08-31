@@ -1,35 +1,42 @@
 import React from 'react';
 import { View, Text, FlatList, StyleSheet, TouchableOpacity, Image } from 'react-native';
+import RamData from '../../../web-scraping-api/controllers/updateAllHardwareData.json'; // Adjust path as necessary
 
-// Import data
-import SsdData from '../../web-scraping-api/controllers/updateAllHardwareData.json'; // Adjust path if necessary
+export default function RamCategoryScreen({ route, navigation }) {
+  // Destructure category with a default empty string
+  const { category = '' } = route.params || {};
 
-export default function SsdScreen({ navigation }) {
-  // Filter the data to include only items with 'SSD' in the product name
-  const ssdData = SsdData.filter(item => item.productName.includes('SSD'));
+  // Validate and filter data based on category
+  const ramData = RamData ? RamData.filter(item =>
+    item.productName.includes(category) && item.productName.includes('Memória RAM')
+  ) : [];
 
-  // Prepend the base URL to the image URL
+  // Function to prepend base URL if needed
   const prependBaseUrl = (url) => {
+    const baseUrl = 'https://www.kabum.com.br';
     if (url && !url.startsWith('http')) {
-      return `https://www.kabum.com.br${url}`;
+      return `${baseUrl}${url}`;
     }
     return url;
   };
 
-  // Function to handle the option selection
   const handleOptionSelect = (item) => {
-    navigation.navigate('SsdDetailScreen', { ssd: item });
+    navigation.navigate('DetailScreen', { item, type: 'RAM' });
   };
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Select an SSD Option</Text>
+      <Text style={styles.title}>Select a RAM {category} Option</Text>
       <FlatList
-        data={ssdData} // Use filtered SSD data
-        keyExtractor={(item, index) => index.toString()} // Use index if URL or unique key is not available
+        data={ramData}
+        keyExtractor={(item) => item.productUrl} // Use a unique identifier
         renderItem={({ item }) => (
           <TouchableOpacity style={styles.button} onPress={() => handleOptionSelect(item)}>
-            <Image source={{ uri: prependBaseUrl(item.imageUrl) }} style={styles.image} />
+            <Image
+              source={{ uri: item.imageUrl ? prependBaseUrl(item.imageUrl) : 'https://www.kabum.com.br' }} // Use a placeholder if image URL is missing
+              style={styles.image}
+              resizeMode="cover"
+            />
             <Text style={styles.buttonText}>{item.productName}</Text>
             <Text style={styles.buttonPrice}>{item.price}</Text>
           </TouchableOpacity>
@@ -45,6 +52,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#f5f5f5',
+    padding: 10,
   },
   title: {
     fontSize: 24,

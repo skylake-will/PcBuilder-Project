@@ -1,0 +1,842 @@
+[
+  {
+    "productName": "Processador Intel Core i5-12400F, 2.5GHz (4.4GHz Max Turbo), Cache 18MB, LGA 1700 - BX8071512400F",
+    "price": "R$ 673,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F283718%2Fprocessador-intel-core-i5-12400f-cache-xmb-xghz-xghz-max-turbo-lga-1700-bx8071512400f_1640094446_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/283718/processador-intel-core-i5-12400f-2-5ghz-4-4ghz-max-turbo-cache-18mb-lga-1700-bx8071512400f"
+  },
+  {
+    "productName": "Processador Intel Core i5-10400F, 2.9GHz (4.3GHz Max Turbo), Cache 12MB, 6 Núcleos, 12 Threads, LGA 1200 - BX8070110400F",
+    "price": "R$ 648,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F112991%2Fprocessador-intel-core-i5-10400f-cache-12mb-2-9ghz-lga-1200-bx8070110400f_1589199927_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/112991/processador-intel-core-i5-10400f-2-9ghz-4-3ghz-max-turbo-cache-12mb-6-nucleos-12-threads-lga-1200-bx8070110400f"
+  },
+  {
+    "productName": "Processador Intel Core i5-12400, 2.5GHz (4.4GHz Max Turbo), Cache 18MB, LGA 1700 - BX8071512400",
+    "price": "R$ 1.222,56",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F283713%2Fprocessador-intel-core-i5-12400-cache-xmb-xghz-xghz-max-turbo-lga-1700-bx8071512400_1640031464_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/283713/processador-intel-core-i5-12400-2-5ghz-4-4ghz-max-turbo-cache-18mb-lga-1700-bx8071512400"
+  },
+  {
+    "productName": "Processador Intel Core i5-13400, 4.6GHz Max Turbo, Cache 20MB, 10 Núcleos, 16 Threads, LGA 1700, Vídeo Integrado - BX8071513400",
+    "price": "R$ 1.498,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F405765%2Fprocessador-intel-core-i5-13400-4-6ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-video-integrado-bx8071513400_1672688891_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/405765/processador-intel-core-i5-13400-4-6ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-video-integrado-bx8071513400"
+  },
+  {
+    "productName": "Processador Intel Core i5-11400F, 2.6 GHz (4.4GHz Turbo), Cache 12MB, 6 Núcleos, 12 Threads, LGA1200 - BX8070811400F",
+    "price": "R$ 678,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F148917%2Fprocessador-intel-core-i5-11400f-11-geracao-cache-12mb-2-6-ghz-4-4ghz-turbo-lga1200-bx8070811400f_1615574166_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/148917/processador-intel-core-i5-11400f-2-6-ghz-4-4ghz-turbo-cache-12mb-6-nucleos-12-threads-lga1200-bx8070811400f"
+  },
+  {
+    "productName": "Processador Intel Core i5-14600K, 14ª Geração, 5.3 GHz Max Turbo, Cache 24MB, 14 Núcleos, 20 Threads, LGA1700 - BX8071514600K",
+    "price": "R$ 1.898,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F497578%2Fprocessador-intel-core-i5-14600k-bx8071514600k_1697723450_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/497578/processador-intel-core-i5-14600k-14-geracao-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga1700-bx8071514600k"
+  },
+  {
+    "productName": "Processador Intel Core i5-14600KF, 14ª Geração, 5.3 GHz Max Turbo, Cache 24MB, 14 Núcleos, 20 Threads, LGA1700 - BX8071514600KF",
+    "price": "R$ 2.143,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F497579%2Fprocessador-intel-core-i5-14600kf-bx8071514600kf_1697723502_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/497579/processador-intel-core-i5-14600kf-14-geracao-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga1700-bx8071514600kf"
+  },
+  {
+    "productName": "Processador Intel Core I5 12400F 12ª Geração, 2.5GHz (4.4GHz Turbo), Hexa Core, 12 Threads, LGA 1700 - BX8071512400F",
+    "price": "R$ 660,37",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F315050%2FProcessador-Intel-Core-I5-12400F-12-Gera-o-2-5GHz-4-4GHz-Turbo-Hexa-Core-12-Threads-LGA-1700-BX8071512400F_1724337174_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/315050/processador-intel-core-i5-12400f-12-geracao-2-5ghz-4-4ghz-turbo-hexa-core-12-threads-lga-1700-bx8071512400f"
+  },
+  {
+    "productName": "Processador Intel Core i5-13400F, 4.6GHz Max Turbo, Cache 20MB, 10 Núcleos, 16 Threads, LGA 1700 - BX8071513400F",
+    "price": "R$ 1.248,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F405766%2Fprocessador-intel-core-i5-13400f-4-6ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-bx8071513400f_1672752804_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/405766/processador-intel-core-i5-13400f-4-6ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-bx8071513400f"
+  },
+  {
+    "productName": "Processador Intel Core I5-10400F, 2.9GHz (4.3GHz Turbo), Hexa Core, Cache 12MB, LGA 1200 - BX8070110400F",
+    "price": "R$ 687,50",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F162097%2FProcessador-Intel-Core-I5-10400F-2-9GHz-4-3GHz-Turbo-Hexa-Core-Cache-12MB-LGA-1200-BX8070110400F_1724265651_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/162097/processador-intel-core-i5-10400f-2-9ghz-4-3ghz-turbo-hexa-core-cache-12mb-lga-1200-bx8070110400f"
+  },
+  {
+    "productName": "Processador Intel Core I5-12600KF 12ª Geração, 3.7GHz, Cache 20MB, 10 Núcleos, 16 Threads, LGA 1700 - BX8071512600KF",
+    "price": "R$ 1.212,87",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F317202%2FProcessador-Intel-Core-I5-12600KF-12-Gera-o-3-7GHz-Cache-20MB-10-N-cleos-16-Threads-LGA-1700-BX8071512600KF_1722542876_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/317202/processador-intel-core-i5-12600kf-12-geracao-3-7ghz-cache-20mb-10-nucleos-16-threads-lga-1700-bx8071512600kf"
+  },
+  {
+    "productName": "Processador Intel Core i5-11600KF 11ª Geração, 3.9 GHz (4.9GHz Turbo), Cache 12MB, Hexa Core, 12 Threads, LGA1200 - BX8070811600KF",
+    "price": "R$ 954,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F148914%2Fprocessador-intel-core-i5-11600kf-11-geracao-cache-12mb-3-9-ghz-4-9ghz-turbo-lga1200-bx8070811600kf_1615571294_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/148914/processador-intel-core-i5-11600kf-11-geracao-3-9-ghz-4-9ghz-turbo-cache-12mb-hexa-core-12-threads-lga1200-bx8070811600kf"
+  },
+  {
+    "productName": "Processador Intel Core I5-3570, 3.40GHz, LGA 1155, OEM",
+    "price": "R$ 127,77",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F345299%2FProcessador-Intel-Core-I5-3570-3-40GHz-LGA-1155-OEM_1713982785_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/345299/processador-intel-core-i5-3570-3-40ghz-lga-1155-oem"
+  },
+  {
+    "productName": "Processador Intel Core I5-11400, 2.6GHz (4.4GHz Turbo), Cache 12MB, LGA 1200 - BX8070811400",
+    "price": "R$ 949,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F169438%2FProcessador-Intel-Core-I5-11400-2-6GHz-4-4GHz-Turbo-Cache-12MB-LGA-1200-BX8070811400_1724792456_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/169438/processador-intel-core-i5-11400-2-6ghz-4-4ghz-turbo-cache-12mb-lga-1200-bx8070811400"
+  },
+  {
+    "productName": "Processador Intel I5-12400, 2.5GHz, Cache 18MB, Hexa Core, 12 Threads, LGA 1700 - BX8071512400",
+    "price": "R$ 1.008,87",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F329802%2FProcessador-Intel-I5-12400-2-5GHz-Cache-18MB-Hexa-Core-12-Threads-LGA-1700-BX8071512400_1724175008_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/329802/processador-intel-i5-12400-2-5ghz-cache-18mb-hexa-core-12-threads-lga-1700-bx8071512400"
+  },
+  {
+    "productName": "Processador Intel Core I5-12600K, 3.7GHz, Cache 20MB, LGA 1700",
+    "price": "R$ 1.395,62",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F277256%2FProcessador-Intel-Core-I5-12600K-3-7GHz-Cache-20MB-LGA-1700_1723828979_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/277256/processador-intel-core-i5-12600k-3-7ghz-cache-20mb-lga-1700"
+  },
+  {
+    "productName": "Processador Intel Core I5 14400f, 14ª Geração 3.5 Ghz, Cache 20mb LGA1700 Sem Vídeo - Bx8071514400f",
+    "price": "R$ 1.425,16",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F531209%2FProcessador-Intel-Core-I5-14400f-14-Gera-o-3-5-Ghz-Cache-20mb-LGA1700-Sem-V-deo-Bx8071514400f_1724337904_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/531209/processador-intel-core-i5-14400f-14-geracao-3-5-ghz-cache-20mb-lga1700-sem-video-bx8071514400f"
+  },
+  {
+    "productName": "Processador Intel Core I5-2400, 3.10GHz, Cache 6MB, Quad Core, LGA 1155, OEM",
+    "price": "R$ 99,11",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F345300%2FProcessador-Intel-Core-I5-2400-3-10GHz-Cache-6MB-Quad-Core-LGA-1155-OEM_1674577714_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/345300/processador-intel-core-i5-2400-3-10ghz-cache-6mb-quad-core-lga-1155-oem"
+  },
+  {
+    "productName": "Processador Intel Core i5-10600KF, 4.1GHz, Cache 12MB, LGA 1200 - BX8070110600KF",
+    "price": "R$ 849,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F112993%2Fprocessador-intel-core-i5-10600kf-cache-12mb-4-1ghz-lga-1200-bx8070110600kf_1589203977_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/112993/processador-intel-core-i5-10600kf-4-1ghz-cache-12mb-lga-1200-bx8070110600kf"
+  },
+  {
+    "productName": "Processador Intel Core I5 4590, 3.7GHz, Cache 6MB, 1150, Sem Cooler",
+    "price": "R$ 166,57",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F304510%2FProcessador-Intel-Core-I5-4590-3-7GHz-Cache-6MB-1150-Sem-Cooler_1709212693_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/304510/processador-intel-core-i5-4590-3-7ghz-cache-6mb-1150-sem-cooler"
+  },
+  {
+    "productName": "SSD 1 TB Kingston NV2, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s - SNV2S/1000G",
+    "price": "R$ 499,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F380745%2Fssd-kingston-nv2-1-tb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-1000g_1666033119_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/380745/ssd-1-tb-kingston-nv2-m-2-2280-pcie-nvme-leitura-3500-mb-s-e-gravacao-2100-mb-s-snv2s-1000g"
+  },
+  {
+    "productName": "SSD 500 GB Kingston NV2, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s - SNV2S/500G",
+    "price": "R$ 299,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F380744%2Fssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032961_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/380744/ssd-500-gb-kingston-nv2-m-2-2280-pcie-nvme-leitura-3500-mb-s-e-gravacao-2100-mb-s-snv2s-500g"
+  },
+  {
+    "productName": "SSD SATA Kingston, A400, 240GB, 2.5\", Leitura: 500MB/s e Gravação: 350MB/s, Preto - SA400S37/240G",
+    "price": "R$ 176,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F85197%2F85197_1484306076_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/85197/ssd-sata-kingston-a400-240gb-2-5-leitura-500mb-s-e-gravacao-350mb-s-preto-sa400s37-240g"
+  },
+  {
+    "productName": "SSD SATA WD Green, 480GB, 2.5\", Leitura: 545MB/s e Gravação: 430MB/s, Preto - WDS480G3G0A",
+    "price": "R$ 219,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F338408%2Fssd-wd-green-480gb-sata-leitura-545mb-s-gravacao-430mb-s-wds480g3g0a_1652465601_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/338408/ssd-sata-wd-green-480gb-2-5-leitura-545mb-s-e-gravacao-430mb-s-preto-wds480g3g0a"
+  },
+  {
+    "productName": "SSD SATA Kingston, A400, 480GB, 2.5\", Leitura: 500MB/s e Gravação: 450MB/s, Preto - SA400S37/480G",
+    "price": "R$ 239,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F85198%2F85198_1484306114_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/85198/ssd-sata-kingston-a400-480gb-2-5-leitura-500mb-s-e-gravacao-450mb-s-preto-sa400s37-480g"
+  },
+  {
+    "productName": "SSD SATA Kingston A400 960GB, 2.5\", Leitura: 500MB/s e Gravação: 450MB/s, Preto - SA400S37/960G",
+    "price": "R$ 409,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F95217%2F95217_1520016025_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/95217/ssd-sata-kingston-a400-960gb-2-5-leitura-500mb-s-e-gravacao-450mb-s-preto-sa400s37-960g"
+  },
+  {
+    "productName": "SSD SATA Adata SU650, 240GB, 2.5\", Leitura: 520MB/s e Gravação: 450MB/s, Preto - ASU650SS-240GT-R",
+    "price": "R$ 139,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F105015%2Fssd-sata-adata-su650-240gb-2-5-leitura-520mb-s-e-gravacao-450mb-s-preto-asu650ss-240gt-r_1724166980_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/105015/ssd-sata-adata-su650-240gb-2-5-leitura-520mb-s-e-gravacao-450mb-s-preto-asu650ss-240gt-r"
+  },
+  {
+    "productName": "SSD SATA Adata SU650, 120GB, 2.5\", Leitura: 520MB/s e Gravação: 450MB/s, Preto - ASU650SS-120GT-R",
+    "price": "R$ 89,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F100014%2Fssd-sata-adata-su650-120gb-2-5-leitura-520mb-s-e-gravacao-450mb-s-preto-asu650ss-120gt-r_1724072510_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/100014/ssd-sata-adata-su650-120gb-2-5-leitura-520mb-s-e-gravacao-450mb-s-preto-asu650ss-120gt-r"
+  },
+  {
+    "productName": "SSD SATA WD Green, 240GB, 2.5\", Leitura: 545MB/s e Gravação: 430MB/s, Preto - WDS240G3G0A",
+    "price": "R$ 165,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F338391%2Fssd-wd-green-240gb-sata-leitura-545mb-s-gravacao-430mb-s-wds240g3g0a_1652465445_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/338391/ssd-sata-wd-green-240gb-2-5-leitura-545mb-s-e-gravacao-430mb-s-preto-wds240g3g0a"
+  },
+  {
+    "productName": "SSD 1 TB Kingston Fury Renegade, M.2 2280 PCIe, NVMe, Leitura: 7300MB/s e Gravação: 6000MB/s, Preto - SFYRS/1000G",
+    "price": "R$ 799,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F272356%2Fssd-kingston-fury-renegade-1000gb-m-2-2280-pcie-nvme-leituras-7-300mb-s-gravacao-6-000mb-s-sfyrs-1000g_1637328670_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/272356/ssd-1-tb-kingston-fury-renegade-m-2-2280-pcie-nvme-leitura-7300mb-s-e-gravacao-6000mb-s-preto-sfyrs-1000g"
+  },
+  {
+    "productName": "SSD SATA Lexar, 240GB, 2.5\", Leitura 550MB/s, Cinza - LNQ100X240G-RNNNU",
+    "price": "R$ 129,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F472304%2Fssd-lexar-240gb-sata-leitura-550mb-s-2-5-cinza-lnq100x240g-rnnnu_1691500306_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/472304/ssd-sata-lexar-240gb-2-5-leitura-550mb-s-cinza-lnq100x240g-rnnnu"
+  },
+  {
+    "productName": "SSD 480GB WD Green PC SN350, PCIe, NVMe, Leitura: 2400MB/s e Gravação: 1650MB/s - WDS480G2G0C",
+    "price": "R$ 289,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F147640%2Fssd-wd-green-pc-sn350-480gb-pcie-nvme-leitura-2400mb-s-escrita-900mb-s-wds480g2g0c_1612534888_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/147640/ssd-480gb-wd-green-pc-sn350-pcie-nvme-leitura-2400mb-s-e-gravacao-1650mb-s-wds480g2g0c"
+  },
+  {
+    "productName": "SSD SATA Rise Mode Line, 120GB, 2.5\", Leitura 535MB/s, Gravação 435MB/s, Preto - RM-SSD-120",
+    "price": "R$ 89,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F105104%2Fssd-rise-mode-gamer-line-120gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-120_ssd-rise-mode-gamer-line-120gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-120_1571227888_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/105104/ssd-sata-rise-mode-line-120gb-2-5-leitura-535mb-s-gravacao-435mb-s-preto-rm-ssd-120"
+  },
+  {
+    "productName": "SSD PCIe ADATA, 256GB, NVMe, Leitura: 2.400MB/s e Gravação: 1.800MB/s, Azul - ALEG-710-256GCS",
+    "price": "R$ 169,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F593419%2Fssd-pcie-adata-256gb-nvme-leitura-2-400mb-s-e-gravacao-1-800mb-s-azul-aleg-710-256gcs_1721929818_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/593419/ssd-pcie-adata-256gb-nvme-leitura-2-400mb-s-e-gravacao-1-800mb-s-azul-aleg-710-256gcs"
+  },
+  {
+    "productName": "SSD SATA Rise Mode Line, 240GB, 2.5\", Leitura 535MB/s, Gravação 435MB/s, Preto - RM-SSD-240",
+    "price": "R$ 129,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F105105%2Fssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233275_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/105105/ssd-sata-rise-mode-line-240gb-2-5-leitura-535mb-s-gravacao-435mb-s-preto-rm-ssd-240"
+  },
+  {
+    "productName": "SSD SATA Crucial BX500, 240GB, 2.5\", Leitura: 540MB/s e Gravação: 500MB/s, Preto - CT240BX500SSD1",
+    "price": "R$ 159,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F98544%2F98544_1537969934_index_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/98544/ssd-sata-crucial-bx500-240gb-2-5-leitura-540mb-s-e-gravacao-500mb-s-preto-ct240bx500ssd1"
+  },
+  {
+    "productName": "SSD Externo Portátil Kingston 1TB, USB 3.2, Leitura: 1.050MB/s e Gravação: 1.050MB/s - SXS1000/1000G",
+    "price": "R$ 514,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F476239%2Fssd-externo-portatil-kingston-1tb-usb-3-2-leitura-1-050mb-s-e-gravacao-1-050mb-s-sxs1000-1000g_1693847475_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/476239/ssd-externo-portatil-kingston-1tb-usb-3-2-leitura-1-050mb-s-e-gravacao-1-050mb-s-sxs1000-1000g"
+  },
+  {
+    "productName": "SSD Kingston NV2 250 GB, M.2 2280 PCIe, NVMe, Leitura: 3000 MB/s e Gravação: 1300 MB/s - SNV2S/250G",
+    "price": "R$ 199,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F380743%2Fssd-kingston-nv2-250-gb-m-2-2280-pcie-nvme-leitura-2100-mb-s-e-gravacao-1700-mb-s-snv2s-250g_1666032849_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/380743/ssd-kingston-nv2-250-gb-m-2-2280-pcie-nvme-leitura-3000-mb-s-e-gravacao-1300-mb-s-snv2s-250g"
+  },
+  {
+    "productName": "SSD Adata Legend 710, 512GB, M.2 2280 PCIe GEN3x4, NVMe 1.4, Leitura: 2.400 MB/s e Gravação: 1.800 MB/s, Azul - ALEG-710-512GCS",
+    "price": "R$ 219,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F415885%2Fssd-adata-legend-710-512gb-m-2-2280-pcie-gen3x4-nvme-1-4-leitura-2-400-mb-s-e-gravacao-1-800-mb-s-azul-aleg-710-512gcs_1675085973_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/415885/ssd-adata-legend-710-512gb-m-2-2280-pcie-gen3x4-nvme-1-4-leitura-2-400-mb-s-e-gravacao-1-800-mb-s-azul-aleg-710-512gcs"
+  },
+  {
+    "productName": "SSD 128GB KBM! Gaming, SATA III, leitura 500mbs/ Gravacao 450mbs - KGSSD110128",
+    "price": "R$ 89,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F538704%2Fssd-128gb-kbm-gaming-sata-iii-leitura-500mbs-gravacao-450mbs-kgssd110128_1718387053_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/538704/ssd-128gb-kbm-gaming-sata-iii-leitura-500mbs-gravacao-450mbs-kgssd110128"
+  },
+  {
+    "productName": "Processador Intel Core i7-14700K, 14ª Geração, 5.6 GHz Max Turbo, Cache 33MB, 20 Núcleos, 28 Threads, LGA1700 - BX8071514700K",
+    "price": "R$ 2.697,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F497575%2Fprocessador-intel-core-i7-14700k-bx8071514700k_1697722245_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/497575/processador-intel-core-i7-14700k-14-geracao-5-6-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga1700-bx8071514700k"
+  },
+  {
+    "productName": "Processador Intel Core i7-14700KF, 14ª Geração, 5.6 GHz Max Turbo, Cache 33MB, 20 Núcleos, 28 Threads, LGA1700 - BX8071514700KF",
+    "price": "R$ 2.799,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F497577%2Fprocessador-intel-core-i7-14700kf-bx8071514700kf_1697722906_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/497577/processador-intel-core-i7-14700kf-14-geracao-5-6-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga1700-bx8071514700kf"
+  },
+  {
+    "productName": "Processador Intel I7-12700F 12ª Geração, 2.1GHz Turbo, Cache 25MB, Dual Core, 20 Threads, LGA 1700 - BX8071512700F",
+    "price": "R$ 2.069,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F352516%2FProcessador-Intel-I7-12700F-12-Gera-o-2-1GHz-Turbo-Cache-25MB-Dual-Core-20-Threads-LGA-1700-BX8071512700F_1724172571_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/352516/processador-intel-i7-12700f-12-geracao-2-1ghz-turbo-cache-25mb-dual-core-20-threads-lga-1700-bx8071512700f"
+  },
+  {
+    "productName": "Processador Intel Core I7-10700F 10ª Geração, 2.9GHz (4.8GHz Turbo), Cache 16MB, 16 Threads, LGA 1200 - BX8070110700F.",
+    "price": "R$ 1.499,29",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F158272%2FProcessador-Intel-Core-I7-10700F-10-Gera-o-2-9GHz-4-8GHz-Turbo-Cache-16MB-16-Threads-LGA-1200-BX8070110700F-_1723486881_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/158272/processador-intel-core-i7-10700f-10-geracao-2-9ghz-4-8ghz-turbo-cache-16mb-16-threads-lga-1200-bx8070110700f-"
+  },
+  {
+    "productName": "Processador Intel Core I7-12700K, 3.6GHz (5.0GHz Max Turbo), Cache 25MB, LGA 1700 - BX8071512700K",
+    "price": "R$ 1.999,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F270886%2FProcessador-Intel-Core-I7-12700K-3-6GHz-5-0GHz-Max-Turbo-Cache-25MB-LGA-1700-BX8071512700K_1710370091_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/270886/processador-intel-core-i7-12700k-3-6ghz-5-0ghz-max-turbo-cache-25mb-lga-1700-bx8071512700k"
+  },
+  {
+    "productName": "Processador Intel Core I7 3770 3ª Geração, 3.40GHz, Quad Core, 8 Threads, FCLGA 1155, OEM",
+    "price": "R$ 306,81",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F367680%2FProcessador-Intel-Core-I7-3770-3-Gera-o-3-40GHz-Quad-Core-8-Threads-FCLGA-1155-OEM_1674577703_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/367680/processador-intel-core-i7-3770-3-geracao-3-40ghz-quad-core-8-threads-fclga-1155-oem"
+  },
+  {
+    "productName": "Processador Intel I7-12700KF, 3.6GHz 5.0GHz Max Turbo, Cache 25MB, Dual Core, 20 Threads, LGA 1700 - BX8071512700KF",
+    "price": "R$ 1.867,37",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F270887%2FProcessador-Intel-I7-12700KF-3-6GHz-5-0GHz-Max-Turbo-Cache-25MB-Dual-Core-20-Threads-LGA-1700-BX8071512700KF_1722272991_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/270887/processador-intel-i7-12700kf-3-6ghz-5-0ghz-max-turbo-cache-25mb-dual-core-20-threads-lga-1700-bx8071512700kf"
+  },
+  {
+    "productName": "Processador Intel Core I7 7700, 3.60GHz 7ª Geração, Cache 8MB, 8 Threads - OEM - 1151",
+    "price": "R$ 672,86",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F425201%2FProcessador-Intel-Core-I7-7700-3-60GHz-7-Gera-o-Cache-8MB-8-Threads-OEM-1151_1724095639_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/425201/processador-intel-core-i7-7700-3-60ghz-7-geracao-cache-8mb-8-threads-oem-1151"
+  },
+  {
+    "productName": "Processador Intel Core i7-13700, 5.2GHz Max Turbo, Cache 30MB, 16 Núcleos, 24 Threads, LGA 1700, Vídeo Integrado - BX8071513700",
+    "price": "R$ 2.525,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F405762%2Fprocessador-intel-core-i7-13700-5-2ghz-max-turbo-cache-30mb-16-nucleos-24-threads-lga-1700-video-integrado-bx8071513700_1672684601_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/405762/processador-intel-core-i7-13700-5-2ghz-max-turbo-cache-30mb-16-nucleos-24-threads-lga-1700-video-integrado-bx8071513700"
+  },
+  {
+    "productName": "Processador Intel Core I7-14700f, Turbo Até 5.4ghz, 20-cores, 28-threads, 33mb Cache, LGA 1700 - Bx8071514700f",
+    "price": "R$ 2.758,17",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F520106%2FProcessador-Intel-Core-I7-14700f-Turbo-At-5-4ghz-20-cores-28-threads-33mb-Cache-LGA-1700-Bx8071514700f_1724131246_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/520106/processador-intel-core-i7-14700f-turbo-ate-5-4ghz-20-cores-28-threads-33mb-cache-lga-1700-bx8071514700f"
+  },
+  {
+    "productName": "Processador Intel I7 12700 12ª Geração, 2.1GHz, Cache 25MB, Dual Core, 20 Threads, LGA 1700 - BX8071512700",
+    "price": "R$ 2.000,72",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F339790%2FProcessador-Intel-I7-12700-12-Gera-o-2-1GHz-Cache-25MB-Dual-Core-20-Threads-LGA-1700-BX8071512700_1722453287_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/339790/processador-intel-i7-12700-12-geracao-2-1ghz-cache-25mb-dual-core-20-threads-lga-1700-bx8071512700"
+  },
+  {
+    "productName": "Processador Intel Core I7 I7-4770 3.4GHZ LGA 1150 Cache 8MB",
+    "price": "R$ 320,10",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F618222%2FProcessador-Intel-Core-I7-I7-4770-3-4GHZ-LGA-1150-Cache-8MB_1722532267_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/618222/processador-intel-core-i7-i7-4770-3-4ghz-lga-1150-cache-8mb"
+  },
+  {
+    "productName": "Processador Intel Core i7 10700 2.90GHz",
+    "price": "R$ 1.997,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fmagalu%2F496252%2FProcessador-Intel-Core-i7-10700-2-90GHz_1695902653_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/496252/processador-intel-core-i7-10700-2-90ghz"
+  },
+  {
+    "productName": "Processador Intel Core I7-3770, 3.40GHz, Smart Cache 8MB, LGA 1155, 8 Threads, OEM",
+    "price": "R$ 351,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F345256%2FProcessador-Intel-Core-I7-3770-3-40GHz-Smart-Cache-8MB-LGA-1155-8-Threads-OEM_1713982866_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/345256/processador-intel-core-i7-3770-3-40ghz-smart-cache-8mb-lga-1155-8-threads-oem"
+  },
+  {
+    "productName": "Processador Intel Core I7-4770, 40GHz, Quad Core, LGA 1150, OEM",
+    "price": "R$ 386,96",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F346361%2FProcessador-Intel-Core-I7-4770-40GHz-Quad-Core-LGA-1150-OEM_1712947103_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/346361/processador-intel-core-i7-4770-40ghz-quad-core-lga-1150-oem"
+  },
+  {
+    "productName": "Processador Intel I7-8700 / 4,6ghz / 12mb Cache / Fclga1151",
+    "price": "R$ 959,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F502889%2FProcessador-Intel-I7-8700-4-6ghz-12mb-Cache-Fclga1151_1697744324_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/502889/processador-intel-i7-8700-4-6ghz-12mb-cache-fclga1151"
+  },
+  {
+    "productName": "Processador Intel Core I7-11700K 11ª Geração, 3.6GHz (4.9GHz Turbo), Cache 16MB, LGA 1200 - BX8070811700K",
+    "price": "R$ 2.159,10",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F229973%2FProcessador-Intel-Core-I7-11700K-11-Gera-o-3-6GHz-4-9GHz-Turbo-Cache-16MB-LGA-1200-BX8070811700K_1719250160_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/229973/processador-intel-core-i7-11700k-11-geracao-3-6ghz-4-9ghz-turbo-cache-16mb-lga-1200-bx8070811700k"
+  },
+  {
+    "productName": "Processador Intel Celeron G5905, 4MB, 3.5ghz, LGA 1200, Bx80701g5905",
+    "price": "R$ 396,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F169602%2FProcessador-Intel-Celeron-G5905-4MB-3-5ghz-LGA-1200-Bx80701g5905_1719948502_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/169602/processador-intel-celeron-g5905-4mb-3-5ghz-lga-1200-bx80701g5905"
+  },
+  {
+    "productName": "Processador Intel 11700F Core I7 11ª Geração, 2.50GHz, Box - BX8070811700F.",
+    "price": "R$ 2.005,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F169601%2FProcessador-Intel-11700F-Core-I7-11-Gera-o-2-50GHz-Box-BX8070811700F-_1724148043_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/169601/processador-intel-11700f-core-i7-11-geracao-2-50ghz-box-bx8070811700f-"
+  },
+  {
+    "productName": "Processador Intel Core i7 10700K 3.80GHz",
+    "price": "R$ 2.132,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fmagalu%2F496626%2FProcessador-Intel-Core-i7-10700K-3-80GHz_1695921696_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/496626/processador-intel-core-i7-10700k-3-80ghz"
+  },
+  {
+    "productName": "Placa de Vídeo RX 6600 CLD 8G ASRock AMD Radeon, 8GB, GDDR6 - 90-GA2RZZ-00UANF",
+    "price": "R$ 1.398,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F235984%2Fplaca-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738812_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/235984/placa-de-video-rx-6600-cld-8g-asrock-amd-radeon-8gb-gddr6-90-ga2rzz-00uanf"
+  },
+  {
+    "productName": "Placa de Vídeo RX 6650XT XFX Speedster SWFT210 AMD Radeon, 8GB GDDR6, HDMI 3xDP 2 FAN - RX-665X8DFDY",
+    "price": "R$ 1.599,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F576421%2Fplaca-de-video-rx-6650xt-xfx-speedster-swft210-radeon-8gb-gddr6-hdmi-3xdp-2-fan-rx-665x8dfdy_1719604625_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/576421/placa-de-video-rx-6650xt-xfx-speedster-swft210-amd-radeon-8gb-gddr6-hdmi-3xdp-2-fan-rx-665x8dfdy"
+  },
+  {
+    "productName": "Placa de Vídeo RX 7600 GAMING OC 8G AMD Radeon Gigabyte, 8GB GDDR6, 128bits, RGB - GV-R76GAMING OC-8GD",
+    "price": "R$ 1.869,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F475647%2Fplaca-de-video-rx-7600-gaming-oc-8g-radeon-gigabyte-8gb-gddr6-128bits-rgb-gv-r76gaming-oc-8gd_1698435450_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/475647/placa-de-video-rx-7600-gaming-oc-8g-amd-radeon-gigabyte-8gb-gddr6-128bits-rgb-gv-r76gaming-oc-8gd"
+  },
+  {
+    "productName": "Placa de Vídeo RX 6750XT Gaming XFX Graphics Card AMD Radeon, 12GB GDDR6, Ray tracing, Fidelity FX - RX-675TMBAF9",
+    "price": "R$ 2.299,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F528811%2Fplaca-de-video-rx-6750xt-gaming-graphics-card-amd-radeon-12gb-gddr6-ray-tracing-fidelity-fx-rx-675tmbaf9_1712004223_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/528811/placa-de-video-rx-6750xt-gaming-xfx-graphics-card-amd-radeon-12gb-gddr6-ray-tracing-fidelity-fx-rx-675tmbaf9"
+  },
+  {
+    "productName": "Placa de Vídeo RX 570 Phantom Gaming Elite ASRock AMD Radeon, 8GB GDDR5, HDR, FreeSync - 90-GA2PZZ-00UANF",
+    "price": "R$ 799,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F476798%2Fplaca-de-video-rx-570-phantom-gaming-elite-asrock-amd-radeon-8gb-gddr5-hdr-freesync-90-ga2pzz-00uanf_1696946033_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/476798/placa-de-video-rx-570-phantom-gaming-elite-asrock-amd-radeon-8gb-gddr5-hdr-freesync-90-ga2pzz-00uanf"
+  },
+  {
+    "productName": "Placa de Vídeo Gigabyte Radeon RX 6600 EAGLE AMD, 8GB GDDR6, Preto - GV-R66EAGLE-8GD",
+    "price": "R$ 1.438,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F246836%2Fplaca-de-video-gigabyte-radeon-rx-6600-eagle-8gb-gddr6-preto-gv-r66eagle-8gd_1634155420_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/246836/placa-de-video-gigabyte-radeon-rx-6600-eagle-amd-8gb-gddr6-preto-gv-r66eagle-8gd"
+  },
+  {
+    "productName": "Placa de Vídeo RX 6600 8G-V3 Dual ASUS AMD Radeon, 8GB GDDR6 - 90YV0GP3-M0NA00",
+    "price": "R$ 1.448,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F583156%2Fplaca-de-video-rx6600-8g-v3-dual-asus-amd-radeon-8gb-gddr6-90yv0gp3-m0na00_1722359155_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/583156/placa-de-video-rx-6600-8g-v3-dual-asus-amd-radeon-8gb-gddr6-90yv0gp3-m0na00"
+  },
+  {
+    "productName": "Placa de Vídeo RX 550 AMD PCYes Dual Fan Projeto Edge, 4GB GDDR5, 128 BITS - PVEX5504GBDF",
+    "price": "R$ 519,98",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F525880%2Fplaca-de-video-rx-550-amd-pcyes-dual-fan-projeto-edge-4gb-gddr5-128-bits-pvex5504gbdf_1709840921_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/525880/placa-de-video-rx-550-amd-pcyes-dual-fan-projeto-edge-4gb-gddr5-128-bits-pvex5504gbdf"
+  },
+  {
+    "productName": "Placa de Vídeo RX 7800XT Gaming 16G XFX Speedster QICK319 AMD Radeon, 16GB DDR6, HDMI 3xDP 3 FAN - RX-78TQICKF9",
+    "price": "R$ 3.479,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F576423%2Fplaca-de-video-rx-7800xt-gaming-16g-xfx-speedster-qick319-radeon-16gb-ddr6-hdmi-3xdp-3-fan-rx-78tqickf9_1719595732_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/576423/placa-de-video-rx-7800xt-gaming-16g-xfx-speedster-qick319-amd-radeon-16gb-ddr6-hdmi-3xdp-3-fan-rx-78tqickf9"
+  },
+  {
+    "productName": "Placa de Vídeo RX 6600 XFX Core Gaming Speedster SWFT 210 AMD Radeon Graphics Card, 8GB GDDR6, AMD RDNA 2 - RX-66XL8LFDQ",
+    "price": "R$ 1.389,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F261040%2Fplaca-de-video-xfx-speedster-swft-210-amd-radeon-rx-6600-core-gaming-graphics-card-8gb-gddr6-amd-rdna-2-rx-66xl8lfdq_1637668357_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/261040/placa-de-video-rx-6600-xfx-core-gaming-speedster-swft-210-amd-radeon-graphics-card-8gb-gddr6-amd-rdna-2-rx-66xl8lfdq"
+  },
+  {
+    "productName": "Placa de Vídeo RX 7700 XT Gaming OC Gigabyte AMD, 12GB GDDR6, RGB, 192 Bits - GV-R77XTGAMING OC-12GD",
+    "price": "R$ 3.199,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F495213%2Fplaca-de-video-rx-7700-xt-gaming-oc-gigabyte-amd-12gb-gddr6-rgb-192-bits-gv-r77xtgaming-oc-12gd_1699377762_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/495213/placa-de-video-rx-7700-xt-gaming-oc-gigabyte-amd-12gb-gddr6-rgb-192-bits-gv-r77xtgaming-oc-12gd"
+  },
+  {
+    "productName": "Placa de Vídeo RX 7600 Steel Legend ASRock AMD Radeon, 8GB GDDR6, ARGB - 90-GA4DZZ-00UANF",
+    "price": "R$ 2.099,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F459143%2Fplaca-de-video-rx-7600-steel-legend-asrock-amd-radeon-8gb-gddr6-argb-90-ga4dzz-00uanf_1685544195_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/459143/placa-de-video-rx-7600-steel-legend-asrock-amd-radeon-8gb-gddr6-argb-90-ga4dzz-00uanf"
+  },
+  {
+    "productName": "Placa de Vídeo RX 7700 XT Phantom Gaming 12G OC ASRock AMD Radeon, 12GB, GDDR6, Ray Tracing - 90-GA4LZZ-00UANF",
+    "price": "R$ 3.299,98",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F482462%2Fplaca-de-video-rx-7700-xt-phantom-gaming-12g-oc-asrock-amd-radeon-rx7700xt-pg-12go-90-ga4lzz-00uanf_1694011342_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/482462/placa-de-video-rx-7700-xt-phantom-gaming-12g-oc-asrock-amd-radeon-12gb-gddr6-ray-tracing-90-ga4lzz-00uanf"
+  },
+  {
+    "productName": "Placa De Vídeo BRX, AMD RX 580, 8GB, GDDR5, 256Bit, VGA",
+    "price": "R$ 807,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F459997%2FPlaca-De-V-deo-BRX-AMD-RX-580-8GB-GDDR5-256Bit-VGA_1722378077_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/459997/placa-de-video-brx-amd-rx-580-8gb-gddr5-256bit-vga"
+  },
+  {
+    "productName": "Placa de Vídeo Afox AMD Radeon R5 220, 2GB, DDR3, 64Bits - AFR5220-2048D3L9-V2",
+    "price": "R$ 122,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F179284%2FPlaca-de-V-deo-Afox-AMD-Radeon-R5-220-2GB-DDR3-64Bits-AFR5220-2048D3L9-V2_1724168971_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/179284/placa-de-video-afox-amd-radeon-r5-220-2gb-ddr3-64bits-afr5220-2048d3l9-v2"
+  },
+  {
+    "productName": "Placa de Vídeo RX 7800 XT Gaming OC Gigabyte AMD, 16GB GDDR6, RGB, 256 Bits - GV-R78XTGAMING OC-16GD",
+    "price": "R$ 3.899,98",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F495214%2Fplaca-de-video-rx-7800-xt-gaming-oc-gigabyte-amd-16gb-gddr6-rgb-256-bits-gv-r78xtgaming-oc-16gd_1701438225_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/495214/placa-de-video-rx-7800-xt-gaming-oc-gigabyte-amd-16gb-gddr6-rgb-256-bits-gv-r78xtgaming-oc-16gd"
+  },
+  {
+    "productName": "Placa de Vídeo R5 220 PCYes Projeto Edge Low Profile, AMD Radeon 2GB, DDR3 - PPER5DR3LPBR",
+    "price": "R$ 159,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F535162%2Fplaca-de-video-r5-220-pcyes-projeto-edge-low-profile-amd-radeon-2gb-ddr3-pper5dr3lpbr_1715358887_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/535162/placa-de-video-r5-220-pcyes-projeto-edge-low-profile-amd-radeon-2gb-ddr3-pper5dr3lpbr"
+  },
+  {
+    "productName": "Placa de Vídeo ASUS TUF Gaming AMD Radeon RX 7800 XT OC Edition, 16GB GDDR6, RGB, Ray Tracing - 90YV0JJ0-M0NA00",
+    "price": "R$ 4.059,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F520501%2Fplaca-de-video-rx-7800-xt-asus-tuf-o16g-gaming-16gb-gddr6-argb-90yv0jj0-m0na00_1711461336_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/520501/placa-de-video-asus-tuf-gaming-amd-radeon-rx-7800-xt-oc-edition-16gb-gddr6-rgb-ray-tracing-90yv0jj0-m0na00"
+  },
+  {
+    "productName": "Placa de Vídeo Afox AMD Radeon RX 550, 4GB GDDR5, 128 Bits - AFRX550-4096D5H4-V5",
+    "price": "R$ 459,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F191118%2FPlaca-de-V-deo-Afox-AMD-Radeon-RX-550-4GB-GDDR5-128-Bits-AFRX550-4096D5H4-V5_1720194732_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/191118/placa-de-video-afox-amd-radeon-rx-550-4gb-gddr5-128-bits-afrx550-4096d5h4-v5"
+  },
+  {
+    "productName": "Placa de Vídeo RX 7700XT Gaming 12G XFX Speedster QICK AMD Radeon, 12GB GDDR6, HDMI, 3xDP 3 FAN - RX-77TQICKB9",
+    "price": "R$ 3.699,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F576422%2Fplaca-de-video-rx-7700xt-gaming-12g-xfx-speedster-qick-radeon-12gb-gddr6-hdmi-3xdp-3-fan-rx-77tqickb9_1719587792_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/576422/placa-de-video-rx-7700xt-gaming-12g-xfx-speedster-qick-amd-radeon-12gb-gddr6-hdmi-3xdp-3-fan-rx-77tqickb9"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 4060 VENTUS 2x Black OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing",
+    "price": "R$ 1.949,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F469132%2Fplaca-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1688052210_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing"
+  },
+  {
+    "productName": "Placa de Vídeo MSI RTX 3050 Ventus 2X XS OC NVIDIA GeForce, 8GB GDDR6 - 912-V809-4266",
+    "price": "R$ 1.319,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F547108%2Fplaca-de-video-msi-rtx-3050-ventus-2x-xs-oc-nvidia-geforce-8gb-gddr6-912-v809-4266_1715967927_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/547108/placa-de-video-msi-rtx-3050-ventus-2x-xs-oc-nvidia-geforce-8gb-gddr6-912-v809-4266"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 3060 Ventus 2X MSI NVIDIA GeForce, 12GB GDDR6, DLSS, Ray Tracing - RTX 3060 Ventus 2X 12G OC",
+    "price": "R$ 1.899,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F384627%2Fplaca-de-video-msi-nvidia-geforce-rtx-3060-ventus-2x-12gb-gddr6-dlss-ray-tracing-912-v397-272_1663850312_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/384627/placa-de-video-rtx-3060-ventus-2x-msi-nvidia-geforce-12gb-gddr6-dlss-ray-tracing-rtx-3060-ventus-2x-12g-oc"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 4060 8G V2 Gaming ATS OC ASUS NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - 90YV0JM2-M0NA00",
+    "price": "R$ 2.269,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F550417%2Fplaca-de-video-rtx-4060-o8g-v2-gaming-ats-asus-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-90yv0jm2-m0na00_1719508167_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/550417/placa-de-video-rtx-4060-8g-v2-gaming-ats-oc-asus-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-90yv0jm2-m0na00"
+  },
+  {
+    "productName": "Placa de Vídeo RTX4060 1-Click OC 2X TecLab Lite GALAX NVIDIA GeForce, 8GB GDDR6, G-SYNC, DLSS, Ray Tracing",
+    "price": "R$ 2.069,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F520724%2Fplaca-de-video-rtx4060-1-click-oc-2x-teclab-lite-galax-nvidia-geforce-_1708435296_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/520724/placa-de-video-rtx4060-1-click-oc-2x-teclab-lite-galax-nvidia-geforce-8gb-gddr6-g-sync-dlss-ray-tracing"
+  },
+  {
+    "productName": "Placa De Vídeo RTX 4060 VENTUS 2x White Oc Msi NVIDIA Geforce, 8GB, GDDR6, DlSS, Ray Tracing - 912-v516-030",
+    "price": "R$ 1.889,90",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F499940%2FPlaca-De-V-deo-RTX-4060-VENTUS-2x-White-Oc-Msi-NVIDIA-Geforce-8GB-GDDR6-DlSS-Ray-Tracing-912-v516-030_1718984719_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/499940/placa-de-video-rtx-4060-ventus-2x-white-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-912-v516-030"
+  },
+  {
+    "productName": "Placa de Vídeo GTX 1650 D6 Ventus XS OCV3 MSI NVIDIA GeForce, 4GB GDDR6, G- Sync - 912-V812-003",
+    "price": "R$ 889,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F538895%2Fplaca-de-video-gtx-1650-d6-ventus-xs-ocv3-msi-nvidia-geforce-4gb-gddr6-912-v812-003_1711386727_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/538895/placa-de-video-gtx-1650-d6-ventus-xs-ocv3-msi-nvidia-geforce-4gb-gddr6-g-sync-912-v812-003"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 4060 AERO OC Gigabyte NVIDIA GeForce, 8GB GDDR6, RGB, DLSS, Ray Tracing, Branco - GV-N4060AERO OC-8GD",
+    "price": "R$ 2.358,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F470985%2Fplaca-de-video-rtx-4060-aero-oc-gigabyte-nvidia-geforce-8gb-gddr6-rgb-dlss-ray-tracing-branco-gv-n4060aero-oc-8gd_1688049511_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/470985/placa-de-video-rtx-4060-aero-oc-gigabyte-nvidia-geforce-8gb-gddr6-rgb-dlss-ray-tracing-branco-gv-n4060aero-oc-8gd"
+  },
+  {
+    "productName": "Placa de vídeo RTX 3050 EX Galax NVIDIA GeForce, 6GB GDDR6. DLSS, Ray Tracing, G-Sync - 527200-0119",
+    "price": "R$ 1.219,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F518721%2Fplaca-de-video-rtx-3050-ex-galax-nvidia-geforce-6gb-gddr6-527200-0119_1707249669_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/518721/placa-de-video-rtx-3050-ex-galax-nvidia-geforce-6gb-gddr6-dlss-ray-tracing-g-sync-527200-0119"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 3050 Windforce OC Gigabyte NVIDIA GeForce, 6GB GDDR6, DLSS, Ray Tracing - GV-N3050WF2OC-6GD",
+    "price": "R$ 1.209,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F587378%2Fplaca-de-video-rtx-3050-windforce-oc-gigabyte-nvidia-geforce-6gb-gddr6-dlss-ray-tracing-gv-n3050wf2oc-6gd_1721922522_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/587378/placa-de-video-rtx-3050-windforce-oc-gigabyte-nvidia-geforce-6gb-gddr6-dlss-ray-tracing-gv-n3050wf2oc-6gd"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 4060 TI Ventus 2X Black 8G OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync",
+    "price": "R$ 2.629,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F473206%2Fplaca-de-video-rtx-4060-ti-ventus-2x-black-8g-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-_1691522292_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/473206/placa-de-video-rtx-4060-ti-ventus-2x-black-8g-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 4060 EAGLE OC Gigabyte NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing - GV-N4060EAGLE OC-8GD",
+    "price": "R$ 2.229,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F470987%2Fplaca-de-video-rtx-4060-eagle-oc-gigabyte-nvidia-geforce-8gb-gdrr6-dlss-ray-tracing-gv-n4060eagle-oc-8gd_1687981181_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/470987/placa-de-video-rtx-4060-eagle-oc-gigabyte-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-gv-n4060eagle-oc-8gd"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 4060 Ti OC Edition Asus TUF Gaming NVIDIA GeForce, 8 GB GDDR6, ARGB, DLSS - TUF-RTX4060TI-O8G-GAMING",
+    "price": "R$ 2.959,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F461388%2Fplaca-de-video-rtx-4060-ti-asus-tuf-o8g-gaming-tuf-rtx4060ti-o8g-gaming_1684871390_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/461388/placa-de-video-rtx-4060-ti-oc-edition-asus-tuf-gaming-nvidia-geforce-8-gb-gddr6-argb-dlss-tuf-rtx4060ti-o8g-gaming"
+  },
+  {
+    "productName": "Placa de vídeo RTX 4060 ASUS Dual 8G EVO OC NVIDIA GeForce, 8GB GDDR6, G-SYNC, Ray Tracing - 90YV0JC7-M0NA00",
+    "price": "R$ 2.099,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F522531%2Fplaca-de-video-rtx-4060-asus-dual-o8g-evo-nvidia-geforce-8gb-gddr6-g-sync-ray-tracing-90yv0jc7-m0na00_1711036187_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/522531/placa-de-video-rtx-4060-asus-dual-8g-evo-oc-nvidia-geforce-8gb-gddr6-g-sync-ray-tracing-90yv0jc7-m0na00"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 4070 Super Gigabyte Windforce NVIDIA GeForce, 12GB GDDR6X, DLSS, Ray Tracing - GV-N407SWF3OC-12GD",
+    "price": "R$ 4.379,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F517751%2Fplaca-de-video-rtx-4070-super-gigabyte-windforce-nvidia-geforce-12gb-gddr6-dlss-ray-tracing-gv-n407swf3-12gd_1707245338_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/517751/placa-de-video-rtx-4070-super-gigabyte-windforce-nvidia-geforce-12gb-gddr6x-dlss-ray-tracing-gv-n407swf3oc-12gd"
+  },
+  {
+    "productName": "Placa de Vídeo Galax NVIDIA GeForce GTX 1650 EX Plus (1-Click OC), 4GB, GDDR6 - 65SQL8DS93E1",
+    "price": "R$ 899,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F115753%2Fplaca-de-video-galax-nvidia-geforce-gtx-1650-ex-plus-1-click-oc-4gb-gddr6-65sql8ds93e1_1596552493_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/115753/placa-de-video-galax-nvidia-geforce-gtx-1650-ex-plus-1-click-oc-4gb-gddr6-65sql8ds93e1"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 3060 1-Click OC Galax NVIDIA GeForce, 12GB GDDR6, LHR, DLSS, Ray Tracing - 36NOL7MD1VOC",
+    "price": "R$ 1.929,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F150657%2Fplaca-de-video-galax-geforce-rtx-3060-1-click-oc-15-gbps-12gb-gddr6-ray-tracing-dlss-36nol7md1voc_1614253646_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/150657/placa-de-video-rtx-3060-1-click-oc-galax-nvidia-geforce-12gb-gddr6-lhr-dlss-ray-tracing-36nol7md1voc"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 4060 Ti Click OC Galax NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing - 46ISL8MD8COC",
+    "price": "R$ 2.699,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F462199%2Fplaca-de-video-rtx-4060-ti-click-oc-galax-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing-46isl8md8coc_1684931957_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/462199/placa-de-video-rtx-4060-ti-click-oc-galax-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing-46isl8md8coc"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 4060 Ti VENTUS 3X 8G OC MSI NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing",
+    "price": "R$ 2.729,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F461395%2Fplaca-de-video-rtx-4060-ti-ventus-msi-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing_1684770175_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/461395/placa-de-video-rtx-4060-ti-ventus-3x-8g-oc-msi-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing"
+  },
+  {
+    "productName": "Placa de Vídeo RTX 4070 Super Gigabyte Gaming OC NVIDIA GeForce, 12GB GDDR6, DLSS, Ray Tracing - GV-N407SGaming OC-12GD",
+    "price": "R$ 4.699,99",
+    "imageUrl": "https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F517749%2Fplaca-de-video-rtx-4070-super-gigabyte-gaming-oc-nvidia-geforce-12gb-gddr6-dlss-ray-tracing-gv-n407sgaming-oc-12gd_1707241123_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/517749/placa-de-video-rtx-4070-super-gigabyte-gaming-oc-nvidia-geforce-12gb-gddr6-dlss-ray-tracing-gv-n407sgaming-oc-12gd"
+  },
+  {
+    "productName": "Memória RAM XPG Lancer, RGB, 32GB (2x16GB), 6000MHz, DDR5, CL30, Preto - AX5U6000C3016G-DCLARBK",
+    "price": "R$ 909,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F526516%2Fmemoria-xpg-lancer-rgb-32gb-2x16gb-6000mhz-ddr5-cl30-preto-ax5u6000c3016g-dclarbk_1709753093_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/526516/memoria-ram-xpg-lancer-rgb-32gb-2x16gb-6000mhz-ddr5-cl30-preto-ax5u6000c3016g-dclarbk"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance, 16GB, DDR5 5200MHz, CL40, Preto - CMK16GX5M1B5200C40",
+    "price": "R$ 389,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F363887%2Fmemoria-gamer-corsair-vengeance-rgb-16gb-ddr5-5600mhz-preto-cmk16gx5m1b5200c40_1659711446_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/363887/memoria-ram-corsair-vengeance-16gb-ddr5-5200mhz-cl40-preto-cmk16gx5m1b5200c40"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance RGB, 32GB (2x16GB), 6200MHz, DDR5, CL36, Preto - CMH32GX5M2B6200C36",
+    "price": "R$ 1.079,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F382771%2Fmemoria-corsair-vengeance-rgb-32gb-6200mhz-ddr5-c36-preto-cmh32gx5m2b6200c36_1665504836_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/382771/memoria-ram-corsair-vengeance-rgb-32gb-2x16gb-6200mhz-ddr5-cl36-preto-cmh32gx5m2b6200c36"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance, 32GB (2X16GB), 6000MHz, DDR5, CL36, Preto - CMK32GX5M2E6000C36",
+    "price": "R$ 874,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F506124%2Fmemoria-corsair-vengeance-32gb-2x16gb-6000mhz-ddr5-c36-preto-cmk32gx5m2e6000c36_1703857836_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/506124/memoria-ram-corsair-vengeance-32gb-2x16gb-6000mhz-ddr5-cl36-preto-cmk32gx5m2e6000c36"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance, 64GB (2x32GB), 5200MHz, DDR5, CL40, Preto - CMK64GX5M2B5200C40",
+    "price": "R$ 1.299,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F308595%2Fmemoria-corsair-vengeance-64gb-2x32gb-5200hz-ddr5-cl40-preto-cmk64gx5m2b5200c40_1648556308_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/308595/memoria-ram-corsair-vengeance-64gb-2x32gb-5200mhz-ddr5-cl40-preto-cmk64gx5m2b5200c40"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance, RGB, 32GB(2X16GB), 5200MHz, DDR5, CL40, Preto - CMH32GX5M2B5200Z40K",
+    "price": "R$ 799,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F422342%2Fmemoria-corsair-vengeance-rgb-32gb-2x16gb-5200mhz-ddr5-c40-preto-cmh32gx5m2b5200z40k_1677507901_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/422342/memoria-ram-corsair-vengeance-rgb-32gb-2x16gb-5200mhz-ddr5-cl40-preto-cmh32gx5m2b5200z40k"
+  },
+  {
+    "productName": "Memória RAM Kingston Fury Beast, RGB, 32GB (2x16GB), 6000MHz, DDR5, CL40, Preto - KF560C40BBAK2-32",
+    "price": "R$ 1.039,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F388095%2Fmemoria-kingston-fury-beast-rgb-32gb-6000mhz-ddr5-cl40-preto-kf560c40bbak2-32_1666094293_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/388095/memoria-ram-kingston-fury-beast-rgb-32gb-2x16gb-6000mhz-ddr5-cl40-preto-kf560c40bbak2-32"
+  },
+  {
+    "productName": "Memória RAM Rise Mode Z, 16GB, 4800MHz, DDR5, CL40, Preto - RM-D5-16G-4800Z",
+    "price": "R$ 329,98",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F442740%2Fmemoria-rise-mode-z-16gb-4800mhz-ddr5-cl40-preto-rm-d5-16g-4800z_1686598322_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/442740/memoria-ram-rise-mode-z-16gb-4800mhz-ddr5-cl40-preto-rm-d5-16g-4800z"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance RGB, 32GB (2x16GB), 5200MHz, DDR5, CL40, Preto - CMH32GX5M2B5200C40",
+    "price": "R$ 744,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F583184%2Fmemoria-ram-corsair-vengeance-rgb-32gb-2x16gb-5200mhz-ddr5-cl40-preto-cmh32gx5m2b5200c40_1722516067_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/583184/memoria-ram-corsair-vengeance-rgb-32gb-2x16gb-5200mhz-ddr5-cl40-preto-cmh32gx5m2b5200c40"
+  },
+  {
+    "productName": "Memória RAM XPG Lancer, RGB, 16GB, 6000MHz, DDR5, CL30, Preto - AX5U6000C3016G-CLARBK",
+    "price": "R$ 494,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F526515%2Fmemoria-xpg-lancer-rgb-16gb-6000mhz-ddr5-cl30-preto-ax5u6000c3016g-clarbk_1709750020_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/526515/memoria-ram-xpg-lancer-rgb-16gb-6000mhz-ddr5-cl30-preto-ax5u6000c3016g-clarbk"
+  },
+  {
+    "productName": "Memória RAM para Notebook Kingston Fury Impact, 16GB, 4800MHz, DDR5, CL38 - KF548S38IB-16",
+    "price": "R$ 409,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F404834%2Fmemoria-kingston-fury-impact-16gb-4800mt-s-ddr5-cl38-para-notebook-kf548s38ib-16_1682597984_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/404834/memoria-ram-para-notebook-kingston-fury-impact-16gb-4800mhz-ddr5-cl38-kf548s38ib-16"
+  },
+  {
+    "productName": "Memória RAM para Notebook Kingston Fury Impact, 8GB, 4800MHz, DDR5, CL38 - KF548S38IB-8",
+    "price": "R$ 252,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F404832%2Fmemoria-kingston-fury-impact-8gb-4800mt-s-ddr5-cl38-para-notebook-kf548s38ib-8_1682430542_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/404832/memoria-ram-para-notebook-kingston-fury-impact-8gb-4800mhz-ddr5-cl38-kf548s38ib-8"
+  },
+  {
+    "productName": "Memória RAM Kingston Fury Beast RGB, 16GB (2x8GB), 6000MHz, DDR5, CL40, para Intel XMP, Preto - KF560C40BBAK2-16",
+    "price": "R$ 699,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F388093%2Fmemoria-kingston-fury-beast-rgb-16gb-6000mhz-ddr5-cl40-preto-kf560c40bbak2-16_1666118973_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/388093/memoria-ram-kingston-fury-beast-rgb-16gb-2x8gb-6000mhz-ddr5-cl40-para-intel-xmp-preto-kf560c40bbak2-16"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance, 16GB, DDR5 5600MHz, CL40, Preto - CMK16GX5M1B5600C40",
+    "price": "R$ 499,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F363894%2Fmemoria-gamer-corsair-vengeance-16gb-ddr5-5600mhz-c40-preto-cmk16gx5m1b5600c40_1659716158_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/363894/memoria-ram-corsair-vengeance-16gb-ddr5-5600mhz-cl40-preto-cmk16gx5m1b5600c40"
+  },
+  {
+    "productName": "Memória RAM Rise Mode Z, 32GB, 4800MHz, DDR5, CL40, Preto - RM-D5-32G-4800Z",
+    "price": "R$ 544,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F442741%2Fmemoria-rise-mode-z-32gb-4800mhz-ddr5-cl40-preto-rm-d5-32g-4800z_1686600898_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/442741/memoria-ram-rise-mode-z-32gb-4800mhz-ddr5-cl40-preto-rm-d5-32g-4800z"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance, 32GB (2x16GB), 5600MHz, DDR5, CL36, Preto - CMK32GX5M2B5600C36",
+    "price": "R$ 904,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F286797%2Fmemoria-corsair-vengeance-32gb-2x16gb-5600mhz-ddr5-cl36-preto-cmk32gx5m2b5600c36_1639586432_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/286797/memoria-ram-corsair-vengeance-32gb-2x16gb-5600mhz-ddr5-cl36-preto-cmk32gx5m2b5600c36"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance, 32GB (2x16GB), 4800MHz, DDR5, CL40, Preto - CMK32GX5M2A4800C40",
+    "price": "R$ 729,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F282207%2Fmemoria-corsair-vengeance-32gb-2x16gb-4800hz-ddr5-cl40-preto-cmk32gx5m2a4800c40_1644334909_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/282207/memoria-ram-corsair-vengeance-32gb-2x16gb-4800mhz-ddr5-cl40-preto-cmk32gx5m2a4800c40"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance, 32GB, 5600MHz, DDR5, CL40, Preto - CMK32GX5M1B5600C40",
+    "price": "R$ 719,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F388479%2Fmemoria-corsair-vengeance-32gb-5600mhz-ddr5-c40-preto-cmk32gx5m1b5600c40_1710791930_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/388479/memoria-ram-corsair-vengeance-32gb-5600mhz-ddr5-cl40-preto-cmk32gx5m1b5600c40"
+  },
+  {
+    "productName": "Memória RAM XPG Lancer, RGB, 32GB (2x16GB), 5200MHz, DDR5, CL38 - AX5U5200C3816G-DCLARBK",
+    "price": "R$ 829,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F301107%2Fmemoria-xpg-lancer-rgb-32gb-2x16gb-5200mhz-ddr5-cl38-ax5u5200c3816g-dclarbk_1642685341_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/301107/memoria-ram-xpg-lancer-rgb-32gb-2x16gb-5200mhz-ddr5-cl38-ax5u5200c3816g-dclarbk"
+  },
+  {
+    "productName": "Memória RAM Corsair Vengeance para AMD, 64GB (2x32GB), 5200MHz, DDR5, CL40, Preto - CMK64GX5M2B5200Z40",
+    "price": "R$ 1.299,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F385268%2Fmemoria-corsair-vengeance-ddr5-para-amd-64gb-5200mhz-ddr5-c40-preto-cmk64gx5m2b5200z40_1663964941_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/385268/memoria-ram-corsair-vengeance-para-amd-64gb-2x32gb-5200mhz-ddr5-cl40-preto-cmk64gx5m2b5200z40"
+  },
+  {
+    "productName": "Memória RAM Kingston Fury Beast, 8GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB/8",
+    "price": "R$ 169,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F172365%2Fmemoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270523_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/172365/memoria-ram-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8"
+  },
+  {
+    "productName": "Memória RAM Rise Mode Z, 8GB, 3200MHz, DDR4, CL19, Preto - RM-D4-8G-3200Z",
+    "price": "R$ 139,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F383892%2Fmemoria-ram-rise-mode-z-8gb-3200mhz-ddr4-cl15-preto-rm-d4-8g-3200z-_1667508635_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/383892/memoria-ram-rise-mode-z-8gb-3200mhz-ddr4-cl19-preto-rm-d4-8g-3200z"
+  },
+  {
+    "productName": "Memória RAM XPG Spectrix D35G, RGB, 16GB, 3200MHz, DDR4, CL16, Preto - AX4U320016G16A-SBKD35G",
+    "price": "R$ 264,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F474946%2Fmemoria-xpg-spectrix-d35g-rgb-16gb-3200mhz-ddr4-cl16-preto-ax4u320016g16a-sbkd35g_1700162057_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/474946/memoria-ram-xpg-spectrix-d35g-rgb-16gb-3200mhz-ddr4-cl16-preto-ax4u320016g16a-sbkd35g"
+  },
+  {
+    "productName": "Memória RAM XPG Gammix D35, 8GB, 3200MHz, DDR4, CL16, Preto - AX4U32008G16A-SBKD35",
+    "price": "R$ 165,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F474939%2Fmemoria-adata-xpg-gammix-d35-8gb-3200mhz-ddr4-cl16-preto-ax4u32008g16a-sbkd35-_1692884059_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/474939/memoria-ram-xpg-gammix-d35-8gb-3200mhz-ddr4-cl16-preto-ax4u32008g16a-sbkd35"
+  },
+  {
+    "productName": "Memória RAM Kingston Fury Beast, 16GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB1/16",
+    "price": "R$ 289,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F172366%2Fmemoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271100_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/172366/memoria-ram-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16"
+  },
+  {
+    "productName": "Memória RAM Gamer Husky Gaming Avalanche, 16GB, 3200MHz, DDR4, CL19, Preto - HGMF008",
+    "price": "R$ 199,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F162665%2Fmemoria-gamer-husky-gaming-avalanche-16gb-3200mhz-ddr4-cl19-hgmf008_1630604969_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/162665/memoria-ram-gamer-husky-gaming-avalanche-16gb-3200mhz-ddr4-cl19-preto-hgmf008"
+  },
+  {
+    "productName": "Memória RAM Para Notebook Kingston Fury Impact, 8GB, 3200MHz, DDR4, CL20 - KF432S20IB/8",
+    "price": "R$ 149,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F193299%2Fmemoria-kingston-fury-impact-8gb-3200mhz-ddr4-cl20-para-notebook-kf432s20ib-8_1630609661_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/193299/memoria-ram-para-notebook-kingston-fury-impact-8gb-3200mhz-ddr4-cl20-kf432s20ib-8"
+  },
+  {
+    "productName": "Memoria RAM Para Notebook Rise Mode Value, 8GB, 2666MHZ, DDR4, CL19 - RM-D4-8G-2666VN",
+    "price": "R$ 109,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F480400%2Fmemoria-gamer-rise-mode-value-8gb-2666mhz-ddr4-cl17-para-notebook-rm-d4-8g-2666vn_1703003116_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/480400/memoria-ram-para-notebook-rise-mode-value-8gb-2666mhz-ddr4-cl19-rm-d4-8g-2666vn"
+  },
+  {
+    "productName": "Memória RAM Gamer Husky Gaming Avalanche, 8GB, 3200MHz, DDR4, CL19, Preto - HGMF007",
+    "price": "R$ 129,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F162664%2Fmemoria-gamer-husky-gaming-avalanche-8gb-3200mhz-ddr4-cl19-hgmf007_1630604710_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/162664/memoria-ram-gamer-husky-gaming-avalanche-8gb-3200mhz-ddr4-cl19-preto-hgmf007"
+  },
+  {
+    "productName": "Memória RAM para Notebook Kingston Fury Impact, 16GB, 3200MHz, DDR4, CL20 - KF432S20IB/16",
+    "price": "R$ 279,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F193303%2Fmemoria-kingston-fury-impact-16gb-3200mhz-ddr4-cl20-para-notebook-kf432s20ib-16_1630960911_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/193303/memoria-ram-para-notebook-kingston-fury-impact-16gb-3200mhz-ddr4-cl20-kf432s20ib-16"
+  },
+  {
+    "productName": "Memória RAM XPG Spectrix D35G, RGB, 16GB, 3200MHz, DDR4, CL16, Branco - AX4U320016G16A-SWHD35G",
+    "price": "R$ 259,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F477150%2Fmemoria-xpg-spectrix-d35g-rgb-16gb-3200mhz-ddr4-cl16-branco-ax4u320016g16a-swhd35g_1695153931_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/477150/memoria-ram-xpg-spectrix-d35g-rgb-16gb-3200mhz-ddr4-cl16-branco-ax4u320016g16a-swhd35g"
+  },
+  {
+    "productName": "Memória RAM Kingston Fury Beast, RGB, 16GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB12A/16",
+    "price": "R$ 309,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F480529%2Fmemoria-kingston-fury-beast-rgb-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb12a-16_1698350317_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/480529/memoria-ram-kingston-fury-beast-rgb-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb12a-16"
+  },
+  {
+    "productName": "Memória RAM Husky Gaming, 8GB, 2666MHz, DDR4, CL19, Preto - HGMF001",
+    "price": "R$ 119,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F114222%2Fmemoria-gamer-husky-gaming-8gb-2666mhz-ddr4-cl19-preto-hgmf001_1701698159_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/114222/memoria-ram-husky-gaming-8gb-2666mhz-ddr4-cl19-preto-hgmf001"
+  },
+  {
+    "productName": "Memória RAM 8GB KBM! Gaming, 2666 MHz, DDR4, Cl19 - KGRM26000819PT",
+    "price": "R$ 119,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F483821%2Fmemoria-ram-8gb-kbm-gaming-2666-mhz-ddr4-cl19-kgrm26000819pt_1718386095_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/483821/memoria-ram-8gb-kbm-gaming-2666-mhz-ddr4-cl19-kgrm26000819pt"
+  },
+  {
+    "productName": "Memória RAM Gamer Husky Gaming, 16GB, 2666MHz, DDR4, CL19, Preto - HGMF002",
+    "price": "R$ 229,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F114223%2Fmemoria-gamer-husky-gaming-16gb-2666mhz-ddr4-cl19-preto-hgmf002_1701698686_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/114223/memoria-ram-gamer-husky-gaming-16gb-2666mhz-ddr4-cl19-preto-hgmf002"
+  },
+  {
+    "productName": "Memória RAM XPG Gammix D35, 16GB, 3200MHz, DDR4, CL16, Preto - AX4U320016G16A-SBKD35",
+    "price": "R$ 249,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F474941%2Fmemoria-adata-xpg-gammix-d35-16gb-3200mhz-ddr4-cl16-preto-ax4u320016g16a-sbkd35_1692885220_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/474941/memoria-ram-xpg-gammix-d35-16gb-3200mhz-ddr4-cl16-preto-ax4u320016g16a-sbkd35"
+  },
+  {
+    "productName": "Memória RAM Rise Mode Diamond 8GB, 3200MHz, DDR4, CL15, Branco - RM-D4-8G-3200D",
+    "price": "R$ 135,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F108317%2Fmemoria-rise-mode-diamond-8gb-3200mhz-ddr4-cl15-white-rm-d4-8g-3200d_1575891677_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/108317/memoria-ram-rise-mode-diamond-8gb-3200mhz-ddr4-cl15-branco-rm-d4-8g-3200d"
+  },
+  {
+    "productName": "Memória RAM para Notebook KABUM! TECH, 16GB, 3200MHz, DDR4, CL22 - KTRMN320016PT",
+    "price": "R$ 219,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F506114%2Fmemoria-16gb-kabum-tech-para-notebook-3200-mhz-ddr4-cl22-ktrmn320016pt_1711460533_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/506114/memoria-ram-para-notebook-kabum-tech-16gb-3200mhz-ddr4-cl22-ktrmn320016pt"
+  },
+  {
+    "productName": "Memória RAM 16GB KBM! Gaming, Preto, 3200 MHz, DDR4, CL22 - KGRM32001622PT",
+    "price": "R$ 214,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F483855%2Fmemoria-ram-16gb-kbm-gaming-preto-3200-mhz-ddr4-cl22-kgrm32001622pt_1718386485_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/483855/memoria-ram-16gb-kbm-gaming-preto-3200-mhz-ddr4-cl22-kgrm32001622pt"
+  },
+  {
+    "productName": "Memória RAM XPG Gammix D35, 16GB, 3200MHz, DDR4, CL16, Branco - AX4U320016G16A-SWHD35",
+    "price": "R$ 239,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F477149%2Fmemoria-xpg-gammix-d35-16gb-3200mhz-ddr4-cl16-branco-ax4u320016g16a-swhd35_1695153123_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/477149/memoria-ram-xpg-gammix-d35-16gb-3200mhz-ddr4-cl16-branco-ax4u320016g16a-swhd35"
+  }
+]

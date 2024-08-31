@@ -1,39 +1,73 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, TextInput, Button, Image, ScrollView, TouchableOpacity } from 'react-native';
 import * as ImagePicker from 'expo-image-picker';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 export default function ProfileScreen({ navigation }) {
-  const [name, setName] = useState('John Doe');
-  const [image, setImage] = useState('https://via.placeholder.com/150');
+  const [name, setName] = useState('');
+  const [image, setImage] = useState('');
+
+  useEffect(() => {
+    const loadProfile = async () => {
+      try {
+        const savedName = await AsyncStorage.getItem('profileName');
+        const savedImage = await AsyncStorage.getItem('profileImage');
+        if (savedName !== null) setName(savedName);
+        if (savedImage !== null) setImage(savedImage);
+      } catch (error) {
+        console.error('Failed to load profile', error);
+      }
+    };
+
+    loadProfile();
+  }, []);
 
   const handleImagePick = async () => {
-    let result = await ImagePicker.launchImageLibraryAsync({
-      mediaTypes: ImagePicker.MediaTypeOptions.Images,
-      allowsEditing: true,
-      aspect: [4, 3],
-      quality: 1,
-    });
-
-    if (!result.canceled) {
-      setImage(result.uri);
+    try {
+      let result = await ImagePicker.launchImageLibraryAsync({
+        mediaTypes: ImagePicker.MediaTypeOptions.Images,
+        allowsEditing: true,
+        aspect: [4, 3],
+        quality: 1,
+      });
+  
+      console.log('Image Picker Result:', result); // Log the result to inspect it
+  
+      if (!result.canceled) {
+        const uri = result.assets[0].uri;
+        console.log('Selected Image URI:', uri); // Log the URI to ensure it's valid
+        if (uri) {
+          setImage(uri);
+          await AsyncStorage.setItem('profileImage', uri);
+        }
+      }
+    } catch (error) {
+      console.error('Error picking image:', error);
     }
+  };
+  
+  
+
+  const handleNameChange = async (newName) => {
+    setName(newName);
+    await AsyncStorage.setItem('profileName', newName);
   };
 
   return (
     <ScrollView contentContainerStyle={styles.container}>
-      <Image source={{ uri: image }} style={styles.profileImage} />
-      <Button title="Edit Profile Picture" onPress={handleImagePick} />
+      <Image source={{ uri: image || 'https://via.placeholder.com/150' }} style={styles.profileImage} />
+      <Button title="Editar foto de perfil" onPress={handleImagePick} />
       <TextInput
         style={styles.input}
         value={name}
-        onChangeText={setName}
+        onChangeText={handleNameChange}
+        placeholder="Enter your name"
       />
-      {/* New Button */}
       <TouchableOpacity 
         style={styles.button} 
         onPress={() => navigation.navigate('YourBuildsScreen')}
       >
-        <Text style={styles.buttonText}>Your Builds</Text>
+        <Text style={styles.buttonText}>Seus PCs</Text>
       </TouchableOpacity>
     </ScrollView>
   );

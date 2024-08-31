@@ -4,10 +4,10 @@ import { View, Text, StyleSheet, Button } from 'react-native';
 export default function BuildingYourPC({ navigation }) {
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>Building Your PC</Text>
-      <Text>Here you will see the progress of building your PC.</Text>
+      <Text style={styles.header}>Montando seu PC</Text>
+      <Text>Aqui você pode selecionar peças.</Text>
       <Button
-        title="Start Building"
+        title="Comece a montar"
         onPress={() => navigation.navigate('PcBuild')}
       />
     </View>
