@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
-import { View, Text, StyleSheet, TextInput, Button, ScrollView, ActivityIndicator, TouchableOpacity, Image } from 'react-native';
-// Import your JSON data
-import hardwareData from '../web-scraping-api/controllers/updateAllHardwareData.json'; // Adjust the path to your JSON file
+import React, { useState, useEffect } from 'react';
+import { View, Text, StyleSheet, TextInput, Button, ScrollView, ActivityIndicator, TouchableOpacity } from 'react-native';
+import { useBuildContext } from '../contexts/BuildContext';
 
 export default function PcPartsSearchScreen({ navigation }) {
   const [searchQuery, setSearchQuery] = useState('');
@@ -9,38 +8,53 @@ export default function PcPartsSearchScreen({ navigation }) {
   const [results, setResults] = useState([]);
   const [error, setError] = useState(null);
 
-  // Function to tokenize text into words
-  const tokenize = (text) => text.toLowerCase().split(/\s+/);
+  // Function to extract CPU options from builds
+  const getCpuOptions = () => {
+    const cpuOptions = [];
+    for (const buildName in builds) {
+      const build = builds[buildName];
+      if (build.CPU) {
+        cpuOptions.push(build.CPU);
+      }
+    }
+    return cpuOptions;
+  };
 
-  // Function to handle search logic
+  // Handle search logic
   const handleSearch = () => {
     setLoading(true);
     setError(null);
 
     try {
-      const queryTokens = tokenize(searchQuery.trim());
-      if (queryTokens.length === 0) {
-        setError('Search query cannot be empty.');
-        setLoading(false);
-        return;
-      }
-
-      // Filter data based on whether any word in productName matches the search query
-      const filteredResults = hardwareData.filter(item => {
-        const productTokens = tokenize(item.productName);
-        return queryTokens.some(queryToken => productTokens.includes(queryToken));
-      });
+      const cpuOptions = getCpuOptions();
+      const query = searchQuery.toLowerCase().trim();
+      const filteredResults = cpuOptions.filter(cpu =>
+        cpu.productName.toLowerCase().includes(query)
+      );
 
       setResults(filteredResults);
 
       if (filteredResults.length === 0) {
         setError('No results found.');
       }
+
     } catch (err) {
+      console.error('Search error:', err); // Log do erro
       setError('Error performing search. Please try again.');
     } finally {
       setLoading(false);
     }
+
+  //     // Function to prepend base URL if needed
+  // const prependBaseUrl = (url) => {
+  //   const baseUrl = 'https://www.kabum.com.br';
+  //   if (url && !url.startsWith('http')) {
+  //     return `${baseUrl}${url}`;
+  //   }
+  //   return url;
+  // };
+
+  
   };
 
   return (
@@ -61,16 +75,10 @@ export default function PcPartsSearchScreen({ navigation }) {
             <TouchableOpacity
               key={index}
               style={styles.resultItem}
-              onPress={() => navigation.navigate('DetailScreen', { item })}
+              onPress={() => navigation.navigate('CpuDetailScreen', { cpu })}
             >
-              <Image
-                source={{ uri: item.imageUrl.startsWith('/') ? `https://www.kabum.com.br${item.imageUrl}` : item.imageUrl }}
-                style={styles.resultImage}
-              />
-              <View style={styles.resultTextContainer}>
-                <Text style={styles.resultText}>{item.productName}</Text>
-                <Text style={styles.resultText}>Price: {item.price}</Text>
-              </View>
+              <Text style={styles.resultText}>{cpu.productName}</Text>
+              <Text style={styles.resultText}>Price: {cpu.price}</Text>
             </TouchableOpacity>
           ))}
         </View>
@@ -118,6 +126,8 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     borderBottomColor: 'gray',
     borderBottomWidth: 1,
+    flexDirection: 'row',
+    alignItems: 'center',
   },
   resultImage: {
     width: 100,
@@ -130,10 +140,15 @@ const styles = StyleSheet.create({
   },
   resultText: {
     fontSize: 18,
+    marginLeft: 10,
   },
   noResults: {
     marginTop: 20,
     fontSize: 16,
     color: 'gray',
+  },
+  image: {
+    width: 50,
+    height: 50,
   },
 });
