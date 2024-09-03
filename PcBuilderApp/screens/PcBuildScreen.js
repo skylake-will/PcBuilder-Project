@@ -12,6 +12,9 @@ export default function PcBuildScreen({ navigation }) {
         <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('GpuScreen')}>
           <Text style={styles.buttonText}>GPU</Text>
         </TouchableOpacity>
+        <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('CpuScreen')}>
+          <Text style={styles.buttonText}>PLACA MÃE</Text>
+        </TouchableOpacity>
         <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('FonteScreen')}>
           <Text style={styles.buttonText}>FONTE</Text>
         </TouchableOpacity>
@@ -36,7 +39,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#f5f5f5',
   },
   header: {
-    fontSize: 24,
+    fontSize: 26,
     marginBottom: 16,
     color: 'purple',
   },

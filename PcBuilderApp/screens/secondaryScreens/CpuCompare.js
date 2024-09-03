@@ -9,8 +9,8 @@ export default function CpuScreen({ navigation }) {
       <TouchableOpacity
         style={styles.button}
         onPress={() => {
-          console.log('Navigating to CpuCategoryScreen with category: Ryzen 7');
-          navigation.navigate('CpuCategoryScreen', { category: 'Ryzen 7' });
+          console.log('Navigating to CompareCategoryScreen with category: AMD Ryzen 7');
+          navigation.navigate('CompareCategoryScreen', { category: 'Ryzen 7' });
         }}
       >
         <Text style={styles.buttonText}>AMD Ryzen 7</Text>
@@ -19,8 +19,8 @@ export default function CpuScreen({ navigation }) {
       <TouchableOpacity
         style={styles.button}
         onPress={() => {
-          console.log('Navigating to CpuCategoryScreen with category: Ryzen 5');
-          navigation.navigate('CpuCategoryScreen', { category: 'Ryzen 5' });
+          console.log('Navigating to CompareCategoryScreen with category: AMD Ryzen 5');
+          navigation.navigate('CompareCategoryScreen', { category: 'Ryzen 5' });
         }}
       >
         <Text style={styles.buttonText}>AMD Ryzen 5</Text>
@@ -29,8 +29,8 @@ export default function CpuScreen({ navigation }) {
       <TouchableOpacity
         style={styles.button}
         onPress={() => {
-          console.log('Navigating to CpuCategoryScreen with category: i5');
-          navigation.navigate('CpuCategoryScreen', { category: 'i5' });
+          console.log('Navigating to CompareCategoryScreen with category: Intel Core i5');
+          navigation.navigate('CompareCategoryScreen', { category: 'i5' });
         }}
       >
         <Text style={styles.buttonText}>Intel Core i5</Text>
@@ -39,8 +39,8 @@ export default function CpuScreen({ navigation }) {
       <TouchableOpacity
         style={styles.button}
         onPress={() => {
-          console.log('Navigating to CpuCategoryScreen with category: i7');
-          navigation.navigate('CpuCategoryScreen', { category: 'i7' });
+          console.log('Navigating to CompareCategoryScreen with category: Intel Core i7');
+          navigation.navigate('CompareCategoryScreen', { category: 'i7' });
         }}
       >
         <Text style={styles.buttonText}>Intel Core i7</Text>

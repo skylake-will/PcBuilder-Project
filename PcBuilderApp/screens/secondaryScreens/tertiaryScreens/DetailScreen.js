@@ -38,7 +38,7 @@ const DetailScreen = ({ route, navigation }) => {
   return (
     <ScrollView contentContainerStyle={styles.container}>
       {item ? (
-        <>
+        <View style={styles.content}>
           <Image
             source={{ uri: prependBaseUrl(item.imageUrl) }}
             style={styles.image}
@@ -54,7 +54,7 @@ const DetailScreen = ({ route, navigation }) => {
           <TouchableOpacity style={styles.addButton} onPress={handleAddToBuild}>
             <Text style={styles.addButtonText}>Add to Build</Text>
           </TouchableOpacity>
-        </>
+        </View>
       ) : (
         <Text style={styles.errorText}>No item details available.</Text>
       )}
@@ -70,9 +70,23 @@ const styles = StyleSheet.create({
     backgroundColor: '#f5f5f5',
     padding: 16,
   },
+  content: {
+    width: '100%',
+    maxWidth: 600,
+    alignItems: 'center',
+    backgroundColor: '#fff',
+    borderRadius: 10,
+    padding: 20,
+    elevation: 5, // Shadow for Android
+    shadowColor: '#000', // Shadow color for iOS
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.1,
+    shadowRadius: 10,
+  },
   image: {
     width: '100%',
     height: 300,
+    borderRadius: 10,
     marginBottom: 20,
   },
   title: {
@@ -83,37 +97,44 @@ const styles = StyleSheet.create({
     marginBottom: 10,
   },
   price: {
-    fontSize: 20,
-    color: 'green',
+    fontSize: 22,
+    color: '#6a1b9a', // Purple color
     marginBottom: 20,
   },
   button: {
     padding: 15,
-    backgroundColor: 'blue',
+    backgroundColor: '#6a1b9a', // Purple color
     justifyContent: 'center',
     alignItems: 'center',
-    borderRadius: 5,
+    borderRadius: 10,
     marginTop: 10,
+    width: '100%',
+    maxWidth: 300,
   },
   buttonText: {
-    color: 'white',
+    color: '#fff',
     fontSize: 18,
+    fontWeight: 'bold',
   },
   addButton: {
     padding: 15,
-    backgroundColor: 'purple',
+    backgroundColor: '#6a1b9a', // Purple color
     justifyContent: 'center',
     alignItems: 'center',
-    borderRadius: 5,
+    borderRadius: 10,
     marginTop: 20,
+    width: '100%',
+    maxWidth: 300,
   },
   addButtonText: {
-    color: 'white',
+    color: '#fff',
     fontSize: 18,
+    fontWeight: 'bold',
   },
   errorText: {
     fontSize: 18,
     color: 'red',
+    textAlign: 'center',
   },
 });
 

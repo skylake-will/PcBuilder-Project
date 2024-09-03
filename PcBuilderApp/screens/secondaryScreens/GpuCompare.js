@@ -1,49 +1,49 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
-export default function CpuScreen({ navigation }) {
+export default function GpuScreen({ navigation }) {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Selecione o tipo de CPU</Text>
+      <Text style={styles.title}>Selecione o tipo de GPU</Text>
 
       <TouchableOpacity
         style={styles.button}
         onPress={() => {
-          console.log('Navigating to CpuCategoryScreen with category: Ryzen 7');
-          navigation.navigate('CpuCategoryScreen', { category: 'Ryzen 7' });
+          console.log('Navigating to CompareCategoryScreen with category: NVIDIA GeForce RTX 3080');
+          navigation.navigate('CompareCategoryScreen', { category: 'RTX 3080' });
         }}
       >
-        <Text style={styles.buttonText}>AMD Ryzen 7</Text>
+        <Text style={styles.buttonText}>NVIDIA GeForce RTX 3080</Text>
       </TouchableOpacity>
 
       <TouchableOpacity
         style={styles.button}
         onPress={() => {
-          console.log('Navigating to CpuCategoryScreen with category: Ryzen 5');
-          navigation.navigate('CpuCategoryScreen', { category: 'Ryzen 5' });
+          console.log('Navigating to CompareCategoryScreen with category: NVIDIA GeForce RTX 3070');
+          navigation.navigate('CompareCategoryScreen', { category: 'RTX 3070' });
         }}
       >
-        <Text style={styles.buttonText}>AMD Ryzen 5</Text>
+        <Text style={styles.buttonText}>NVIDIA GeForce RTX 3070</Text>
       </TouchableOpacity>
 
       <TouchableOpacity
         style={styles.button}
         onPress={() => {
-          console.log('Navigating to CpuCategoryScreen with category: i5');
-          navigation.navigate('CpuCategoryScreen', { category: 'i5' });
+          console.log('Navigating to CompareCategoryScreen with category: AMD Radeon RX 6800');
+          navigation.navigate('CompareCategoryScreen', { category: 'RX 6800' });
         }}
       >
-        <Text style={styles.buttonText}>Intel Core i5</Text>
+        <Text style={styles.buttonText}>AMD Radeon RX 6800</Text>
       </TouchableOpacity>
 
       <TouchableOpacity
         style={styles.button}
         onPress={() => {
-          console.log('Navigating to CpuCategoryScreen with category: i7');
-          navigation.navigate('CpuCategoryScreen', { category: 'i7' });
+          console.log('Navigating to CompareCategoryScreen with category: AMD Radeon RX 6700 XT');
+          navigation.navigate('CompareCategoryScreen', { category: 'RX 6700 XT' });
         }}
       >
-        <Text style={styles.buttonText}>Intel Core i7</Text>
+        <Text style={styles.buttonText}>AMD Radeon RX 6700 XT</Text>
       </TouchableOpacity>
     </View>
   );

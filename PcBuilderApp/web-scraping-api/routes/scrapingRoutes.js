@@ -1,12 +1,21 @@
 const express = require('express');
-const {scrapeProducts} = require('../controllers/scrapingController');
+const { scrapeProducts, readFromFile } = require('../controllers/scrapingController');
+const {scrapeGeekbench} = require('../controllers/geekbenchController')
+const {scrapeGpuBenchmarks} =require('../controllers/gpuBenchController')
 const router = express.Router();
 
-// Scrape Kabum for products by category
+// Scrape products from Kabum or Geekbench
 router.get('/scrape-products', scrapeProducts);
 
-router.get('/cpu-data', (req, res) => {
-    const existingData = readFromFile(); // Use the readFromFile function from scrapingController
+// Scrape Geekbench scores
+router.get('/scrape-geekbench', scrapeGeekbench);
+
+//Scrape GPU Bench Scores
+router.get('/scrape-gpubench',scrapeGpuBenchmarks)
+
+// Retrieve stored CPU data
+router.get('/cpu-data', (res) => {
+    const existingData = readFromFile();
     res.json({ products: existingData });
 });
 

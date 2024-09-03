@@ -1,0 +1,8187 @@
+[
+  {
+    "cpuName": "Intel Core i9-13900KS",
+    "singleCoreScore": "3141",
+    "multiCoreScore": "21814"
+  },
+  {
+    "cpuName": "Intel Core i9-14900KF",
+    "singleCoreScore": "3092",
+    "multiCoreScore": "20645"
+  },
+  {
+    "cpuName": "Intel Core i9-14900K",
+    "singleCoreScore": "3085",
+    "multiCoreScore": "20760"
+  },
+  {
+    "cpuName": "Intel Core i9-13900K",
+    "singleCoreScore": "3014",
+    "multiCoreScore": "20343"
+  },
+  {
+    "cpuName": "Intel Core i7-14700KF",
+    "singleCoreScore": "3005",
+    "multiCoreScore": "19602"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 7950X",
+    "singleCoreScore": "2985",
+    "multiCoreScore": "19476"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 7900X",
+    "singleCoreScore": "2959",
+    "multiCoreScore": "18006"
+  },
+  {
+    "cpuName": "Intel Core i7-14700K",
+    "singleCoreScore": "2947",
+    "multiCoreScore": "19193"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 7700X",
+    "singleCoreScore": "2943",
+    "multiCoreScore": "15395"
+  },
+  {
+    "cpuName": "Intel Core i9-14900",
+    "singleCoreScore": "2939",
+    "multiCoreScore": "17669"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 7950X3D",
+    "singleCoreScore": "2929",
+    "multiCoreScore": "19686"
+  },
+  {
+    "cpuName": "Intel Core i7-13700KF",
+    "singleCoreScore": "2922",
+    "multiCoreScore": "17693"
+  },
+  {
+    "cpuName": "Intel Core i9-13900KF",
+    "singleCoreScore": "2918",
+    "multiCoreScore": "19674"
+  },
+  {
+    "cpuName": "Intel Core i9-14900F",
+    "singleCoreScore": "2915",
+    "multiCoreScore": "18504"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7600X",
+    "singleCoreScore": "2892",
+    "multiCoreScore": "12964"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 7700",
+    "singleCoreScore": "2880",
+    "multiCoreScore": "14961"
+  },
+  {
+    "cpuName": "Intel Core i7-13700K",
+    "singleCoreScore": "2866",
+    "multiCoreScore": "17854"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 7900",
+    "singleCoreScore": "2858",
+    "multiCoreScore": "16868"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 7900X3D",
+    "singleCoreScore": "2836",
+    "multiCoreScore": "17452"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 7945HX3D",
+    "singleCoreScore": "2830",
+    "multiCoreScore": "16661"
+  },
+  {
+    "cpuName": "Intel Core i5-14600K",
+    "singleCoreScore": "2807",
+    "multiCoreScore": "15982"
+  },
+  {
+    "cpuName": "Intel Core i5-13600KF",
+    "singleCoreScore": "2784",
+    "multiCoreScore": "15718"
+  },
+  {
+    "cpuName": "Intel Core i5-14600KF",
+    "singleCoreScore": "2779",
+    "multiCoreScore": "15749"
+  },
+  {
+    "cpuName": "Intel Core i9-13900F",
+    "singleCoreScore": "2764",
+    "multiCoreScore": "17605"
+  },
+  {
+    "cpuName": "Intel Core i9-13900",
+    "singleCoreScore": "2759",
+    "multiCoreScore": "16569"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7600",
+    "singleCoreScore": "2746",
+    "multiCoreScore": "12230"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7500F",
+    "singleCoreScore": "2741",
+    "multiCoreScore": "12605"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 7945HX",
+    "singleCoreScore": "2740",
+    "multiCoreScore": "15872"
+  },
+  {
+    "cpuName": "Intel Core i7-14700",
+    "singleCoreScore": "2734",
+    "multiCoreScore": "16240"
+  },
+  {
+    "cpuName": "Intel Core i7-14700F",
+    "singleCoreScore": "2734",
+    "multiCoreScore": "16716"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 7800X3D",
+    "singleCoreScore": "2725",
+    "multiCoreScore": "15166"
+  },
+  {
+    "cpuName": "Intel Core i9-14900HX",
+    "singleCoreScore": "2722",
+    "multiCoreScore": "16144"
+  },
+  {
+    "cpuName": "Intel Core i5-13600K",
+    "singleCoreScore": "2695",
+    "multiCoreScore": "15073"
+  },
+  {
+    "cpuName": "Intel Core i9-12900KS",
+    "singleCoreScore": "2693",
+    "multiCoreScore": "16118"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 8700G",
+    "singleCoreScore": "2687",
+    "multiCoreScore": "13946"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7645HX",
+    "singleCoreScore": "2678",
+    "multiCoreScore": "11781"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 7745HX",
+    "singleCoreScore": "2673",
+    "multiCoreScore": "13071"
+  },
+  {
+    "cpuName": "Intel Core i7-13700F",
+    "singleCoreScore": "2660",
+    "multiCoreScore": "15483"
+  },
+  {
+    "cpuName": "Intel Core i9-12900K",
+    "singleCoreScore": "2659",
+    "multiCoreScore": "15564"
+  },
+  {
+    "cpuName": "Intel Core i7-13700",
+    "singleCoreScore": "2653",
+    "multiCoreScore": "14866"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 7745",
+    "singleCoreScore": "2635",
+    "multiCoreScore": "13507"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 7845HX",
+    "singleCoreScore": "2632",
+    "multiCoreScore": "13695"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 7645",
+    "singleCoreScore": "2631",
+    "multiCoreScore": "11286"
+  },
+  {
+    "cpuName": "Intel Core i5-14600T",
+    "singleCoreScore": "2608",
+    "multiCoreScore": "14002"
+  },
+  {
+    "cpuName": "Intel Core i5-14600",
+    "singleCoreScore": "2588",
+    "multiCoreScore": "13614"
+  },
+  {
+    "cpuName": "Intel Core i9-12900KF",
+    "singleCoreScore": "2577",
+    "multiCoreScore": "14916"
+  },
+  {
+    "cpuName": "Intel Core i7-12700KF",
+    "singleCoreScore": "2556",
+    "multiCoreScore": "13788"
+  },
+  {
+    "cpuName": "Intel Core i7-12700K",
+    "singleCoreScore": "2555",
+    "multiCoreScore": "13776"
+  },
+  {
+    "cpuName": "Intel Core i9-12900",
+    "singleCoreScore": "2537",
+    "multiCoreScore": "13386"
+  },
+  {
+    "cpuName": "Intel Core i5-14500",
+    "singleCoreScore": "2537",
+    "multiCoreScore": "13161"
+  },
+  {
+    "cpuName": "Intel Core i9-12900F",
+    "singleCoreScore": "2525",
+    "multiCoreScore": "13627"
+  },
+  {
+    "cpuName": "Intel Core i5-12600KF",
+    "singleCoreScore": "2516",
+    "multiCoreScore": "12282"
+  },
+  {
+    "cpuName": "Intel Core i5-13600",
+    "singleCoreScore": "2503",
+    "multiCoreScore": "12237"
+  },
+  {
+    "cpuName": "Intel Core i7-13700T",
+    "singleCoreScore": "2499",
+    "multiCoreScore": "11819"
+  },
+  {
+    "cpuName": "Intel Core i7-14700HX",
+    "singleCoreScore": "2486",
+    "multiCoreScore": "13402"
+  },
+  {
+    "cpuName": "Intel Core i5-12600K",
+    "singleCoreScore": "2475",
+    "multiCoreScore": "11855"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 7940HS",
+    "singleCoreScore": "2464",
+    "multiCoreScore": "11564"
+  },
+  {
+    "cpuName": "Intel Core i3-14100F",
+    "singleCoreScore": "2441",
+    "multiCoreScore": "8216"
+  },
+  {
+    "cpuName": "Intel Core i7-14650HX",
+    "singleCoreScore": "2427",
+    "multiCoreScore": "13144"
+  },
+  {
+    "cpuName": "Intel Core i5-13500",
+    "singleCoreScore": "2422",
+    "multiCoreScore": "12294"
+  },
+  {
+    "cpuName": "Intel Core i9-11900K",
+    "singleCoreScore": "2407",
+    "multiCoreScore": "11059"
+  },
+  {
+    "cpuName": "Intel Core i5-14400",
+    "singleCoreScore": "2405",
+    "multiCoreScore": "11423"
+  },
+  {
+    "cpuName": "Intel Core i3-14100",
+    "singleCoreScore": "2401",
+    "multiCoreScore": "7781"
+  },
+  {
+    "cpuName": "Intel Core i7-12700F",
+    "singleCoreScore": "2397",
+    "multiCoreScore": "11757"
+  },
+  {
+    "cpuName": "Intel Core i7-12700",
+    "singleCoreScore": "2396",
+    "multiCoreScore": "11203"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 8945HS",
+    "singleCoreScore": "2384",
+    "multiCoreScore": "11591"
+  },
+  {
+    "cpuName": "Intel Core i5-12600",
+    "singleCoreScore": "2375",
+    "multiCoreScore": "9744"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 7840HS",
+    "singleCoreScore": "2370",
+    "multiCoreScore": "11046"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 8845HS",
+    "singleCoreScore": "2370",
+    "multiCoreScore": "11160"
+  },
+  {
+    "cpuName": "Intel Core i5-14500T",
+    "singleCoreScore": "2364",
+    "multiCoreScore": "9650"
+  },
+  {
+    "cpuName": "Intel Core i5-14400F",
+    "singleCoreScore": "2362",
+    "multiCoreScore": "11686"
+  },
+  {
+    "cpuName": "Intel Core i9-12900T",
+    "singleCoreScore": "2349",
+    "multiCoreScore": "12436"
+  },
+  {
+    "cpuName": "Intel Core i5-12500",
+    "singleCoreScore": "2331",
+    "multiCoreScore": "8940"
+  },
+  {
+    "cpuName": "Intel Core i9-11900KF",
+    "singleCoreScore": "2324",
+    "multiCoreScore": "10044"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 PRO 7940HS",
+    "singleCoreScore": "2314",
+    "multiCoreScore": "11010"
+  },
+  {
+    "cpuName": "Intel Core i5-13500T",
+    "singleCoreScore": "2313",
+    "multiCoreScore": "9225"
+  },
+  {
+    "cpuName": "AMD EPYC 9374F",
+    "singleCoreScore": "2305",
+    "multiCoreScore": "21503"
+  },
+  {
+    "cpuName": "Intel Core i5-14500HX",
+    "singleCoreScore": "2302",
+    "multiCoreScore": "12305"
+  },
+  {
+    "cpuName": "Intel Core i5-13400",
+    "singleCoreScore": "2301",
+    "multiCoreScore": "10249"
+  },
+  {
+    "cpuName": "Intel Core i7-11700KF",
+    "singleCoreScore": "2300",
+    "multiCoreScore": "10326"
+  },
+  {
+    "cpuName": "Intel Core i5-13400F",
+    "singleCoreScore": "2300",
+    "multiCoreScore": "10894"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7640HS",
+    "singleCoreScore": "2290",
+    "multiCoreScore": "9034"
+  },
+  {
+    "cpuName": "Intel Core i3-13100F",
+    "singleCoreScore": "2287",
+    "multiCoreScore": "7722"
+  },
+  {
+    "cpuName": "Intel Core i3-13100",
+    "singleCoreScore": "2281",
+    "multiCoreScore": "7492"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 8640U",
+    "singleCoreScore": "2281",
+    "multiCoreScore": "8577"
+  },
+  {
+    "cpuName": "Intel Core i5-13600T",
+    "singleCoreScore": "2274",
+    "multiCoreScore": "11281"
+  },
+  {
+    "cpuName": "Intel Core 7 150U",
+    "singleCoreScore": "2269",
+    "multiCoreScore": "7790"
+  },
+  {
+    "cpuName": "Intel Core i7-12700T",
+    "singleCoreScore": "2268",
+    "multiCoreScore": "9581"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 7840U",
+    "singleCoreScore": "2257",
+    "multiCoreScore": "8744"
+  },
+  {
+    "cpuName": "Intel Core i7-11700K",
+    "singleCoreScore": "2256",
+    "multiCoreScore": "9877"
+  },
+  {
+    "cpuName": "Intel Core i3-12100F",
+    "singleCoreScore": "2252",
+    "multiCoreScore": "7518"
+  },
+  {
+    "cpuName": "AMD Ryzen Z1",
+    "singleCoreScore": "2252",
+    "multiCoreScore": "8312"
+  },
+  {
+    "cpuName": "Intel Core Ultra 9 185H",
+    "singleCoreScore": "2251",
+    "multiCoreScore": "12004"
+  },
+  {
+    "cpuName": "Intel Core i3-12300",
+    "singleCoreScore": "2247",
+    "multiCoreScore": "7359"
+  },
+  {
+    "cpuName": "Intel Xeon E-2388G",
+    "singleCoreScore": "2242",
+    "multiCoreScore": "9655"
+  },
+  {
+    "cpuName": "Intel Core i5-11600KF",
+    "singleCoreScore": "2240",
+    "multiCoreScore": "8746"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 7840HS",
+    "singleCoreScore": "2234",
+    "multiCoreScore": "10720"
+  },
+  {
+    "cpuName": "Intel Pentium II/III",
+    "singleCoreScore": "2231",
+    "multiCoreScore": "2187"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7540U",
+    "singleCoreScore": "2228",
+    "multiCoreScore": "8113"
+  },
+  {
+    "cpuName": "Intel Core i5-11600K",
+    "singleCoreScore": "2220",
+    "multiCoreScore": "8572"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 5950X",
+    "singleCoreScore": "2219",
+    "multiCoreScore": "12126"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 8840U",
+    "singleCoreScore": "2219",
+    "multiCoreScore": "9418"
+  },
+  {
+    "cpuName": "Intel Core i5-12400F",
+    "singleCoreScore": "2218",
+    "multiCoreScore": "9057"
+  },
+  {
+    "cpuName": "AMD EPYC 9174F",
+    "singleCoreScore": "2214",
+    "multiCoreScore": "16965"
+  },
+  {
+    "cpuName": "Intel Core i5-13400T",
+    "singleCoreScore": "2207",
+    "multiCoreScore": "8892"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 5900X",
+    "singleCoreScore": "2206",
+    "multiCoreScore": "11930"
+  },
+  {
+    "cpuName": "Intel Core i3-12100E",
+    "singleCoreScore": "2205",
+    "multiCoreScore": "7680"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5800X",
+    "singleCoreScore": "2203",
+    "multiCoreScore": "10271"
+  },
+  {
+    "cpuName": "Intel Core i5-12400",
+    "singleCoreScore": "2203",
+    "multiCoreScore": "8815"
+  },
+  {
+    "cpuName": "AMD Ryzen Z1 Extreme",
+    "singleCoreScore": "2197",
+    "multiCoreScore": "9670"
+  },
+  {
+    "cpuName": "Intel Core i5-12600T",
+    "singleCoreScore": "2186",
+    "multiCoreScore": "8231"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 7640HS",
+    "singleCoreScore": "2183",
+    "multiCoreScore": "8970"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 PRO 5945",
+    "singleCoreScore": "2182",
+    "multiCoreScore": "9216"
+  },
+  {
+    "cpuName": "Intel Core i9-11900",
+    "singleCoreScore": "2177",
+    "multiCoreScore": "9033"
+  },
+  {
+    "cpuName": "Intel Core i5-12500T",
+    "singleCoreScore": "2172",
+    "multiCoreScore": "7368"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7640U",
+    "singleCoreScore": "2171",
+    "multiCoreScore": "8867"
+  },
+  {
+    "cpuName": "Intel Core i3-12100",
+    "singleCoreScore": "2167",
+    "multiCoreScore": "6862"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 7540U",
+    "singleCoreScore": "2167",
+    "multiCoreScore": "7930"
+  },
+  {
+    "cpuName": "Intel Core i9-11900F",
+    "singleCoreScore": "2157",
+    "multiCoreScore": "8879"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 7840U",
+    "singleCoreScore": "2154",
+    "multiCoreScore": "9534"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 8640HS",
+    "singleCoreScore": "2153",
+    "multiCoreScore": "7875"
+  },
+  {
+    "cpuName": "Intel Xeon w5-2465X",
+    "singleCoreScore": "2151",
+    "multiCoreScore": "14478"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 5900",
+    "singleCoreScore": "2147",
+    "multiCoreScore": "11152"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5700X",
+    "singleCoreScore": "2144",
+    "multiCoreScore": "9723"
+  },
+  {
+    "cpuName": "Intel Xeon W-1350",
+    "singleCoreScore": "2144",
+    "multiCoreScore": "7974"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper PRO 5955WX",
+    "singleCoreScore": "2141",
+    "multiCoreScore": "16148"
+  },
+  {
+    "cpuName": "AMD EPYC 9254",
+    "singleCoreScore": "2140",
+    "multiCoreScore": "17738"
+  },
+  {
+    "cpuName": "Intel Core i7-11700",
+    "singleCoreScore": "2138",
+    "multiCoreScore": "8667"
+  },
+  {
+    "cpuName": "Intel Core i7-11700F",
+    "singleCoreScore": "2138",
+    "multiCoreScore": "8736"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 5845",
+    "singleCoreScore": "2137",
+    "multiCoreScore": "9464"
+  },
+  {
+    "cpuName": "Intel Xeon w7-2495X",
+    "singleCoreScore": "2130",
+    "multiCoreScore": "16623"
+  },
+  {
+    "cpuName": "Intel Xeon w5-3435X",
+    "singleCoreScore": "2129",
+    "multiCoreScore": "16039"
+  },
+  {
+    "cpuName": "Intel Core i5-11600",
+    "singleCoreScore": "2123",
+    "multiCoreScore": "8037"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5800X3D",
+    "singleCoreScore": "2118",
+    "multiCoreScore": "11056"
+  },
+  {
+    "cpuName": "Intel Core i3-12300T",
+    "singleCoreScore": "2116",
+    "multiCoreScore": "6707"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5600X",
+    "singleCoreScore": "2115",
+    "multiCoreScore": "8704"
+  },
+  {
+    "cpuName": "Intel Xeon w9-3495X",
+    "singleCoreScore": "2114",
+    "multiCoreScore": "18636"
+  },
+  {
+    "cpuName": "Intel Xeon W-11865MRE",
+    "singleCoreScore": "2113",
+    "multiCoreScore": "8075"
+  },
+  {
+    "cpuName": "Intel Xeon w7-2475X",
+    "singleCoreScore": "2104",
+    "multiCoreScore": "15484"
+  },
+  {
+    "cpuName": "Intel Xeon w5-2455X",
+    "singleCoreScore": "2099",
+    "multiCoreScore": "13490"
+  },
+  {
+    "cpuName": "Intel Xeon E-2324G",
+    "singleCoreScore": "2093",
+    "multiCoreScore": "5281"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5800",
+    "singleCoreScore": "2079",
+    "multiCoreScore": "8850"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5600X3D",
+    "singleCoreScore": "2079",
+    "multiCoreScore": "9366"
+  },
+  {
+    "cpuName": "Intel Xeon W-1370",
+    "singleCoreScore": "2078",
+    "multiCoreScore": "8843"
+  },
+  {
+    "cpuName": "Intel Core i7-11850HE",
+    "singleCoreScore": "2068",
+    "multiCoreScore": "9009"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper PRO 5975WX",
+    "singleCoreScore": "2063",
+    "multiCoreScore": "17121"
+  },
+  {
+    "cpuName": "Intel Xeon E-2356G",
+    "singleCoreScore": "2063",
+    "multiCoreScore": "7048"
+  },
+  {
+    "cpuName": "Intel Xeon w7-3445",
+    "singleCoreScore": "2058",
+    "multiCoreScore": "15490"
+  },
+  {
+    "cpuName": "Intel Core i9-11900T",
+    "singleCoreScore": "2057",
+    "multiCoreScore": "7735"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5600",
+    "singleCoreScore": "2053",
+    "multiCoreScore": "8621"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper PRO 5945WX",
+    "singleCoreScore": "2053",
+    "multiCoreScore": "13152"
+  },
+  {
+    "cpuName": "Intel Xeon W-11955M",
+    "singleCoreScore": "2053",
+    "multiCoreScore": "8914"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper PRO 5965WX",
+    "singleCoreScore": "2050",
+    "multiCoreScore": "14704"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5600GT",
+    "singleCoreScore": "2049",
+    "multiCoreScore": "7499"
+  },
+  {
+    "cpuName": "Intel Xeon Platinum 8462Y+",
+    "singleCoreScore": "2039",
+    "multiCoreScore": "22271"
+  },
+  {
+    "cpuName": "Intel Core i7-11390H",
+    "singleCoreScore": "2024",
+    "multiCoreScore": "5576"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5700",
+    "singleCoreScore": "2020",
+    "multiCoreScore": "8956"
+  },
+  {
+    "cpuName": "Intel Core i5-11500",
+    "singleCoreScore": "2019",
+    "multiCoreScore": "7420"
+  },
+  {
+    "cpuName": "Intel Xeon w7-3465X",
+    "singleCoreScore": "2014",
+    "multiCoreScore": "17011"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 6900HX",
+    "singleCoreScore": "2012",
+    "multiCoreScore": "9745"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5700GE",
+    "singleCoreScore": "2010",
+    "multiCoreScore": "6961"
+  },
+  {
+    "cpuName": "Intel Core i5-12400T",
+    "singleCoreScore": "2007",
+    "multiCoreScore": "7083"
+  },
+  {
+    "cpuName": "Intel Core Ultra 5 134U",
+    "singleCoreScore": "2005",
+    "multiCoreScore": "8066"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5700G",
+    "singleCoreScore": "2002",
+    "multiCoreScore": "8816"
+  },
+  {
+    "cpuName": "Intel Pentium Gold G7400",
+    "singleCoreScore": "1997",
+    "multiCoreScore": "4210"
+  },
+  {
+    "cpuName": "Intel Xeon W-11855M",
+    "singleCoreScore": "1996",
+    "multiCoreScore": "7793"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6442Y",
+    "singleCoreScore": "1996",
+    "multiCoreScore": "17199"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 8840HS",
+    "singleCoreScore": "1992",
+    "multiCoreScore": "8744"
+  },
+  {
+    "cpuName": "Intel Core i5-11400F",
+    "singleCoreScore": "1980",
+    "multiCoreScore": "7615"
+  },
+  {
+    "cpuName": "Intel Core i3-12100T",
+    "singleCoreScore": "1973",
+    "multiCoreScore": "6019"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 5750G",
+    "singleCoreScore": "1971",
+    "multiCoreScore": "8288"
+  },
+  {
+    "cpuName": "Intel Core i5-11400",
+    "singleCoreScore": "1969",
+    "multiCoreScore": "7337"
+  },
+  {
+    "cpuName": "Intel Xeon E-2378",
+    "singleCoreScore": "1967",
+    "multiCoreScore": "8038"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper PRO 5995WX",
+    "singleCoreScore": "1962",
+    "multiCoreScore": "16526"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 5750GE",
+    "singleCoreScore": "1962",
+    "multiCoreScore": "7179"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5600GE",
+    "singleCoreScore": "1957",
+    "multiCoreScore": "6733"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 7735HS",
+    "singleCoreScore": "1956",
+    "multiCoreScore": "9220"
+  },
+  {
+    "cpuName": "Intel Core i7-1260U",
+    "singleCoreScore": "1951",
+    "multiCoreScore": "6371"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 5980HX",
+    "singleCoreScore": "1946",
+    "multiCoreScore": "7878"
+  },
+  {
+    "cpuName": "Intel Core i7-1265U",
+    "singleCoreScore": "1944",
+    "multiCoreScore": "6340"
+  },
+  {
+    "cpuName": "Intel Core i7-11850H",
+    "singleCoreScore": "1944",
+    "multiCoreScore": "7982"
+  },
+  {
+    "cpuName": "AMD EPYC 9454P",
+    "singleCoreScore": "1940",
+    "multiCoreScore": "18289"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5600G",
+    "singleCoreScore": "1937",
+    "multiCoreScore": "7701"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 5650G",
+    "singleCoreScore": "1926",
+    "multiCoreScore": "7216"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5700X3D",
+    "singleCoreScore": "1926",
+    "multiCoreScore": "10151"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 6850HS",
+    "singleCoreScore": "1914",
+    "multiCoreScore": "8541"
+  },
+  {
+    "cpuName": "Intel Core i7-11800H",
+    "singleCoreScore": "1902",
+    "multiCoreScore": "7819"
+  },
+  {
+    "cpuName": "AMD EPYC 9554",
+    "singleCoreScore": "1902",
+    "multiCoreScore": "18994"
+  },
+  {
+    "cpuName": "Intel Core i7-11600H",
+    "singleCoreScore": "1892",
+    "multiCoreScore": "6565"
+  },
+  {
+    "cpuName": "Intel Xeon w5-3425",
+    "singleCoreScore": "1891",
+    "multiCoreScore": "12212"
+  },
+  {
+    "cpuName": "Intel Xeon w9-3475X",
+    "singleCoreScore": "1888",
+    "multiCoreScore": "16139"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 PRO 6950HS",
+    "singleCoreScore": "1887",
+    "multiCoreScore": "8634"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 6800H",
+    "singleCoreScore": "1884",
+    "multiCoreScore": "9083"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5500",
+    "singleCoreScore": "1879",
+    "multiCoreScore": "7685"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 5650GE",
+    "singleCoreScore": "1878",
+    "multiCoreScore": "6695"
+  },
+  {
+    "cpuName": "Intel Core i3-13100E",
+    "singleCoreScore": "1872",
+    "multiCoreScore": "6916"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 6900HS",
+    "singleCoreScore": "1862",
+    "multiCoreScore": "8823"
+  },
+  {
+    "cpuName": "Intel Core i3-1215U",
+    "singleCoreScore": "1856",
+    "multiCoreScore": "4918"
+  },
+  {
+    "cpuName": "AMD EPYC 9654",
+    "singleCoreScore": "1854",
+    "multiCoreScore": "18780"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 5900HX",
+    "singleCoreScore": "1850",
+    "multiCoreScore": "7615"
+  },
+  {
+    "cpuName": "Intel Xeon w7-3455",
+    "singleCoreScore": "1850",
+    "multiCoreScore": "13464"
+  },
+  {
+    "cpuName": "Intel Core i5-1235U",
+    "singleCoreScore": "1849",
+    "multiCoreScore": "5679"
+  },
+  {
+    "cpuName": "Intel Core i5-11320H",
+    "singleCoreScore": "1836",
+    "multiCoreScore": "5339"
+  },
+  {
+    "cpuName": "AMD EPYC 9124",
+    "singleCoreScore": "1832",
+    "multiCoreScore": "13428"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 PRO 5350G",
+    "singleCoreScore": "1830",
+    "multiCoreScore": "5634"
+  },
+  {
+    "cpuName": "Intel Xeon w5-2445",
+    "singleCoreScore": "1825",
+    "multiCoreScore": "10824"
+  },
+  {
+    "cpuName": "Intel Core i7-1195G7",
+    "singleCoreScore": "1824",
+    "multiCoreScore": "5249"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 6800HS",
+    "singleCoreScore": "1821",
+    "multiCoreScore": "8687"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 PRO 6950H",
+    "singleCoreScore": "1821",
+    "multiCoreScore": "8754"
+  },
+  {
+    "cpuName": "Intel Core i5-11500H",
+    "singleCoreScore": "1820",
+    "multiCoreScore": "6274"
+  },
+  {
+    "cpuName": "Intel Core i5-11400H",
+    "singleCoreScore": "1819",
+    "multiCoreScore": "6364"
+  },
+  {
+    "cpuName": "Intel Xeon W-3375",
+    "singleCoreScore": "1818",
+    "multiCoreScore": "17713"
+  },
+  {
+    "cpuName": "Intel Core i9-9900KS",
+    "singleCoreScore": "1815",
+    "multiCoreScore": "8663"
+  },
+  {
+    "cpuName": "Intel Core i7-12700E",
+    "singleCoreScore": "1812",
+    "multiCoreScore": "10177"
+  },
+  {
+    "cpuName": "Intel Core i7-11700T",
+    "singleCoreScore": "1811",
+    "multiCoreScore": "6946"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 6600H",
+    "singleCoreScore": "1810",
+    "multiCoreScore": "7433"
+  },
+  {
+    "cpuName": "Intel Xeon w3-2425",
+    "singleCoreScore": "1799",
+    "multiCoreScore": "8155"
+  },
+  {
+    "cpuName": "Intel Core i7-11375H",
+    "singleCoreScore": "1794",
+    "multiCoreScore": "5327"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 7735U",
+    "singleCoreScore": "1786",
+    "multiCoreScore": "7775"
+  },
+  {
+    "cpuName": "Intel Core i5-12500TE",
+    "singleCoreScore": "1783",
+    "multiCoreScore": "6688"
+  },
+  {
+    "cpuName": "AMD EPYC 9354",
+    "singleCoreScore": "1779",
+    "multiCoreScore": "12881"
+  },
+  {
+    "cpuName": "Intel Core i5-7640X",
+    "singleCoreScore": "1777",
+    "multiCoreScore": "5301"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 5300G",
+    "singleCoreScore": "1775",
+    "multiCoreScore": "5540"
+  },
+  {
+    "cpuName": "Intel Core i9-10900K",
+    "singleCoreScore": "1774",
+    "multiCoreScore": "9054"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 3800XT",
+    "singleCoreScore": "1773",
+    "multiCoreScore": "8589"
+  },
+  {
+    "cpuName": "Intel Core i9-10900KF",
+    "singleCoreScore": "1765",
+    "multiCoreScore": "9048"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5800H",
+    "singleCoreScore": "1765",
+    "multiCoreScore": "7226"
+  },
+  {
+    "cpuName": "Intel Xeon W-1290",
+    "singleCoreScore": "1764",
+    "multiCoreScore": "8733"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 PRO 5350GE",
+    "singleCoreScore": "1764",
+    "multiCoreScore": "5209"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 6850U",
+    "singleCoreScore": "1762",
+    "multiCoreScore": "7468"
+  },
+  {
+    "cpuName": "Intel Core i9-10850K",
+    "singleCoreScore": "1759",
+    "multiCoreScore": "9016"
+  },
+  {
+    "cpuName": "Intel Core i7-11370H",
+    "singleCoreScore": "1753",
+    "multiCoreScore": "5479"
+  },
+  {
+    "cpuName": "Intel Core i7-1185G7",
+    "singleCoreScore": "1745",
+    "multiCoreScore": "5335"
+  },
+  {
+    "cpuName": "Intel Xeon w3-2435",
+    "singleCoreScore": "1745",
+    "multiCoreScore": "9870"
+  },
+  {
+    "cpuName": "Intel Core i7-1165G7",
+    "singleCoreScore": "1744",
+    "multiCoreScore": "4941"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 7736U",
+    "singleCoreScore": "1744",
+    "multiCoreScore": "7494"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 3900XT",
+    "singleCoreScore": "1743",
+    "multiCoreScore": "10045"
+  },
+  {
+    "cpuName": "Intel Core i5-1155G7",
+    "singleCoreScore": "1743",
+    "multiCoreScore": "4842"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7535U",
+    "singleCoreScore": "1741",
+    "multiCoreScore": "6632"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7535HS",
+    "singleCoreScore": "1741",
+    "multiCoreScore": "6846"
+  },
+  {
+    "cpuName": "Intel Core i9-10910",
+    "singleCoreScore": "1738",
+    "multiCoreScore": "8134"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 3950X",
+    "singleCoreScore": "1737",
+    "multiCoreScore": "10886"
+  },
+  {
+    "cpuName": "Intel Core i7-10700KF",
+    "singleCoreScore": "1735",
+    "multiCoreScore": "8233"
+  },
+  {
+    "cpuName": "Intel Core i9-12900E",
+    "singleCoreScore": "1735",
+    "multiCoreScore": "10366"
+  },
+  {
+    "cpuName": "Intel Core i9-10900",
+    "singleCoreScore": "1732",
+    "multiCoreScore": "8491"
+  },
+  {
+    "cpuName": "Intel Core i7-10700K",
+    "singleCoreScore": "1731",
+    "multiCoreScore": "8204"
+  },
+  {
+    "cpuName": "Intel Core i5-9600K",
+    "singleCoreScore": "1730",
+    "multiCoreScore": "6495"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 6650H",
+    "singleCoreScore": "1728",
+    "multiCoreScore": "6907"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 6850H",
+    "singleCoreScore": "1726",
+    "multiCoreScore": "8061"
+  },
+  {
+    "cpuName": "Intel Core i9-10920X",
+    "singleCoreScore": "1725",
+    "multiCoreScore": "11628"
+  },
+  {
+    "cpuName": "Intel Core i5-11260H",
+    "singleCoreScore": "1725",
+    "multiCoreScore": "6056"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 6650U",
+    "singleCoreScore": "1725",
+    "multiCoreScore": "6609"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 6800U",
+    "singleCoreScore": "1723",
+    "multiCoreScore": "7440"
+  },
+  {
+    "cpuName": "Intel Core i9-9900KF",
+    "singleCoreScore": "1722",
+    "multiCoreScore": "8127"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 3600XT",
+    "singleCoreScore": "1718",
+    "multiCoreScore": "7179"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 5850U",
+    "singleCoreScore": "1714",
+    "multiCoreScore": "6270"
+  },
+  {
+    "cpuName": "Intel Xeon W-1270",
+    "singleCoreScore": "1713",
+    "multiCoreScore": "8281"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 3900X",
+    "singleCoreScore": "1711",
+    "multiCoreScore": "9966"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5825U",
+    "singleCoreScore": "1710",
+    "multiCoreScore": "6411"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 3300X",
+    "singleCoreScore": "1708",
+    "multiCoreScore": "5913"
+  },
+  {
+    "cpuName": "Intel Core i3-10325",
+    "singleCoreScore": "1707",
+    "multiCoreScore": "5775"
+  },
+  {
+    "cpuName": "Intel Celeron G6900",
+    "singleCoreScore": "1704",
+    "multiCoreScore": "2798"
+  },
+  {
+    "cpuName": "Intel Core i9-10900F",
+    "singleCoreScore": "1702",
+    "multiCoreScore": "8441"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5800U",
+    "singleCoreScore": "1701",
+    "multiCoreScore": "6711"
+  },
+  {
+    "cpuName": "Intel Core i7-9700K",
+    "singleCoreScore": "1699",
+    "multiCoreScore": "7217"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 3800X",
+    "singleCoreScore": "1699",
+    "multiCoreScore": "8185"
+  },
+  {
+    "cpuName": "Intel Core i5-10600KF",
+    "singleCoreScore": "1699",
+    "multiCoreScore": "6767"
+  },
+  {
+    "cpuName": "Intel Core i7-8086K",
+    "singleCoreScore": "1698",
+    "multiCoreScore": "6976"
+  },
+  {
+    "cpuName": "Intel Core i9-9900K",
+    "singleCoreScore": "1698",
+    "multiCoreScore": "7999"
+  },
+  {
+    "cpuName": "Intel Xeon W-1290P",
+    "singleCoreScore": "1697",
+    "multiCoreScore": "8792"
+  },
+  {
+    "cpuName": "Intel Xeon E-2314",
+    "singleCoreScore": "1697",
+    "multiCoreScore": "4221"
+  },
+  {
+    "cpuName": "Intel Core i3-13100T",
+    "singleCoreScore": "1696",
+    "multiCoreScore": "4766"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 7530U",
+    "singleCoreScore": "1693",
+    "multiCoreScore": "5640"
+  },
+  {
+    "cpuName": "AMD EPYC 7443P",
+    "singleCoreScore": "1692",
+    "multiCoreScore": "14630"
+  },
+  {
+    "cpuName": "Intel Core i5-1145G7",
+    "singleCoreScore": "1685",
+    "multiCoreScore": "4924"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper PRO 3955WX",
+    "singleCoreScore": "1684",
+    "multiCoreScore": "12577"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper 3960X",
+    "singleCoreScore": "1683",
+    "multiCoreScore": "13236"
+  },
+  {
+    "cpuName": "Intel Core i5-10600K",
+    "singleCoreScore": "1683",
+    "multiCoreScore": "6864"
+  },
+  {
+    "cpuName": "Intel Core i7-7740X",
+    "singleCoreScore": "1683",
+    "multiCoreScore": "5459"
+  },
+  {
+    "cpuName": "Intel Core i5-11500T",
+    "singleCoreScore": "1681",
+    "multiCoreScore": "5699"
+  },
+  {
+    "cpuName": "Intel Xeon E-2278G",
+    "singleCoreScore": "1680",
+    "multiCoreScore": "7909"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 PRO 3900",
+    "singleCoreScore": "1679",
+    "multiCoreScore": "9059"
+  },
+  {
+    "cpuName": "Intel Core i7-9700KF",
+    "singleCoreScore": "1678",
+    "multiCoreScore": "7095"
+  },
+  {
+    "cpuName": "Intel Core i5-11300H",
+    "singleCoreScore": "1678",
+    "multiCoreScore": "4856"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 3900",
+    "singleCoreScore": "1677",
+    "multiCoreScore": "9582"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper PRO 3945WX",
+    "singleCoreScore": "1677",
+    "multiCoreScore": "10458"
+  },
+  {
+    "cpuName": "Intel Pentium Gold G7400T",
+    "singleCoreScore": "1677",
+    "multiCoreScore": "3566"
+  },
+  {
+    "cpuName": "Intel Xeon w3-2423",
+    "singleCoreScore": "1675",
+    "multiCoreScore": "7306"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5560U",
+    "singleCoreScore": "1673",
+    "multiCoreScore": "6337"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 3700X",
+    "singleCoreScore": "1672",
+    "multiCoreScore": "8098"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 3600X",
+    "singleCoreScore": "1671",
+    "multiCoreScore": "7111"
+  },
+  {
+    "cpuName": "Intel Core i7-1250U",
+    "singleCoreScore": "1669",
+    "multiCoreScore": "5894"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper 3970X",
+    "singleCoreScore": "1666",
+    "multiCoreScore": "13883"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 PRO 7330U",
+    "singleCoreScore": "1665",
+    "multiCoreScore": "4358"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 5675U",
+    "singleCoreScore": "1651",
+    "multiCoreScore": "5397"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 6600U",
+    "singleCoreScore": "1650",
+    "multiCoreScore": "6458"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 7730U",
+    "singleCoreScore": "1649",
+    "multiCoreScore": "6422"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 4750G",
+    "singleCoreScore": "1645",
+    "multiCoreScore": "7649"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 3700",
+    "singleCoreScore": "1641",
+    "multiCoreScore": "7876"
+  },
+  {
+    "cpuName": "Intel Core i7-10700F",
+    "singleCoreScore": "1640",
+    "multiCoreScore": "7245"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7530U",
+    "singleCoreScore": "1639",
+    "multiCoreScore": "5680"
+  },
+  {
+    "cpuName": "Intel Xeon W-10885M",
+    "singleCoreScore": "1636",
+    "multiCoreScore": "7110"
+  },
+  {
+    "cpuName": "Intel Core i5-11600T",
+    "singleCoreScore": "1636",
+    "multiCoreScore": "6275"
+  },
+  {
+    "cpuName": "Intel Core i7-10700",
+    "singleCoreScore": "1635",
+    "multiCoreScore": "7200"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5600U",
+    "singleCoreScore": "1634",
+    "multiCoreScore": "5826"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 3600",
+    "singleCoreScore": "1633",
+    "multiCoreScore": "6591"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper PRO 3975WX",
+    "singleCoreScore": "1629",
+    "multiCoreScore": "14495"
+  },
+  {
+    "cpuName": "Intel Xeon W-2275",
+    "singleCoreScore": "1626",
+    "multiCoreScore": "11219"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 5650U",
+    "singleCoreScore": "1625",
+    "multiCoreScore": "5573"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper PRO 3995WX",
+    "singleCoreScore": "1624",
+    "multiCoreScore": "14084"
+  },
+  {
+    "cpuName": "Intel Xeon E-2286G",
+    "singleCoreScore": "1623",
+    "multiCoreScore": "6782"
+  },
+  {
+    "cpuName": "Intel Xeon Platinum 8351N",
+    "singleCoreScore": "1617",
+    "multiCoreScore": "15233"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper 3990X",
+    "singleCoreScore": "1616",
+    "multiCoreScore": "14127"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 3600",
+    "singleCoreScore": "1614",
+    "multiCoreScore": "6914"
+  },
+  {
+    "cpuName": "Intel Core i9-9900",
+    "singleCoreScore": "1614",
+    "multiCoreScore": "7183"
+  },
+  {
+    "cpuName": "Intel Core i5-9600KF",
+    "singleCoreScore": "1614",
+    "multiCoreScore": "5767"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 4750GE",
+    "singleCoreScore": "1613",
+    "multiCoreScore": "6463"
+  },
+  {
+    "cpuName": "Intel Core i5-10600",
+    "singleCoreScore": "1611",
+    "multiCoreScore": "6162"
+  },
+  {
+    "cpuName": "Intel Core i7-8700K",
+    "singleCoreScore": "1610",
+    "multiCoreScore": "6505"
+  },
+  {
+    "cpuName": "Intel Xeon E-2246G",
+    "singleCoreScore": "1610",
+    "multiCoreScore": "5959"
+  },
+  {
+    "cpuName": "Intel Xeon E-2274G",
+    "singleCoreScore": "1609",
+    "multiCoreScore": "5225"
+  },
+  {
+    "cpuName": "Intel Core i9-10980XE",
+    "singleCoreScore": "1600",
+    "multiCoreScore": "12161"
+  },
+  {
+    "cpuName": "AMD EPYC 7313P",
+    "singleCoreScore": "1598",
+    "multiCoreScore": "10851"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5600H",
+    "singleCoreScore": "1597",
+    "multiCoreScore": "5758"
+  },
+  {
+    "cpuName": "Intel Core i7-7700K",
+    "singleCoreScore": "1596",
+    "multiCoreScore": "5149"
+  },
+  {
+    "cpuName": "Intel Xeon E-2236",
+    "singleCoreScore": "1596",
+    "multiCoreScore": "6377"
+  },
+  {
+    "cpuName": "Intel Core i5-1135G7",
+    "singleCoreScore": "1594",
+    "multiCoreScore": "4504"
+  },
+  {
+    "cpuName": "Intel Xeon E-2334",
+    "singleCoreScore": "1593",
+    "multiCoreScore": "5134"
+  },
+  {
+    "cpuName": "Intel Core i5-1230U",
+    "singleCoreScore": "1589",
+    "multiCoreScore": "5538"
+  },
+  {
+    "cpuName": "Intel Core i9-10900X",
+    "singleCoreScore": "1588",
+    "multiCoreScore": "9517"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 4600G",
+    "singleCoreScore": "1582",
+    "multiCoreScore": "6135"
+  },
+  {
+    "cpuName": "Intel Core i7-12700TE",
+    "singleCoreScore": "1581",
+    "multiCoreScore": "6634"
+  },
+  {
+    "cpuName": "AMD EPYC 7713",
+    "singleCoreScore": "1579",
+    "multiCoreScore": "15297"
+  },
+  {
+    "cpuName": "Intel Xeon E-2176G",
+    "singleCoreScore": "1579",
+    "multiCoreScore": "6451"
+  },
+  {
+    "cpuName": "Intel Core i7-9700F",
+    "singleCoreScore": "1576",
+    "multiCoreScore": "6300"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5625U",
+    "singleCoreScore": "1575",
+    "multiCoreScore": "5451"
+  },
+  {
+    "cpuName": "Intel Core i7-1068NG7",
+    "singleCoreScore": "1574",
+    "multiCoreScore": "5256"
+  },
+  {
+    "cpuName": "Intel Xeon W-2245",
+    "singleCoreScore": "1574",
+    "multiCoreScore": "8467"
+  },
+  {
+    "cpuName": "Intel Core i5-8600K",
+    "singleCoreScore": "1573",
+    "multiCoreScore": "5677"
+  },
+  {
+    "cpuName": "Intel Core i9-10940X",
+    "singleCoreScore": "1573",
+    "multiCoreScore": "10503"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 3500X",
+    "singleCoreScore": "1573",
+    "multiCoreScore": "5875"
+  },
+  {
+    "cpuName": "Intel Core i3-10320",
+    "singleCoreScore": "1573",
+    "multiCoreScore": "4777"
+  },
+  {
+    "cpuName": "Intel Core i9-10900E",
+    "singleCoreScore": "1572",
+    "multiCoreScore": "8485"
+  },
+  {
+    "cpuName": "Intel Core i7-9700",
+    "singleCoreScore": "1570",
+    "multiCoreScore": "6216"
+  },
+  {
+    "cpuName": "Intel Core i3-1115G4",
+    "singleCoreScore": "1569",
+    "multiCoreScore": "3058"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 4650G",
+    "singleCoreScore": "1568",
+    "multiCoreScore": "6140"
+  },
+  {
+    "cpuName": "Intel Core i5-10505",
+    "singleCoreScore": "1568",
+    "multiCoreScore": "5257"
+  },
+  {
+    "cpuName": "Intel Core i5-11400T",
+    "singleCoreScore": "1565",
+    "multiCoreScore": "5487"
+  },
+  {
+    "cpuName": "Intel Xeon E-2224G",
+    "singleCoreScore": "1565",
+    "multiCoreScore": "4398"
+  },
+  {
+    "cpuName": "Intel Xeon W-2235",
+    "singleCoreScore": "1564",
+    "multiCoreScore": "7051"
+  },
+  {
+    "cpuName": "Intel Xeon W-2255",
+    "singleCoreScore": "1562",
+    "multiCoreScore": "9417"
+  },
+  {
+    "cpuName": "Intel Core i7-9700E",
+    "singleCoreScore": "1562",
+    "multiCoreScore": "6039"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 4500",
+    "singleCoreScore": "1561",
+    "multiCoreScore": "6211"
+  },
+  {
+    "cpuName": "Intel Xeon E-2286M",
+    "singleCoreScore": "1559",
+    "multiCoreScore": "6739"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 7730U",
+    "singleCoreScore": "1553",
+    "multiCoreScore": "5584"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 4900H",
+    "singleCoreScore": "1552",
+    "multiCoreScore": "6735"
+  },
+  {
+    "cpuName": "Intel Xeon E-2174G",
+    "singleCoreScore": "1550",
+    "multiCoreScore": "5098"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 PRO 5475U",
+    "singleCoreScore": "1550",
+    "multiCoreScore": "4092"
+  },
+  {
+    "cpuName": "Intel Xeon E-2186G",
+    "singleCoreScore": "1550",
+    "multiCoreScore": "6397"
+  },
+  {
+    "cpuName": "Intel Core i3-10300",
+    "singleCoreScore": "1537",
+    "multiCoreScore": "4784"
+  },
+  {
+    "cpuName": "Intel Xeon E-2134",
+    "singleCoreScore": "1535",
+    "multiCoreScore": "4911"
+  },
+  {
+    "cpuName": "Intel Xeon W-2265",
+    "singleCoreScore": "1534",
+    "multiCoreScore": "10236"
+  },
+  {
+    "cpuName": "AMD EPYC 7343",
+    "singleCoreScore": "1533",
+    "multiCoreScore": "11934"
+  },
+  {
+    "cpuName": "Intel Core i5-7600K",
+    "singleCoreScore": "1532",
+    "multiCoreScore": "4274"
+  },
+  {
+    "cpuName": "Intel Core i7-8700",
+    "singleCoreScore": "1532",
+    "multiCoreScore": "5944"
+  },
+  {
+    "cpuName": "Intel Xeon W-2295",
+    "singleCoreScore": "1530",
+    "multiCoreScore": "10944"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 5400U",
+    "singleCoreScore": "1530",
+    "multiCoreScore": "4541"
+  },
+  {
+    "cpuName": "Intel Core i9-13900E",
+    "singleCoreScore": "1528",
+    "multiCoreScore": "8082"
+  },
+  {
+    "cpuName": "Intel Core i5-10500",
+    "singleCoreScore": "1527",
+    "multiCoreScore": "5480"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 5875U",
+    "singleCoreScore": "1526",
+    "multiCoreScore": "5300"
+  },
+  {
+    "cpuName": "Intel Xeon E-2136",
+    "singleCoreScore": "1525",
+    "multiCoreScore": "6234"
+  },
+  {
+    "cpuName": "Intel Xeon E-2144G",
+    "singleCoreScore": "1525",
+    "multiCoreScore": "4907"
+  },
+  {
+    "cpuName": "Intel Core i7-10875H",
+    "singleCoreScore": "1521",
+    "multiCoreScore": "6583"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 4100",
+    "singleCoreScore": "1519",
+    "multiCoreScore": "4849"
+  },
+  {
+    "cpuName": "Intel Xeon E-2146G",
+    "singleCoreScore": "1518",
+    "multiCoreScore": "6191"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6334",
+    "singleCoreScore": "1518",
+    "multiCoreScore": "9498"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 PRO 5450U",
+    "singleCoreScore": "1516",
+    "multiCoreScore": "4826"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 3500",
+    "singleCoreScore": "1515",
+    "multiCoreScore": "5382"
+  },
+  {
+    "cpuName": "Intel Core i5-1038NG7",
+    "singleCoreScore": "1514",
+    "multiCoreScore": "4890"
+  },
+  {
+    "cpuName": "Intel Core i7-6700K",
+    "singleCoreScore": "1507",
+    "multiCoreScore": "4948"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 5425U",
+    "singleCoreScore": "1506",
+    "multiCoreScore": "4278"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1275 v6",
+    "singleCoreScore": "1503",
+    "multiCoreScore": "4950"
+  },
+  {
+    "cpuName": "Intel Core i7-8700B",
+    "singleCoreScore": "1502",
+    "multiCoreScore": "5773"
+  },
+  {
+    "cpuName": "Intel Core i5-10500E",
+    "singleCoreScore": "1502",
+    "multiCoreScore": "6520"
+  },
+  {
+    "cpuName": "Intel Core i9-10885H",
+    "singleCoreScore": "1499",
+    "multiCoreScore": "6382"
+  },
+  {
+    "cpuName": "Intel Core i5-9500F",
+    "singleCoreScore": "1499",
+    "multiCoreScore": "5096"
+  },
+  {
+    "cpuName": "Intel Xeon W-2225",
+    "singleCoreScore": "1497",
+    "multiCoreScore": "5380"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 3100",
+    "singleCoreScore": "1496",
+    "multiCoreScore": "5117"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 7330U",
+    "singleCoreScore": "1496",
+    "multiCoreScore": "3926"
+  },
+  {
+    "cpuName": "AMD EPYC 7773X",
+    "singleCoreScore": "1496",
+    "multiCoreScore": "14825"
+  },
+  {
+    "cpuName": "Intel Xeon E-2224",
+    "singleCoreScore": "1493",
+    "multiCoreScore": "4146"
+  },
+  {
+    "cpuName": "Intel Core i3-8350K",
+    "singleCoreScore": "1492",
+    "multiCoreScore": "4223"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 6860Z",
+    "singleCoreScore": "1492",
+    "multiCoreScore": "6472"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 PRO 4350GE",
+    "singleCoreScore": "1490",
+    "multiCoreScore": "4787"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 4800H",
+    "singleCoreScore": "1488",
+    "multiCoreScore": "6080"
+  },
+  {
+    "cpuName": "AMD EPYC 7313",
+    "singleCoreScore": "1487",
+    "multiCoreScore": "11432"
+  },
+  {
+    "cpuName": "Intel Core i7-10850H",
+    "singleCoreScore": "1484",
+    "multiCoreScore": "5508"
+  },
+  {
+    "cpuName": "Intel Core i3-10105",
+    "singleCoreScore": "1481",
+    "multiCoreScore": "4325"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 4650GE",
+    "singleCoreScore": "1481",
+    "multiCoreScore": "5711"
+  },
+  {
+    "cpuName": "Intel Core i9-9940X",
+    "singleCoreScore": "1478",
+    "multiCoreScore": "10443"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 PRO 4350G",
+    "singleCoreScore": "1478",
+    "multiCoreScore": "4681"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6244",
+    "singleCoreScore": "1478",
+    "multiCoreScore": "8300"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5500H",
+    "singleCoreScore": "1475",
+    "multiCoreScore": "3952"
+  },
+  {
+    "cpuName": "Intel Core i3-9350KF",
+    "singleCoreScore": "1474",
+    "multiCoreScore": "3621"
+  },
+  {
+    "cpuName": "Intel Core i5-9600",
+    "singleCoreScore": "1473",
+    "multiCoreScore": "4808"
+  },
+  {
+    "cpuName": "Intel Core i3-10105F",
+    "singleCoreScore": "1472",
+    "multiCoreScore": "4520"
+  },
+  {
+    "cpuName": "Intel Core i9-9900T",
+    "singleCoreScore": "1471",
+    "multiCoreScore": "5807"
+  },
+  {
+    "cpuName": "Intel Core i5-9500",
+    "singleCoreScore": "1470",
+    "multiCoreScore": "4951"
+  },
+  {
+    "cpuName": "Intel Xeon W-3175X",
+    "singleCoreScore": "1466",
+    "multiCoreScore": "14191"
+  },
+  {
+    "cpuName": "Intel Xeon W-3245M",
+    "singleCoreScore": "1465",
+    "multiCoreScore": "12122"
+  },
+  {
+    "cpuName": "Intel Xeon W-10855M",
+    "singleCoreScore": "1463",
+    "multiCoreScore": "5763"
+  },
+  {
+    "cpuName": "Intel Core i3-7350K",
+    "singleCoreScore": "1462",
+    "multiCoreScore": "2877"
+  },
+  {
+    "cpuName": "Intel Core i9-7940X",
+    "singleCoreScore": "1461",
+    "multiCoreScore": "10638"
+  },
+  {
+    "cpuName": "Intel Core i5-8600",
+    "singleCoreScore": "1461",
+    "multiCoreScore": "5044"
+  },
+  {
+    "cpuName": "Intel Core i9-9900X",
+    "singleCoreScore": "1461",
+    "multiCoreScore": "9370"
+  },
+  {
+    "cpuName": "Intel Xeon W-1250",
+    "singleCoreScore": "1458",
+    "multiCoreScore": "5989"
+  },
+  {
+    "cpuName": "Intel Core i5-10400F",
+    "singleCoreScore": "1456",
+    "multiCoreScore": "5759"
+  },
+  {
+    "cpuName": "Intel Xeon E-2124G",
+    "singleCoreScore": "1456",
+    "multiCoreScore": "4099"
+  },
+  {
+    "cpuName": "Intel Xeon E-2124",
+    "singleCoreScore": "1456",
+    "multiCoreScore": "3952"
+  },
+  {
+    "cpuName": "AMD Ryzen 9 4900HS",
+    "singleCoreScore": "1455",
+    "multiCoreScore": "6424"
+  },
+  {
+    "cpuName": "Intel Core i5-10500H",
+    "singleCoreScore": "1455",
+    "multiCoreScore": "5016"
+  },
+  {
+    "cpuName": "Intel Core i7-10750H",
+    "singleCoreScore": "1452",
+    "multiCoreScore": "5346"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1270 v6",
+    "singleCoreScore": "1452",
+    "multiCoreScore": "4500"
+  },
+  {
+    "cpuName": "Intel Core i3-10100F",
+    "singleCoreScore": "1451",
+    "multiCoreScore": "4484"
+  },
+  {
+    "cpuName": "Intel Core i9-10900T",
+    "singleCoreScore": "1451",
+    "multiCoreScore": "6533"
+  },
+  {
+    "cpuName": "Intel Core i5-10400",
+    "singleCoreScore": "1447",
+    "multiCoreScore": "5533"
+  },
+  {
+    "cpuName": "Intel Xeon W-3235",
+    "singleCoreScore": "1447",
+    "multiCoreScore": "10331"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4410Y",
+    "singleCoreScore": "1445",
+    "multiCoreScore": "10335"
+  },
+  {
+    "cpuName": "Intel Core i9-7980XE",
+    "singleCoreScore": "1442",
+    "multiCoreScore": "11141"
+  },
+  {
+    "cpuName": "Intel Core i7-8569U",
+    "singleCoreScore": "1442",
+    "multiCoreScore": "4300"
+  },
+  {
+    "cpuName": "Intel Core i7-10700T",
+    "singleCoreScore": "1442",
+    "multiCoreScore": "5994"
+  },
+  {
+    "cpuName": "Intel Core i3-1125G4",
+    "singleCoreScore": "1441",
+    "multiCoreScore": "4061"
+  },
+  {
+    "cpuName": "Intel Core i9-7900X",
+    "singleCoreScore": "1440",
+    "multiCoreScore": "8814"
+  },
+  {
+    "cpuName": "Intel Xeon E-2276M",
+    "singleCoreScore": "1439",
+    "multiCoreScore": "5232"
+  },
+  {
+    "cpuName": "Intel Core i3-10100",
+    "singleCoreScore": "1438",
+    "multiCoreScore": "4234"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 4800HS",
+    "singleCoreScore": "1438",
+    "multiCoreScore": "5990"
+  },
+  {
+    "cpuName": "AMD EPYC 74F3",
+    "singleCoreScore": "1438",
+    "multiCoreScore": "12689"
+  },
+  {
+    "cpuName": "Intel Core i5-6600K",
+    "singleCoreScore": "1436",
+    "multiCoreScore": "4053"
+  },
+  {
+    "cpuName": "Intel Core i7-5775C",
+    "singleCoreScore": "1435",
+    "multiCoreScore": "4959"
+  },
+  {
+    "cpuName": "Intel Core i7-10870H",
+    "singleCoreScore": "1435",
+    "multiCoreScore": "6041"
+  },
+  {
+    "cpuName": "Intel Core i9-9980XE",
+    "singleCoreScore": "1433",
+    "multiCoreScore": "11376"
+  },
+  {
+    "cpuName": "Intel Core i9-9920X",
+    "singleCoreScore": "1431",
+    "multiCoreScore": "9649"
+  },
+  {
+    "cpuName": "Intel Core i7-7820X",
+    "singleCoreScore": "1428",
+    "multiCoreScore": "7854"
+  },
+  {
+    "cpuName": "Intel Core i9-9980HK",
+    "singleCoreScore": "1426",
+    "multiCoreScore": "6317"
+  },
+  {
+    "cpuName": "Intel Core i5-10400H",
+    "singleCoreScore": "1423",
+    "multiCoreScore": "4055"
+  },
+  {
+    "cpuName": "Intel Xeon W-2145",
+    "singleCoreScore": "1421",
+    "multiCoreScore": "7877"
+  },
+  {
+    "cpuName": "Intel Xeon E-2186M",
+    "singleCoreScore": "1421",
+    "multiCoreScore": "5347"
+  },
+  {
+    "cpuName": "Intel Xeon W-2135",
+    "singleCoreScore": "1419",
+    "multiCoreScore": "6675"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 5700U",
+    "singleCoreScore": "1416",
+    "multiCoreScore": "5511"
+  },
+  {
+    "cpuName": "Intel Core i5-10600T",
+    "singleCoreScore": "1413",
+    "multiCoreScore": "4869"
+  },
+  {
+    "cpuName": "AMD EPYC 7F52",
+    "singleCoreScore": "1412",
+    "multiCoreScore": "9811"
+  },
+  {
+    "cpuName": "Intel Core i7-4790K",
+    "singleCoreScore": "1410",
+    "multiCoreScore": "4400"
+  },
+  {
+    "cpuName": "Intel Core i7-8809G",
+    "singleCoreScore": "1408",
+    "multiCoreScore": "4604"
+  },
+  {
+    "cpuName": "Intel Core i7-7700",
+    "singleCoreScore": "1407",
+    "multiCoreScore": "4479"
+  },
+  {
+    "cpuName": "Intel Core i9-8950HK",
+    "singleCoreScore": "1407",
+    "multiCoreScore": "5097"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 4800U",
+    "singleCoreScore": "1407",
+    "multiCoreScore": "5707"
+  },
+  {
+    "cpuName": "Intel Core i5-8500B",
+    "singleCoreScore": "1403",
+    "multiCoreScore": "4915"
+  },
+  {
+    "cpuName": "AMD EPYC 9354P",
+    "singleCoreScore": "1403",
+    "multiCoreScore": "11992"
+  },
+  {
+    "cpuName": "Intel Core i5-9400F",
+    "singleCoreScore": "1402",
+    "multiCoreScore": "4886"
+  },
+  {
+    "cpuName": "Intel Core i5-9400",
+    "singleCoreScore": "1401",
+    "multiCoreScore": "4838"
+  },
+  {
+    "cpuName": "Intel Core i3-9100",
+    "singleCoreScore": "1401",
+    "multiCoreScore": "3651"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1240 v6",
+    "singleCoreScore": "1400",
+    "multiCoreScore": "4409"
+  },
+  {
+    "cpuName": "Intel Core i9-9960X",
+    "singleCoreScore": "1400",
+    "multiCoreScore": "10309"
+  },
+  {
+    "cpuName": "Intel Core i5-7600",
+    "singleCoreScore": "1399",
+    "multiCoreScore": "3846"
+  },
+  {
+    "cpuName": "Intel Core i5-8500",
+    "singleCoreScore": "1397",
+    "multiCoreScore": "4858"
+  },
+  {
+    "cpuName": "Intel Core i7-9750HF",
+    "singleCoreScore": "1396",
+    "multiCoreScore": "4879"
+  },
+  {
+    "cpuName": "Intel Core i3-9100F",
+    "singleCoreScore": "1394",
+    "multiCoreScore": "3711"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1280 v6",
+    "singleCoreScore": "1394",
+    "multiCoreScore": "4599"
+  },
+  {
+    "cpuName": "Intel Core i7-9700T",
+    "singleCoreScore": "1393",
+    "multiCoreScore": "5182"
+  },
+  {
+    "cpuName": "Intel Xeon W-3245",
+    "singleCoreScore": "1390",
+    "multiCoreScore": "11682"
+  },
+  {
+    "cpuName": "Intel Core i7-9850H",
+    "singleCoreScore": "1385",
+    "multiCoreScore": "5053"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1286 v3",
+    "singleCoreScore": "1383",
+    "multiCoreScore": "4570"
+  },
+  {
+    "cpuName": "Intel Core i7-9800X",
+    "singleCoreScore": "1382",
+    "multiCoreScore": "7462"
+  },
+  {
+    "cpuName": "Intel Core i5-10300H",
+    "singleCoreScore": "1381",
+    "multiCoreScore": "4020"
+  },
+  {
+    "cpuName": "Intel Core i7-8559U",
+    "singleCoreScore": "1380",
+    "multiCoreScore": "4268"
+  },
+  {
+    "cpuName": "Intel Core i9-9880H",
+    "singleCoreScore": "1378",
+    "multiCoreScore": "6111"
+  },
+  {
+    "cpuName": "Intel Core i5-5675C",
+    "singleCoreScore": "1376",
+    "multiCoreScore": "4179"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1575M v5",
+    "singleCoreScore": "1376",
+    "multiCoreScore": "4635"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1270 v5",
+    "singleCoreScore": "1376",
+    "multiCoreScore": "4445"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1260L v5",
+    "singleCoreScore": "1376",
+    "multiCoreScore": "4334"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1245 v6",
+    "singleCoreScore": "1375",
+    "multiCoreScore": "4356"
+  },
+  {
+    "cpuName": "Intel Core i3-7320",
+    "singleCoreScore": "1375",
+    "multiCoreScore": "2691"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6234",
+    "singleCoreScore": "1374",
+    "multiCoreScore": "8471"
+  },
+  {
+    "cpuName": "Intel Core i5-8400",
+    "singleCoreScore": "1372",
+    "multiCoreScore": "4788"
+  },
+  {
+    "cpuName": "Intel Core i5-9400H",
+    "singleCoreScore": "1371",
+    "multiCoreScore": "4198"
+  },
+  {
+    "cpuName": "Intel Xeon E-2176M",
+    "singleCoreScore": "1369",
+    "multiCoreScore": "4814"
+  },
+  {
+    "cpuName": "Intel Core i3-7300",
+    "singleCoreScore": "1368",
+    "multiCoreScore": "2698"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 4600H",
+    "singleCoreScore": "1365",
+    "multiCoreScore": "5059"
+  },
+  {
+    "cpuName": "Intel Core i7-9750H",
+    "singleCoreScore": "1364",
+    "multiCoreScore": "4977"
+  },
+  {
+    "cpuName": "Intel Xeon W-3223",
+    "singleCoreScore": "1364",
+    "multiCoreScore": "8088"
+  },
+  {
+    "cpuName": "Intel Core i7-7800X",
+    "singleCoreScore": "1363",
+    "multiCoreScore": "6153"
+  },
+  {
+    "cpuName": "Intel Core i9-7920X",
+    "singleCoreScore": "1363",
+    "multiCoreScore": "9178"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1275 v5",
+    "singleCoreScore": "1362",
+    "multiCoreScore": "4460"
+  },
+  {
+    "cpuName": "Intel Xeon W-2125",
+    "singleCoreScore": "1361",
+    "multiCoreScore": "4957"
+  },
+  {
+    "cpuName": "Intel Pentium Gold 7505",
+    "singleCoreScore": "1361",
+    "multiCoreScore": "2613"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6254",
+    "singleCoreScore": "1360",
+    "multiCoreScore": "10199"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 4700U",
+    "singleCoreScore": "1351",
+    "multiCoreScore": "4913"
+  },
+  {
+    "cpuName": "Intel Core i5-10200H",
+    "singleCoreScore": "1347",
+    "multiCoreScore": "4050"
+  },
+  {
+    "cpuName": "Intel Xeon W-2155",
+    "singleCoreScore": "1344",
+    "multiCoreScore": "8623"
+  },
+  {
+    "cpuName": "Intel Core i7-8700T",
+    "singleCoreScore": "1343",
+    "multiCoreScore": "4662"
+  },
+  {
+    "cpuName": "Intel Core i3-10300T",
+    "singleCoreScore": "1342",
+    "multiCoreScore": "4337"
+  },
+  {
+    "cpuName": "Intel Core i7-8850H",
+    "singleCoreScore": "1340",
+    "multiCoreScore": "4623"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 4600U",
+    "singleCoreScore": "1339",
+    "multiCoreScore": "4788"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 4750U",
+    "singleCoreScore": "1335",
+    "multiCoreScore": "5044"
+  },
+  {
+    "cpuName": "Intel Xeon W-2140B",
+    "singleCoreScore": "1334",
+    "multiCoreScore": "7656"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1230 v6",
+    "singleCoreScore": "1329",
+    "multiCoreScore": "4497"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6226R",
+    "singleCoreScore": "1329",
+    "multiCoreScore": "9463"
+  },
+  {
+    "cpuName": "Intel Xeon W-2195",
+    "singleCoreScore": "1329",
+    "multiCoreScore": "9738"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 5220R",
+    "singleCoreScore": "1328",
+    "multiCoreScore": "9982"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1660 v3",
+    "singleCoreScore": "1324",
+    "multiCoreScore": "7154"
+  },
+  {
+    "cpuName": "Intel Core i7-6950X",
+    "singleCoreScore": "1322",
+    "multiCoreScore": "8627"
+  },
+  {
+    "cpuName": "Intel Core i3-8300",
+    "singleCoreScore": "1322",
+    "multiCoreScore": "3789"
+  },
+  {
+    "cpuName": "Intel Core i7-5960X",
+    "singleCoreScore": "1321",
+    "multiCoreScore": "7483"
+  },
+  {
+    "cpuName": "Intel Core i5-8400H",
+    "singleCoreScore": "1320",
+    "multiCoreScore": "3714"
+  },
+  {
+    "cpuName": "Intel Xeon Platinum 8180",
+    "singleCoreScore": "1319",
+    "multiCoreScore": "11174"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1245 v5",
+    "singleCoreScore": "1315",
+    "multiCoreScore": "4185"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 4650U",
+    "singleCoreScore": "1315",
+    "multiCoreScore": "4602"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1285L v4",
+    "singleCoreScore": "1315",
+    "multiCoreScore": "4537"
+  },
+  {
+    "cpuName": "AMD EPYC 7402",
+    "singleCoreScore": "1315",
+    "multiCoreScore": "11865"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4215R",
+    "singleCoreScore": "1314",
+    "multiCoreScore": "6975"
+  },
+  {
+    "cpuName": "Intel Core i7-6700",
+    "singleCoreScore": "1313",
+    "multiCoreScore": "4189"
+  },
+  {
+    "cpuName": "Intel Core i5-1030NG7",
+    "singleCoreScore": "1313",
+    "multiCoreScore": "3356"
+  },
+  {
+    "cpuName": "Intel Xeon W-2150B",
+    "singleCoreScore": "1310",
+    "multiCoreScore": "8490"
+  },
+  {
+    "cpuName": "Intel Core i7-7567U",
+    "singleCoreScore": "1309",
+    "multiCoreScore": "2650"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 PRO 4450U",
+    "singleCoreScore": "1308",
+    "multiCoreScore": "3996"
+  },
+  {
+    "cpuName": "Intel Core i7-8750H",
+    "singleCoreScore": "1307",
+    "multiCoreScore": "4640"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1230 v5",
+    "singleCoreScore": "1306",
+    "multiCoreScore": "4193"
+  },
+  {
+    "cpuName": "Intel Core i5-4690K",
+    "singleCoreScore": "1305",
+    "multiCoreScore": "3654"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1225 v6",
+    "singleCoreScore": "1305",
+    "multiCoreScore": "3677"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1281 v3",
+    "singleCoreScore": "1305",
+    "multiCoreScore": "4170"
+  },
+  {
+    "cpuName": "Intel Core i3-10105T",
+    "singleCoreScore": "1302",
+    "multiCoreScore": "3726"
+  },
+  {
+    "cpuName": "Intel Core i7-4940MX",
+    "singleCoreScore": "1298",
+    "multiCoreScore": "4227"
+  },
+  {
+    "cpuName": "Intel Core i3-6320",
+    "singleCoreScore": "1297",
+    "multiCoreScore": "2599"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1280 v5",
+    "singleCoreScore": "1297",
+    "multiCoreScore": "4430"
+  },
+  {
+    "cpuName": "Intel Core i5-6600",
+    "singleCoreScore": "1296",
+    "multiCoreScore": "3570"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1535M v5",
+    "singleCoreScore": "1296",
+    "multiCoreScore": "3718"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6248",
+    "singleCoreScore": "1295",
+    "multiCoreScore": "10474"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1240 v5",
+    "singleCoreScore": "1293",
+    "multiCoreScore": "4320"
+  },
+  {
+    "cpuName": "Intel Core i7-6850K",
+    "singleCoreScore": "1291",
+    "multiCoreScore": "5863"
+  },
+  {
+    "cpuName": "Intel Core i7-8705G",
+    "singleCoreScore": "1290",
+    "multiCoreScore": "3930"
+  },
+  {
+    "cpuName": "Intel Core i5-9300H",
+    "singleCoreScore": "1290",
+    "multiCoreScore": "3696"
+  },
+  {
+    "cpuName": "Intel Core i5-8600T",
+    "singleCoreScore": "1289",
+    "multiCoreScore": "4335"
+  },
+  {
+    "cpuName": "Intel Core i7-4770K",
+    "singleCoreScore": "1285",
+    "multiCoreScore": "4085"
+  },
+  {
+    "cpuName": "Intel Core i3-1005G1",
+    "singleCoreScore": "1285",
+    "multiCoreScore": "2379"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 5500U",
+    "singleCoreScore": "1285",
+    "multiCoreScore": "4530"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4314",
+    "singleCoreScore": "1285",
+    "multiCoreScore": "9243"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 4600HS",
+    "singleCoreScore": "1283",
+    "multiCoreScore": "5078"
+  },
+  {
+    "cpuName": "Intel Core i7-7920HQ",
+    "singleCoreScore": "1283",
+    "multiCoreScore": "4116"
+  },
+  {
+    "cpuName": "Intel Core i5-7500",
+    "singleCoreScore": "1282",
+    "multiCoreScore": "3516"
+  },
+  {
+    "cpuName": "Intel Core i9-7960X",
+    "singleCoreScore": "1281",
+    "multiCoreScore": "10059"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper 2920X",
+    "singleCoreScore": "1279",
+    "multiCoreScore": "7357"
+  },
+  {
+    "cpuName": "Intel Core i3-7100",
+    "singleCoreScore": "1277",
+    "multiCoreScore": "2498"
+  },
+  {
+    "cpuName": "Intel Core i5-9300HF",
+    "singleCoreScore": "1277",
+    "multiCoreScore": "3630"
+  },
+  {
+    "cpuName": "Intel Core i5-8300H",
+    "singleCoreScore": "1275",
+    "multiCoreScore": "3751"
+  },
+  {
+    "cpuName": "Intel Core i5-10500T",
+    "singleCoreScore": "1275",
+    "multiCoreScore": "4605"
+  },
+  {
+    "cpuName": "Intel Core i7-6900K",
+    "singleCoreScore": "1273",
+    "multiCoreScore": "7086"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6248R",
+    "singleCoreScore": "1273",
+    "multiCoreScore": "10533"
+  },
+  {
+    "cpuName": "Intel Core i3-10100T",
+    "singleCoreScore": "1272",
+    "multiCoreScore": "3806"
+  },
+  {
+    "cpuName": "Intel Core i7-1060NG7",
+    "singleCoreScore": "1272",
+    "multiCoreScore": "3432"
+  },
+  {
+    "cpuName": "Intel Xeon W-2223",
+    "singleCoreScore": "1272",
+    "multiCoreScore": "4588"
+  },
+  {
+    "cpuName": "Intel Core i5-9600T",
+    "singleCoreScore": "1269",
+    "multiCoreScore": "4322"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1545M v5",
+    "singleCoreScore": "1268",
+    "multiCoreScore": "4081"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1276 v3",
+    "singleCoreScore": "1267",
+    "multiCoreScore": "4007"
+  },
+  {
+    "cpuName": "Intel Core i3-8100",
+    "singleCoreScore": "1264",
+    "multiCoreScore": "3457"
+  },
+  {
+    "cpuName": "Intel Core i7-7820HK",
+    "singleCoreScore": "1263",
+    "multiCoreScore": "4141"
+  },
+  {
+    "cpuName": "Intel Core i3-1000NG4",
+    "singleCoreScore": "1263",
+    "multiCoreScore": "2250"
+  },
+  {
+    "cpuName": "Intel Core i3-6300",
+    "singleCoreScore": "1260",
+    "multiCoreScore": "2541"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 5317",
+    "singleCoreScore": "1260",
+    "multiCoreScore": "9808"
+  },
+  {
+    "cpuName": "Intel Core i7-7700T",
+    "singleCoreScore": "1259",
+    "multiCoreScore": "3916"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 4300U",
+    "singleCoreScore": "1258",
+    "multiCoreScore": "3375"
+  },
+  {
+    "cpuName": "Intel Core i5-4670K",
+    "singleCoreScore": "1257",
+    "multiCoreScore": "3527"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1275 v3",
+    "singleCoreScore": "1257",
+    "multiCoreScore": "3978"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 2700X",
+    "singleCoreScore": "1254",
+    "multiCoreScore": "6122"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper 2950X",
+    "singleCoreScore": "1254",
+    "multiCoreScore": "8450"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 2700X",
+    "singleCoreScore": "1252",
+    "multiCoreScore": "6244"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4310",
+    "singleCoreScore": "1249",
+    "multiCoreScore": "7836"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 2600X",
+    "singleCoreScore": "1246",
+    "multiCoreScore": "5282"
+  },
+  {
+    "cpuName": "Intel Core i5-9500T",
+    "singleCoreScore": "1246",
+    "multiCoreScore": "4215"
+  },
+  {
+    "cpuName": "Intel Core i7-6800K",
+    "singleCoreScore": "1244",
+    "multiCoreScore": "5736"
+  },
+  {
+    "cpuName": "Intel Core i7-4790",
+    "singleCoreScore": "1243",
+    "multiCoreScore": "3898"
+  },
+  {
+    "cpuName": "Intel Xeon W-2133",
+    "singleCoreScore": "1242",
+    "multiCoreScore": "5787"
+  },
+  {
+    "cpuName": "Intel Core i7-4770R",
+    "singleCoreScore": "1242",
+    "multiCoreScore": "3827"
+  },
+  {
+    "cpuName": "Intel Core i5-8259U",
+    "singleCoreScore": "1239",
+    "multiCoreScore": "4099"
+  },
+  {
+    "cpuName": "Intel Core i3-8100B",
+    "singleCoreScore": "1239",
+    "multiCoreScore": "3534"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper 2970WX",
+    "singleCoreScore": "1239",
+    "multiCoreScore": "7173"
+  },
+  {
+    "cpuName": "Intel Core i7-4980HQ",
+    "singleCoreScore": "1238",
+    "multiCoreScore": "3858"
+  },
+  {
+    "cpuName": "Intel Core i5-7600T",
+    "singleCoreScore": "1237",
+    "multiCoreScore": "3398"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1225 v5",
+    "singleCoreScore": "1235",
+    "multiCoreScore": "3435"
+  },
+  {
+    "cpuName": "Intel Core i5-5675R",
+    "singleCoreScore": "1235",
+    "multiCoreScore": "3747"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1270 v3",
+    "singleCoreScore": "1234",
+    "multiCoreScore": "3901"
+  },
+  {
+    "cpuName": "Intel Xeon Processor E5-1680 v3",
+    "singleCoreScore": "1234",
+    "multiCoreScore": "7059"
+  },
+  {
+    "cpuName": "Intel Core i3-4370",
+    "singleCoreScore": "1232",
+    "multiCoreScore": "2411"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1680 v4",
+    "singleCoreScore": "1231",
+    "multiCoreScore": "7004"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1220 v6",
+    "singleCoreScore": "1230",
+    "multiCoreScore": "3516"
+  },
+  {
+    "cpuName": "Intel Core i7-4790S",
+    "singleCoreScore": "1229",
+    "multiCoreScore": "3840"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4214R",
+    "singleCoreScore": "1226",
+    "multiCoreScore": "7382"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2643 v4",
+    "singleCoreScore": "1226",
+    "multiCoreScore": "5937"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1505M v6",
+    "singleCoreScore": "1225",
+    "multiCoreScore": "3759"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 2300X",
+    "singleCoreScore": "1224",
+    "multiCoreScore": "3387"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6134",
+    "singleCoreScore": "1224",
+    "multiCoreScore": "7334"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1241 v3",
+    "singleCoreScore": "1223",
+    "multiCoreScore": "3866"
+  },
+  {
+    "cpuName": "Intel Core i5-8257U",
+    "singleCoreScore": "1223",
+    "multiCoreScore": "4006"
+  },
+  {
+    "cpuName": "Intel Core i7-4790T",
+    "singleCoreScore": "1223",
+    "multiCoreScore": "3569"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1275L v3",
+    "singleCoreScore": "1223",
+    "multiCoreScore": "3468"
+  },
+  {
+    "cpuName": "Intel Core i3-9100T",
+    "singleCoreScore": "1222",
+    "multiCoreScore": "3207"
+  },
+  {
+    "cpuName": "Intel Core i7-4771",
+    "singleCoreScore": "1220",
+    "multiCoreScore": "3881"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1245 v3",
+    "singleCoreScore": "1219",
+    "multiCoreScore": "3905"
+  },
+  {
+    "cpuName": "Intel Xeon W-3275M",
+    "singleCoreScore": "1219",
+    "multiCoreScore": "12239"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1535M v6",
+    "singleCoreScore": "1217",
+    "multiCoreScore": "3710"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 5300U",
+    "singleCoreScore": "1216",
+    "multiCoreScore": "3607"
+  },
+  {
+    "cpuName": "Intel Core i3-6100",
+    "singleCoreScore": "1214",
+    "multiCoreScore": "2374"
+  },
+  {
+    "cpuName": "Intel Xeon W-2191B",
+    "singleCoreScore": "1214",
+    "multiCoreScore": "9463"
+  },
+  {
+    "cpuName": "Intel Core i7-4770",
+    "singleCoreScore": "1212",
+    "multiCoreScore": "3838"
+  },
+  {
+    "cpuName": "Intel Core i5-4690",
+    "singleCoreScore": "1211",
+    "multiCoreScore": "3325"
+  },
+  {
+    "cpuName": "Intel Core i3-4360",
+    "singleCoreScore": "1210",
+    "multiCoreScore": "2386"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1220 v5",
+    "singleCoreScore": "1209",
+    "multiCoreScore": "3357"
+  },
+  {
+    "cpuName": "AMD EPYC 7302",
+    "singleCoreScore": "1209",
+    "multiCoreScore": "8691"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1650 v3",
+    "singleCoreScore": "1208",
+    "multiCoreScore": "5486"
+  },
+  {
+    "cpuName": "Intel Xeon W-2175",
+    "singleCoreScore": "1208",
+    "multiCoreScore": "8256"
+  },
+  {
+    "cpuName": "Intel Xeon W-2123",
+    "singleCoreScore": "1205",
+    "multiCoreScore": "4358"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper 2990WX",
+    "singleCoreScore": "1204",
+    "multiCoreScore": "7510"
+  },
+  {
+    "cpuName": "Intel Core i7-6700T",
+    "singleCoreScore": "1203",
+    "multiCoreScore": "3541"
+  },
+  {
+    "cpuName": "Intel Core i5-7440HQ",
+    "singleCoreScore": "1203",
+    "multiCoreScore": "3072"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1630 v4",
+    "singleCoreScore": "1202",
+    "multiCoreScore": "4185"
+  },
+  {
+    "cpuName": "Intel Core i7-5930K",
+    "singleCoreScore": "1201",
+    "multiCoreScore": "5616"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1231 v3",
+    "singleCoreScore": "1198",
+    "multiCoreScore": "3779"
+  },
+  {
+    "cpuName": "Intel Core i5-6500",
+    "singleCoreScore": "1198",
+    "multiCoreScore": "3261"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1271 v3",
+    "singleCoreScore": "1197",
+    "multiCoreScore": "3848"
+  },
+  {
+    "cpuName": "Intel Core i5-8279U",
+    "singleCoreScore": "1197",
+    "multiCoreScore": "3734"
+  },
+  {
+    "cpuName": "Intel Core i7-7820HQ",
+    "singleCoreScore": "1196",
+    "multiCoreScore": "3582"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 7520U",
+    "singleCoreScore": "1196",
+    "multiCoreScore": "3779"
+  },
+  {
+    "cpuName": "Intel Core i5-7400",
+    "singleCoreScore": "1194",
+    "multiCoreScore": "3281"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper 1920X",
+    "singleCoreScore": "1194",
+    "multiCoreScore": "7171"
+  },
+  {
+    "cpuName": "Intel Core i7-6820HK",
+    "singleCoreScore": "1193",
+    "multiCoreScore": "3863"
+  },
+  {
+    "cpuName": "Intel Core i5-8500T",
+    "singleCoreScore": "1192",
+    "multiCoreScore": "4149"
+  },
+  {
+    "cpuName": "AMD EPYC 7302P",
+    "singleCoreScore": "1192",
+    "multiCoreScore": "8185"
+  },
+  {
+    "cpuName": "AMD EPYC 7402P",
+    "singleCoreScore": "1190",
+    "multiCoreScore": "9541"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1240 v3",
+    "singleCoreScore": "1189",
+    "multiCoreScore": "3765"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1280 v3",
+    "singleCoreScore": "1189",
+    "multiCoreScore": "3851"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6146",
+    "singleCoreScore": "1189",
+    "multiCoreScore": "8774"
+  },
+  {
+    "cpuName": "Intel Core i5-4670",
+    "singleCoreScore": "1188",
+    "multiCoreScore": "3266"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1650 v4",
+    "singleCoreScore": "1188",
+    "multiCoreScore": "5455"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper 1950X",
+    "singleCoreScore": "1186",
+    "multiCoreScore": "8130"
+  },
+  {
+    "cpuName": "Intel Core i3-8109U",
+    "singleCoreScore": "1186",
+    "multiCoreScore": "2437"
+  },
+  {
+    "cpuName": "Intel Core i7-5820K",
+    "singleCoreScore": "1185",
+    "multiCoreScore": "5508"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1505M v5",
+    "singleCoreScore": "1184",
+    "multiCoreScore": "3631"
+  },
+  {
+    "cpuName": "AMD Ryzen Threadripper 1900X",
+    "singleCoreScore": "1184",
+    "multiCoreScore": "5835"
+  },
+  {
+    "cpuName": "Intel Core i5-10210U",
+    "singleCoreScore": "1184",
+    "multiCoreScore": "3093"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1660 v4",
+    "singleCoreScore": "1183",
+    "multiCoreScore": "6660"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2699A v4",
+    "singleCoreScore": "1183",
+    "multiCoreScore": "9581"
+  },
+  {
+    "cpuName": "Intel Core i5-4690S",
+    "singleCoreScore": "1182",
+    "multiCoreScore": "3291"
+  },
+  {
+    "cpuName": "Intel Core i7-5775R",
+    "singleCoreScore": "1182",
+    "multiCoreScore": "3894"
+  },
+  {
+    "cpuName": "Intel Core i7-4770S",
+    "singleCoreScore": "1180",
+    "multiCoreScore": "3656"
+  },
+  {
+    "cpuName": "Intel Core i7-4930MX",
+    "singleCoreScore": "1179",
+    "multiCoreScore": "3439"
+  },
+  {
+    "cpuName": "Intel Core i7-4770T",
+    "singleCoreScore": "1179",
+    "multiCoreScore": "3607"
+  },
+  {
+    "cpuName": "Intel Core i5-6600T",
+    "singleCoreScore": "1178",
+    "multiCoreScore": "3152"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2667 v4",
+    "singleCoreScore": "1178",
+    "multiCoreScore": "6504"
+  },
+  {
+    "cpuName": "AMD EPYC 7702",
+    "singleCoreScore": "1178",
+    "multiCoreScore": "11708"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1265L v3",
+    "singleCoreScore": "1174",
+    "multiCoreScore": "3587"
+  },
+  {
+    "cpuName": "Intel Core i3-8300T",
+    "singleCoreScore": "1173",
+    "multiCoreScore": "3431"
+  },
+  {
+    "cpuName": "Intel Core i5-4670S",
+    "singleCoreScore": "1170",
+    "multiCoreScore": "3246"
+  },
+  {
+    "cpuName": "AMD EPYC 7532",
+    "singleCoreScore": "1166",
+    "multiCoreScore": "9416"
+  },
+  {
+    "cpuName": "Intel Core i7-4960HQ",
+    "singleCoreScore": "1165",
+    "multiCoreScore": "3860"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1246 v3",
+    "singleCoreScore": "1164",
+    "multiCoreScore": "3576"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 2600",
+    "singleCoreScore": "1164",
+    "multiCoreScore": "4581"
+  },
+  {
+    "cpuName": "Intel Core i7-6770HQ",
+    "singleCoreScore": "1163",
+    "multiCoreScore": "3918"
+  },
+  {
+    "cpuName": "Intel Core i7-7700HQ",
+    "singleCoreScore": "1163",
+    "multiCoreScore": "3606"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 2600",
+    "singleCoreScore": "1163",
+    "multiCoreScore": "4897"
+  },
+  {
+    "cpuName": "Intel Core i3-8121U",
+    "singleCoreScore": "1163",
+    "multiCoreScore": "2366"
+  },
+  {
+    "cpuName": "Intel Core i7-6920HQ",
+    "singleCoreScore": "1162",
+    "multiCoreScore": "3730"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1230 v3",
+    "singleCoreScore": "1160",
+    "multiCoreScore": "3715"
+  },
+  {
+    "cpuName": "Intel Core i7-7660U",
+    "singleCoreScore": "1157",
+    "multiCoreScore": "2311"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 5218",
+    "singleCoreScore": "1157",
+    "multiCoreScore": "8111"
+  },
+  {
+    "cpuName": "Intel Core i7-6820EQ",
+    "singleCoreScore": "1156",
+    "multiCoreScore": "3797"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 7320U",
+    "singleCoreScore": "1156",
+    "multiCoreScore": "3612"
+  },
+  {
+    "cpuName": "Intel Core i5-9400T",
+    "singleCoreScore": "1155",
+    "multiCoreScore": "3986"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1226 v3",
+    "singleCoreScore": "1152",
+    "multiCoreScore": "3285"
+  },
+  {
+    "cpuName": "Intel Core i5-10400T",
+    "singleCoreScore": "1152",
+    "multiCoreScore": "4163"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1630 v3",
+    "singleCoreScore": "1150",
+    "multiCoreScore": "4148"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 1500",
+    "singleCoreScore": "1150",
+    "multiCoreScore": "3663"
+  },
+  {
+    "cpuName": "Intel Core i3-10110U",
+    "singleCoreScore": "1144",
+    "multiCoreScore": "2088"
+  },
+  {
+    "cpuName": "Intel Core i5-4590",
+    "singleCoreScore": "1142",
+    "multiCoreScore": "3165"
+  },
+  {
+    "cpuName": "Intel Core i7-4870HQ",
+    "singleCoreScore": "1141",
+    "multiCoreScore": "3718"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 1800X",
+    "singleCoreScore": "1139",
+    "multiCoreScore": "5657"
+  },
+  {
+    "cpuName": "Intel Pentium 6805",
+    "singleCoreScore": "1137",
+    "multiCoreScore": "2032"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2689 v4",
+    "singleCoreScore": "1136",
+    "multiCoreScore": "6974"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 3400G",
+    "singleCoreScore": "1135",
+    "multiCoreScore": "3640"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2637 v3",
+    "singleCoreScore": "1135",
+    "multiCoreScore": "4595"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 1600X",
+    "singleCoreScore": "1132",
+    "multiCoreScore": "4734"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2696 v3",
+    "singleCoreScore": "1131",
+    "multiCoreScore": "8094"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6230R",
+    "singleCoreScore": "1131",
+    "multiCoreScore": "9330"
+  },
+  {
+    "cpuName": "Intel Core i7-4910MQ",
+    "singleCoreScore": "1130",
+    "multiCoreScore": "3386"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1220 v3",
+    "singleCoreScore": "1129",
+    "multiCoreScore": "3255"
+  },
+  {
+    "cpuName": "Intel Core i7-6567U",
+    "singleCoreScore": "1129",
+    "multiCoreScore": "2396"
+  },
+  {
+    "cpuName": "Intel Core i5-6402P",
+    "singleCoreScore": "1127",
+    "multiCoreScore": "3056"
+  },
+  {
+    "cpuName": "AMD EPYC 7282",
+    "singleCoreScore": "1127",
+    "multiCoreScore": "8343"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 2500X",
+    "singleCoreScore": "1126",
+    "multiCoreScore": "3842"
+  },
+  {
+    "cpuName": "Intel Core i5-6400",
+    "singleCoreScore": "1125",
+    "multiCoreScore": "3060"
+  },
+  {
+    "cpuName": "Intel Core i3-4170",
+    "singleCoreScore": "1124",
+    "multiCoreScore": "2163"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 2700",
+    "singleCoreScore": "1123",
+    "multiCoreScore": "5561"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1225 v3",
+    "singleCoreScore": "1121",
+    "multiCoreScore": "3196"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2696 v4",
+    "singleCoreScore": "1119",
+    "multiCoreScore": "9025"
+  },
+  {
+    "cpuName": "Intel Core i5-7360U",
+    "singleCoreScore": "1119",
+    "multiCoreScore": "2346"
+  },
+  {
+    "cpuName": "Intel Core i5-7500T",
+    "singleCoreScore": "1118",
+    "multiCoreScore": "3082"
+  },
+  {
+    "cpuName": "Intel Core i7-5700HQ",
+    "singleCoreScore": "1118",
+    "multiCoreScore": "3248"
+  },
+  {
+    "cpuName": "Intel Core i5-7300HQ",
+    "singleCoreScore": "1117",
+    "multiCoreScore": "3041"
+  },
+  {
+    "cpuName": "Intel Core i5-4570",
+    "singleCoreScore": "1116",
+    "multiCoreScore": "3109"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2687W v4",
+    "singleCoreScore": "1115",
+    "multiCoreScore": "7821"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6132",
+    "singleCoreScore": "1114",
+    "multiCoreScore": "9096"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 1500X",
+    "singleCoreScore": "1113",
+    "multiCoreScore": "3668"
+  },
+  {
+    "cpuName": "Intel Core i5-8400T",
+    "singleCoreScore": "1113",
+    "multiCoreScore": "3956"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 1700X",
+    "singleCoreScore": "1113",
+    "multiCoreScore": "5640"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4210R",
+    "singleCoreScore": "1113",
+    "multiCoreScore": "6212"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1620 v3",
+    "singleCoreScore": "1112",
+    "multiCoreScore": "3933"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 3400GE",
+    "singleCoreScore": "1112",
+    "multiCoreScore": "3334"
+  },
+  {
+    "cpuName": "Intel Core i7-4810MQ",
+    "singleCoreScore": "1111",
+    "multiCoreScore": "3200"
+  },
+  {
+    "cpuName": "Intel Core i7-6820HQ",
+    "singleCoreScore": "1111",
+    "multiCoreScore": "3456"
+  },
+  {
+    "cpuName": "Intel Core i3-7100T",
+    "singleCoreScore": "1111",
+    "multiCoreScore": "2233"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 PRO 3200GE",
+    "singleCoreScore": "1109",
+    "multiCoreScore": "3074"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1620 v4",
+    "singleCoreScore": "1108",
+    "multiCoreScore": "3994"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 2700",
+    "singleCoreScore": "1107",
+    "multiCoreScore": "5198"
+  },
+  {
+    "cpuName": "Intel Core i3-8100T",
+    "singleCoreScore": "1106",
+    "multiCoreScore": "3124"
+  },
+  {
+    "cpuName": "Intel Core i5-7260U",
+    "singleCoreScore": "1106",
+    "multiCoreScore": "2327"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6140",
+    "singleCoreScore": "1106",
+    "multiCoreScore": "8395"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 1300X",
+    "singleCoreScore": "1105",
+    "multiCoreScore": "3137"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1240L v5",
+    "singleCoreScore": "1103",
+    "multiCoreScore": "3524"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6138",
+    "singleCoreScore": "1102",
+    "multiCoreScore": "8267"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 1700X",
+    "singleCoreScore": "1101",
+    "multiCoreScore": "5642"
+  },
+  {
+    "cpuName": "Intel Core i7-7560U",
+    "singleCoreScore": "1099",
+    "multiCoreScore": "2055"
+  },
+  {
+    "cpuName": "Intel Core i5-4590S",
+    "singleCoreScore": "1098",
+    "multiCoreScore": "3002"
+  },
+  {
+    "cpuName": "Intel Core i7-6700HQ",
+    "singleCoreScore": "1098",
+    "multiCoreScore": "3438"
+  },
+  {
+    "cpuName": "AMD Athlon Gold 7220U",
+    "singleCoreScore": "1097",
+    "multiCoreScore": "2269"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2697 v3",
+    "singleCoreScore": "1095",
+    "multiCoreScore": "7526"
+  },
+  {
+    "cpuName": "Intel Core i5-6500TE",
+    "singleCoreScore": "1091",
+    "multiCoreScore": "2823"
+  },
+  {
+    "cpuName": "Intel Core i5-6440HQ",
+    "singleCoreScore": "1090",
+    "multiCoreScore": "2934"
+  },
+  {
+    "cpuName": "Intel Core i7-4900MQ",
+    "singleCoreScore": "1089",
+    "multiCoreScore": "3327"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2698 v4",
+    "singleCoreScore": "1089",
+    "multiCoreScore": "8340"
+  },
+  {
+    "cpuName": "Intel Core i3-4160",
+    "singleCoreScore": "1087",
+    "multiCoreScore": "2108"
+  },
+  {
+    "cpuName": "Intel Core i3-6098P",
+    "singleCoreScore": "1087",
+    "multiCoreScore": "2130"
+  },
+  {
+    "cpuName": "Intel Core i5-9500E",
+    "singleCoreScore": "1086",
+    "multiCoreScore": "4204"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 1600",
+    "singleCoreScore": "1083",
+    "multiCoreScore": "4636"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2687W v3",
+    "singleCoreScore": "1083",
+    "multiCoreScore": "6900"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 5215",
+    "singleCoreScore": "1083",
+    "multiCoreScore": "6145"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6136",
+    "singleCoreScore": "1078",
+    "multiCoreScore": "9143"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2690 v3",
+    "singleCoreScore": "1076",
+    "multiCoreScore": "7132"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 3200G",
+    "singleCoreScore": "1075",
+    "multiCoreScore": "3059"
+  },
+  {
+    "cpuName": "Intel Core i7-4800MQ",
+    "singleCoreScore": "1073",
+    "multiCoreScore": "3205"
+  },
+  {
+    "cpuName": "Intel Core i5-4570S",
+    "singleCoreScore": "1073",
+    "multiCoreScore": "2898"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2690 v4",
+    "singleCoreScore": "1073",
+    "multiCoreScore": "7532"
+  },
+  {
+    "cpuName": "Intel Core i3-6300T",
+    "singleCoreScore": "1073",
+    "multiCoreScore": "2315"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2697A v4",
+    "singleCoreScore": "1073",
+    "multiCoreScore": "8290"
+  },
+  {
+    "cpuName": "Intel Core i7-6660U",
+    "singleCoreScore": "1072",
+    "multiCoreScore": "2175"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6148",
+    "singleCoreScore": "1070",
+    "multiCoreScore": "7838"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1607 v4",
+    "singleCoreScore": "1070",
+    "multiCoreScore": "3163"
+  },
+  {
+    "cpuName": "Intel Core i5-4460",
+    "singleCoreScore": "1067",
+    "multiCoreScore": "2953"
+  },
+  {
+    "cpuName": "Intel Core i3-4330",
+    "singleCoreScore": "1064",
+    "multiCoreScore": "2103"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2699 v4",
+    "singleCoreScore": "1063",
+    "multiCoreScore": "8782"
+  },
+  {
+    "cpuName": "AMD EPYC 7452",
+    "singleCoreScore": "1059",
+    "multiCoreScore": "7997"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2698 v3",
+    "singleCoreScore": "1058",
+    "multiCoreScore": "7437"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2640 v3",
+    "singleCoreScore": "1057",
+    "multiCoreScore": "5479"
+  },
+  {
+    "cpuName": "Intel Core i3-4150",
+    "singleCoreScore": "1054",
+    "multiCoreScore": "2047"
+  },
+  {
+    "cpuName": "Intel Core i3-6100T",
+    "singleCoreScore": "1054",
+    "multiCoreScore": "2090"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 2400G",
+    "singleCoreScore": "1051",
+    "multiCoreScore": "3267"
+  },
+  {
+    "cpuName": "Intel Core i5-6500T",
+    "singleCoreScore": "1048",
+    "multiCoreScore": "2851"
+  },
+  {
+    "cpuName": "Intel Core i5-7267U",
+    "singleCoreScore": "1047",
+    "multiCoreScore": "2256"
+  },
+  {
+    "cpuName": "Intel Core i5-4440",
+    "singleCoreScore": "1046",
+    "multiCoreScore": "2933"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6128",
+    "singleCoreScore": "1045",
+    "multiCoreScore": "5752"
+  },
+  {
+    "cpuName": "Intel Core i7-4860HQ",
+    "singleCoreScore": "1045",
+    "multiCoreScore": "3527"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1607 v3",
+    "singleCoreScore": "1045",
+    "multiCoreScore": "3224"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2640 v4",
+    "singleCoreScore": "1044",
+    "multiCoreScore": "5637"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 PRO 1300",
+    "singleCoreScore": "1044",
+    "multiCoreScore": "2726"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2697 v4",
+    "singleCoreScore": "1043",
+    "multiCoreScore": "8047"
+  },
+  {
+    "cpuName": "Intel Core i7-4770HQ",
+    "singleCoreScore": "1042",
+    "multiCoreScore": "3481"
+  },
+  {
+    "cpuName": "Intel Core i7-5557U",
+    "singleCoreScore": "1042",
+    "multiCoreScore": "2062"
+  },
+  {
+    "cpuName": "Intel Core i5-4460S",
+    "singleCoreScore": "1041",
+    "multiCoreScore": "2823"
+  },
+  {
+    "cpuName": "Intel Core i5-5575R",
+    "singleCoreScore": "1041",
+    "multiCoreScore": "3151"
+  },
+  {
+    "cpuName": "Intel Core i5-4570T",
+    "singleCoreScore": "1040",
+    "multiCoreScore": "2014"
+  },
+  {
+    "cpuName": "Intel Core i7-4558U",
+    "singleCoreScore": "1039",
+    "multiCoreScore": "1967"
+  },
+  {
+    "cpuName": "Intel Core i5-6267U",
+    "singleCoreScore": "1036",
+    "multiCoreScore": "2201"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 1700",
+    "singleCoreScore": "1036",
+    "multiCoreScore": "5214"
+  },
+  {
+    "cpuName": "Intel Core i7-4710MQ",
+    "singleCoreScore": "1033",
+    "multiCoreScore": "3122"
+  },
+  {
+    "cpuName": "Intel Core i7-4600M",
+    "singleCoreScore": "1032",
+    "multiCoreScore": "1964"
+  },
+  {
+    "cpuName": "Intel Core i5-7400T",
+    "singleCoreScore": "1030",
+    "multiCoreScore": "2828"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4215",
+    "singleCoreScore": "1030",
+    "multiCoreScore": "6610"
+  },
+  {
+    "cpuName": "Intel Core i5-4430",
+    "singleCoreScore": "1027",
+    "multiCoreScore": "2886"
+  },
+  {
+    "cpuName": "Intel Core i7-4850HQ",
+    "singleCoreScore": "1027",
+    "multiCoreScore": "3262"
+  },
+  {
+    "cpuName": "Intel Core i7-4720HQ",
+    "singleCoreScore": "1027",
+    "multiCoreScore": "3076"
+  },
+  {
+    "cpuName": "Intel Core i7-6560U",
+    "singleCoreScore": "1025",
+    "multiCoreScore": "2130"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 1700",
+    "singleCoreScore": "1025",
+    "multiCoreScore": "5200"
+  },
+  {
+    "cpuName": "Intel Core i3-4130",
+    "singleCoreScore": "1023",
+    "multiCoreScore": "1994"
+  },
+  {
+    "cpuName": "Intel Core i7-4610M",
+    "singleCoreScore": "1023",
+    "multiCoreScore": "1891"
+  },
+  {
+    "cpuName": "AMD EPYC 7542",
+    "singleCoreScore": "1022",
+    "multiCoreScore": "8423"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4216",
+    "singleCoreScore": "1021",
+    "multiCoreScore": "7799"
+  },
+  {
+    "cpuName": "Intel Core i7-4710HQ",
+    "singleCoreScore": "1020",
+    "multiCoreScore": "3080"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 6130",
+    "singleCoreScore": "1019",
+    "multiCoreScore": "6578"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2678 v3",
+    "singleCoreScore": "1018",
+    "multiCoreScore": "6764"
+  },
+  {
+    "cpuName": "Intel Core i4-4690T",
+    "singleCoreScore": "1018",
+    "multiCoreScore": "2804"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4210",
+    "singleCoreScore": "1018",
+    "multiCoreScore": "5752"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2680 v4",
+    "singleCoreScore": "1017",
+    "multiCoreScore": "6937"
+  },
+  {
+    "cpuName": "Intel Core i7-4700MQ",
+    "singleCoreScore": "1014",
+    "multiCoreScore": "3068"
+  },
+  {
+    "cpuName": "Intel Core i3-8130U",
+    "singleCoreScore": "1011",
+    "multiCoreScore": "1870"
+  },
+  {
+    "cpuName": "Intel Core i5-4310M",
+    "singleCoreScore": "1010",
+    "multiCoreScore": "1907"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4214",
+    "singleCoreScore": "1009",
+    "multiCoreScore": "6439"
+  },
+  {
+    "cpuName": "Intel Core i5-6300HQ",
+    "singleCoreScore": "1006",
+    "multiCoreScore": "2751"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1268L v3",
+    "singleCoreScore": "1005",
+    "multiCoreScore": "2960"
+  },
+  {
+    "cpuName": "Intel Core i5-5287U",
+    "singleCoreScore": "1004",
+    "multiCoreScore": "1925"
+  },
+  {
+    "cpuName": "Intel Core i7-6650U",
+    "singleCoreScore": "1004",
+    "multiCoreScore": "2065"
+  },
+  {
+    "cpuName": "Intel Core i7-4750HQ",
+    "singleCoreScore": "1003",
+    "multiCoreScore": "3220"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2673 v4",
+    "singleCoreScore": "1002",
+    "multiCoreScore": "7925"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2680 v3",
+    "singleCoreScore": "999",
+    "multiCoreScore": "6416"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 1200",
+    "singleCoreScore": "997",
+    "multiCoreScore": "2859"
+  },
+  {
+    "cpuName": "Intel Core i5-4210H",
+    "singleCoreScore": "996",
+    "multiCoreScore": "1880"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 2200G",
+    "singleCoreScore": "995",
+    "multiCoreScore": "2833"
+  },
+  {
+    "cpuName": "Intel Xeon Gold 5118",
+    "singleCoreScore": "991",
+    "multiCoreScore": "6790"
+  },
+  {
+    "cpuName": "Intel Core i5-4200H",
+    "singleCoreScore": "990",
+    "multiCoreScore": "1901"
+  },
+  {
+    "cpuName": "Intel Core i7-4700HQ",
+    "singleCoreScore": "988",
+    "multiCoreScore": "3053"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 3750H",
+    "singleCoreScore": "985",
+    "multiCoreScore": "3056"
+  },
+  {
+    "cpuName": "Intel Core i5-4430S",
+    "singleCoreScore": "985",
+    "multiCoreScore": "2769"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1603 v4",
+    "singleCoreScore": "985",
+    "multiCoreScore": "3137"
+  },
+  {
+    "cpuName": "Intel Core i5-4670T",
+    "singleCoreScore": "983",
+    "multiCoreScore": "2550"
+  },
+  {
+    "cpuName": "AMD EPYC 7502P",
+    "singleCoreScore": "980",
+    "multiCoreScore": "8092"
+  },
+  {
+    "cpuName": "Intel Core i7-5650U",
+    "singleCoreScore": "979",
+    "multiCoreScore": "1879"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2660 v3",
+    "singleCoreScore": "979",
+    "multiCoreScore": "5862"
+  },
+  {
+    "cpuName": "Intel Core i7-4785T",
+    "singleCoreScore": "978",
+    "multiCoreScore": "3106"
+  },
+  {
+    "cpuName": "Intel Core i7-4578U",
+    "singleCoreScore": "977",
+    "multiCoreScore": "1901"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2660 v4",
+    "singleCoreScore": "973",
+    "multiCoreScore": "6248"
+  },
+  {
+    "cpuName": "Intel Core i5-6360U",
+    "singleCoreScore": "973",
+    "multiCoreScore": "1881"
+  },
+  {
+    "cpuName": "Intel Core i5-4300M",
+    "singleCoreScore": "970",
+    "multiCoreScore": "1873"
+  },
+  {
+    "cpuName": "Intel Core i5-4340M",
+    "singleCoreScore": "970",
+    "multiCoreScore": "1850"
+  },
+  {
+    "cpuName": "Intel Core i7-4702MQ",
+    "singleCoreScore": "968",
+    "multiCoreScore": "2978"
+  },
+  {
+    "cpuName": "Intel Core i5-8210Y",
+    "singleCoreScore": "968",
+    "multiCoreScore": "1664"
+  },
+  {
+    "cpuName": "AMD Athlon Silver 7120U",
+    "singleCoreScore": "966",
+    "multiCoreScore": "1600"
+  },
+  {
+    "cpuName": "Intel Core i3-4170T",
+    "singleCoreScore": "964",
+    "multiCoreScore": "1925"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 1400",
+    "singleCoreScore": "962",
+    "multiCoreScore": "3117"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2695 v4",
+    "singleCoreScore": "962",
+    "multiCoreScore": "7395"
+  },
+  {
+    "cpuName": "Intel Core i7-4702HQ",
+    "singleCoreScore": "961",
+    "multiCoreScore": "3037"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2630 v3",
+    "singleCoreScore": "960",
+    "multiCoreScore": "5105"
+  },
+  {
+    "cpuName": "AMD Athlon 3000G",
+    "singleCoreScore": "959",
+    "multiCoreScore": "1971"
+  },
+  {
+    "cpuName": "Intel Core i7-10510U",
+    "singleCoreScore": "958",
+    "multiCoreScore": "2629"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2630 v4",
+    "singleCoreScore": "956",
+    "multiCoreScore": "5397"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4112",
+    "singleCoreScore": "954",
+    "multiCoreScore": "3597"
+  },
+  {
+    "cpuName": "Intel Core i7-4712MQ",
+    "singleCoreScore": "952",
+    "multiCoreScore": "2901"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 3700U",
+    "singleCoreScore": "952",
+    "multiCoreScore": "3076"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2620 v3",
+    "singleCoreScore": "950",
+    "multiCoreScore": "4128"
+  },
+  {
+    "cpuName": "Intel Core i5-6260U",
+    "singleCoreScore": "947",
+    "multiCoreScore": "1954"
+  },
+  {
+    "cpuName": "AMD Athlon PRO 300GE",
+    "singleCoreScore": "947",
+    "multiCoreScore": "1855"
+  },
+  {
+    "cpuName": "Intel Core i5-4308U",
+    "singleCoreScore": "946",
+    "multiCoreScore": "1863"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2670 v3",
+    "singleCoreScore": "944",
+    "multiCoreScore": "5980"
+  },
+  {
+    "cpuName": "Intel Core i3-6100TE",
+    "singleCoreScore": "943",
+    "multiCoreScore": "1917"
+  },
+  {
+    "cpuName": "Intel Xeon",
+    "singleCoreScore": "939",
+    "multiCoreScore": "3484"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 3550H",
+    "singleCoreScore": "938",
+    "multiCoreScore": "2858"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4208",
+    "singleCoreScore": "932",
+    "multiCoreScore": "4783"
+  },
+  {
+    "cpuName": "Intel Core i3-4160T",
+    "singleCoreScore": "931",
+    "multiCoreScore": "1837"
+  },
+  {
+    "cpuName": "Intel Core i5-6400T",
+    "singleCoreScore": "930",
+    "multiCoreScore": "2543"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2683 v4",
+    "singleCoreScore": "930",
+    "multiCoreScore": "7029"
+  },
+  {
+    "cpuName": "Intel Core i7-4765T",
+    "singleCoreScore": "928",
+    "multiCoreScore": "2944"
+  },
+  {
+    "cpuName": "Intel Core i5-4590T",
+    "singleCoreScore": "926",
+    "multiCoreScore": "2569"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 3500U",
+    "singleCoreScore": "926",
+    "multiCoreScore": "2647"
+  },
+  {
+    "cpuName": "AMD EPYC 7551P",
+    "singleCoreScore": "926",
+    "multiCoreScore": "6068"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 3700U",
+    "singleCoreScore": "925",
+    "multiCoreScore": "2680"
+  },
+  {
+    "cpuName": "AMD EPYC 7551",
+    "singleCoreScore": "925",
+    "multiCoreScore": "5548"
+  },
+  {
+    "cpuName": "Intel Core i5-4278U",
+    "singleCoreScore": "919",
+    "multiCoreScore": "1808"
+  },
+  {
+    "cpuName": "AMD Athlon 200GE",
+    "singleCoreScore": "919",
+    "multiCoreScore": "1904"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 3580U Microsoft Surface Edition",
+    "singleCoreScore": "918",
+    "multiCoreScore": "2655"
+  },
+  {
+    "cpuName": "Intel Core i7-5600U",
+    "singleCoreScore": "917",
+    "multiCoreScore": "1737"
+  },
+  {
+    "cpuName": "Intel Core i5-4570R",
+    "singleCoreScore": "916",
+    "multiCoreScore": "2856"
+  },
+  {
+    "cpuName": "Intel Core i3-4130T",
+    "singleCoreScore": "915",
+    "multiCoreScore": "1797"
+  },
+  {
+    "cpuName": "Intel Core i3-4350",
+    "singleCoreScore": "914",
+    "multiCoreScore": "2088"
+  },
+  {
+    "cpuName": "Intel Core i5-5350U",
+    "singleCoreScore": "910",
+    "multiCoreScore": "1741"
+  },
+  {
+    "cpuName": "Intel Core i7-4712HQ",
+    "singleCoreScore": "909",
+    "multiCoreScore": "2690"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2667 v3",
+    "singleCoreScore": "905",
+    "multiCoreScore": "3835"
+  },
+  {
+    "cpuName": "Intel Core i5-5257U",
+    "singleCoreScore": "903",
+    "multiCoreScore": "1709"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2683 v3",
+    "singleCoreScore": "902",
+    "multiCoreScore": "6299"
+  },
+  {
+    "cpuName": "Intel Core i5-4288U",
+    "singleCoreScore": "901",
+    "multiCoreScore": "1735"
+  },
+  {
+    "cpuName": "Intel Core i3-4150T",
+    "singleCoreScore": "901",
+    "multiCoreScore": "1778"
+  },
+  {
+    "cpuName": "Intel Core i7-4510U",
+    "singleCoreScore": "898",
+    "multiCoreScore": "1690"
+  },
+  {
+    "cpuName": "Intel Core i5-4210M",
+    "singleCoreScore": "898",
+    "multiCoreScore": "1738"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2650 v3",
+    "singleCoreScore": "893",
+    "multiCoreScore": "5381"
+  },
+  {
+    "cpuName": "Intel Core i7-4600U",
+    "singleCoreScore": "883",
+    "multiCoreScore": "1649"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2630L v3",
+    "singleCoreScore": "882",
+    "multiCoreScore": "4511"
+  },
+  {
+    "cpuName": "Intel Core i7-5500U",
+    "singleCoreScore": "881",
+    "multiCoreScore": "1684"
+  },
+  {
+    "cpuName": "Intel Core i3-7130U",
+    "singleCoreScore": "877",
+    "multiCoreScore": "1764"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 3780U Microsoft Surface Edition",
+    "singleCoreScore": "877",
+    "multiCoreScore": "2667"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 PRO 2500U",
+    "singleCoreScore": "874",
+    "multiCoreScore": "2567"
+  },
+  {
+    "cpuName": "Intel Core i3-6100H",
+    "singleCoreScore": "871",
+    "multiCoreScore": "1690"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4116",
+    "singleCoreScore": "868",
+    "multiCoreScore": "5676"
+  },
+  {
+    "cpuName": "Intel Core i5-4200M",
+    "singleCoreScore": "866",
+    "multiCoreScore": "1690"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 3500U",
+    "singleCoreScore": "860",
+    "multiCoreScore": "2477"
+  },
+  {
+    "cpuName": "Intel Core i5-4258U",
+    "singleCoreScore": "859",
+    "multiCoreScore": "1696"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4114",
+    "singleCoreScore": "852",
+    "multiCoreScore": "5225"
+  },
+  {
+    "cpuName": "AMD Athlon Gold 3150C",
+    "singleCoreScore": "852",
+    "multiCoreScore": "1634"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2620 v4",
+    "singleCoreScore": "845",
+    "multiCoreScore": "4418"
+  },
+  {
+    "cpuName": "Intel Pentium Gold G6405",
+    "singleCoreScore": "842",
+    "multiCoreScore": "1720"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4108",
+    "singleCoreScore": "837",
+    "multiCoreScore": "4394"
+  },
+  {
+    "cpuName": "Intel Core i7-4650U",
+    "singleCoreScore": "832",
+    "multiCoreScore": "1467"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 PRO 2700U",
+    "singleCoreScore": "831",
+    "multiCoreScore": "2443"
+  },
+  {
+    "cpuName": "Intel Core i5-5300U",
+    "singleCoreScore": "827",
+    "multiCoreScore": "1573"
+  },
+  {
+    "cpuName": "Intel Core i3-6157U",
+    "singleCoreScore": "825",
+    "multiCoreScore": "1718"
+  },
+  {
+    "cpuName": "AMD Ryzen 7 2700U",
+    "singleCoreScore": "823",
+    "multiCoreScore": "2477"
+  },
+  {
+    "cpuName": "Intel Xeon D-1541",
+    "singleCoreScore": "821",
+    "multiCoreScore": "4550"
+  },
+  {
+    "cpuName": "AMD Athlon Gold 3150U",
+    "singleCoreScore": "815",
+    "multiCoreScore": "1679"
+  },
+  {
+    "cpuName": "Intel Core i5-5250U",
+    "singleCoreScore": "814",
+    "multiCoreScore": "1567"
+  },
+  {
+    "cpuName": "AMD Ryzen 5 2500U",
+    "singleCoreScore": "806",
+    "multiCoreScore": "2363"
+  },
+  {
+    "cpuName": "Intel Core i5-4460T",
+    "singleCoreScore": "799",
+    "multiCoreScore": "2128"
+  },
+  {
+    "cpuName": "Intel Pentium Gold G6400",
+    "singleCoreScore": "799",
+    "multiCoreScore": "1652"
+  },
+  {
+    "cpuName": "Intel Core i7-4500U",
+    "singleCoreScore": "796",
+    "multiCoreScore": "1530"
+  },
+  {
+    "cpuName": "Intel Core i5-4300U",
+    "singleCoreScore": "794",
+    "multiCoreScore": "1466"
+  },
+  {
+    "cpuName": "Intel Core i5-4310U",
+    "singleCoreScore": "791",
+    "multiCoreScore": "1528"
+  },
+  {
+    "cpuName": "Intel Xeon Silver 4110",
+    "singleCoreScore": "790",
+    "multiCoreScore": "4524"
+  },
+  {
+    "cpuName": "Intel Pentium Gold G5500",
+    "singleCoreScore": "790",
+    "multiCoreScore": "1596"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 2200U",
+    "singleCoreScore": "789",
+    "multiCoreScore": "1589"
+  },
+  {
+    "cpuName": "Intel Core i5-5200U",
+    "singleCoreScore": "788",
+    "multiCoreScore": "1512"
+  },
+  {
+    "cpuName": "AMD EPYC 7401P",
+    "singleCoreScore": "787",
+    "multiCoreScore": "4666"
+  },
+  {
+    "cpuName": "Intel Celeron 6305E",
+    "singleCoreScore": "783",
+    "multiCoreScore": "1339"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 3200U",
+    "singleCoreScore": "782",
+    "multiCoreScore": "1499"
+  },
+  {
+    "cpuName": "Intel Core i3-7100U",
+    "singleCoreScore": "780",
+    "multiCoreScore": "1598"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 2300U",
+    "singleCoreScore": "780",
+    "multiCoreScore": "2119"
+  },
+  {
+    "cpuName": "Intel Pentium G4620",
+    "singleCoreScore": "777",
+    "multiCoreScore": "1630"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2623 v4",
+    "singleCoreScore": "777",
+    "multiCoreScore": "3307"
+  },
+  {
+    "cpuName": "Intel Celeron G5925",
+    "singleCoreScore": "774",
+    "multiCoreScore": "1266"
+  },
+  {
+    "cpuName": "AMD Athlon Silver 3050U",
+    "singleCoreScore": "770",
+    "multiCoreScore": "1340"
+  },
+  {
+    "cpuName": "Intel Core i3-4100M",
+    "singleCoreScore": "765",
+    "multiCoreScore": "1539"
+  },
+  {
+    "cpuName": "Intel Core i5-4210U",
+    "singleCoreScore": "764",
+    "multiCoreScore": "1460"
+  },
+  {
+    "cpuName": "Intel Pentium Gold G5420",
+    "singleCoreScore": "764",
+    "multiCoreScore": "1548"
+  },
+  {
+    "cpuName": "Intel Core i5-4250U",
+    "singleCoreScore": "761",
+    "multiCoreScore": "1442"
+  },
+  {
+    "cpuName": "Intel Core i3-6100U",
+    "singleCoreScore": "755",
+    "multiCoreScore": "1541"
+  },
+  {
+    "cpuName": "Intel Core i7-3970X",
+    "singleCoreScore": "753",
+    "multiCoreScore": "3766"
+  },
+  {
+    "cpuName": "AMD Ryzen 3 3250U",
+    "singleCoreScore": "750",
+    "multiCoreScore": "1451"
+  },
+  {
+    "cpuName": "Intel Celeron 6305",
+    "singleCoreScore": "749",
+    "multiCoreScore": "1252"
+  },
+  {
+    "cpuName": "Intel Core i5-4260U",
+    "singleCoreScore": "748",
+    "multiCoreScore": "1438"
+  },
+  {
+    "cpuName": "Intel Core i7-7820EQ",
+    "singleCoreScore": "746",
+    "multiCoreScore": "1922"
+  },
+  {
+    "cpuName": "Intel Celeron G5905",
+    "singleCoreScore": "743",
+    "multiCoreScore": "1282"
+  },
+  {
+    "cpuName": "Intel Core i3-7020U",
+    "singleCoreScore": "740",
+    "multiCoreScore": "1497"
+  },
+  {
+    "cpuName": "Intel Pentium Gold G5400",
+    "singleCoreScore": "739",
+    "multiCoreScore": "1512"
+  },
+  {
+    "cpuName": "Intel Core i3-5157U",
+    "singleCoreScore": "739",
+    "multiCoreScore": "1496"
+  },
+  {
+    "cpuName": "Intel Core i5-4200U",
+    "singleCoreScore": "738",
+    "multiCoreScore": "1411"
+  },
+  {
+    "cpuName": "Intel Pentium G4600",
+    "singleCoreScore": "736",
+    "multiCoreScore": "1514"
+  },
+  {
+    "cpuName": "Intel Core i3-5020U",
+    "singleCoreScore": "732",
+    "multiCoreScore": "1428"
+  },
+  {
+    "cpuName": "Intel Core i3-4000M",
+    "singleCoreScore": "718",
+    "multiCoreScore": "1447"
+  },
+  {
+    "cpuName": "Intel Pentium G4560",
+    "singleCoreScore": "718",
+    "multiCoreScore": "1464"
+  },
+  {
+    "cpuName": "Intel Core i7-3770K",
+    "singleCoreScore": "715",
+    "multiCoreScore": "2509"
+  },
+  {
+    "cpuName": "AMD Athlon Silver 3050e",
+    "singleCoreScore": "714",
+    "multiCoreScore": "1356"
+  },
+  {
+    "cpuName": "AMD A12-9800",
+    "singleCoreScore": "710",
+    "multiCoreScore": "1706"
+  },
+  {
+    "cpuName": "Intel Core i7-4960X",
+    "singleCoreScore": "708",
+    "multiCoreScore": "3530"
+  },
+  {
+    "cpuName": "Intel Core M-5Y51",
+    "singleCoreScore": "706",
+    "multiCoreScore": "1165"
+  },
+  {
+    "cpuName": "Intel Pentium G4500",
+    "singleCoreScore": "705",
+    "multiCoreScore": "1127"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1280 V2",
+    "singleCoreScore": "702",
+    "multiCoreScore": "2417"
+  },
+  {
+    "cpuName": "Intel Core i5-2550K",
+    "singleCoreScore": "701",
+    "multiCoreScore": "2123"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1290 v2",
+    "singleCoreScore": "699",
+    "multiCoreScore": "2480"
+  },
+  {
+    "cpuName": "Intel Pentium Gold G5420T",
+    "singleCoreScore": "694",
+    "multiCoreScore": "1426"
+  },
+  {
+    "cpuName": "Intel Xeon Bronze 3204",
+    "singleCoreScore": "693",
+    "multiCoreScore": "2914"
+  },
+  {
+    "cpuName": "Intel Pentium G4400",
+    "singleCoreScore": "692",
+    "multiCoreScore": "1176"
+  },
+  {
+    "cpuName": "Intel Core i3-5015U",
+    "singleCoreScore": "688",
+    "multiCoreScore": "1410"
+  },
+  {
+    "cpuName": "Intel Core i5-3570K",
+    "singleCoreScore": "684",
+    "multiCoreScore": "2051"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1270 V2",
+    "singleCoreScore": "677",
+    "multiCoreScore": "2343"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1650 v2",
+    "singleCoreScore": "677",
+    "multiCoreScore": "3324"
+  },
+  {
+    "cpuName": "Intel Core i7-4820K",
+    "singleCoreScore": "674",
+    "multiCoreScore": "2514"
+  },
+  {
+    "cpuName": "Intel Core i7-3770",
+    "singleCoreScore": "673",
+    "multiCoreScore": "2315"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1680 v2",
+    "singleCoreScore": "670",
+    "multiCoreScore": "4127"
+  },
+  {
+    "cpuName": "Intel Core i7-2600K",
+    "singleCoreScore": "668",
+    "multiCoreScore": "2298"
+  },
+  {
+    "cpuName": "Intel Core i7-3960X",
+    "singleCoreScore": "668",
+    "multiCoreScore": "3218"
+  },
+  {
+    "cpuName": "Intel Celeron 4305UE",
+    "singleCoreScore": "668",
+    "multiCoreScore": "1086"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1240 v2",
+    "singleCoreScore": "667",
+    "multiCoreScore": "2321"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1245 V2",
+    "singleCoreScore": "666",
+    "multiCoreScore": "2253"
+  },
+  {
+    "cpuName": "Intel Core i7-2700K",
+    "singleCoreScore": "664",
+    "multiCoreScore": "2252"
+  },
+  {
+    "cpuName": "Intel Core i7-3770S",
+    "singleCoreScore": "662",
+    "multiCoreScore": "2243"
+  },
+  {
+    "cpuName": "AMD Athlon X4 845",
+    "singleCoreScore": "662",
+    "multiCoreScore": "1630"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1660 v2",
+    "singleCoreScore": "658",
+    "multiCoreScore": "3265"
+  },
+  {
+    "cpuName": "Intel Core i7-4930K",
+    "singleCoreScore": "657",
+    "multiCoreScore": "3326"
+  },
+  {
+    "cpuName": "AMD Athlon X4 950",
+    "singleCoreScore": "657",
+    "multiCoreScore": "1616"
+  },
+  {
+    "cpuName": "Intel Core i5-3570",
+    "singleCoreScore": "656",
+    "multiCoreScore": "1919"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1280",
+    "singleCoreScore": "655",
+    "multiCoreScore": "2187"
+  },
+  {
+    "cpuName": "AMD 3020e",
+    "singleCoreScore": "655",
+    "multiCoreScore": "1075"
+  },
+  {
+    "cpuName": "Intel Core i5-2500K",
+    "singleCoreScore": "654",
+    "multiCoreScore": "1934"
+  },
+  {
+    "cpuName": "AMD A6-9500",
+    "singleCoreScore": "654",
+    "multiCoreScore": "955"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2686 v4",
+    "singleCoreScore": "654",
+    "multiCoreScore": "4031"
+  },
+  {
+    "cpuName": "Intel Celeron G4930",
+    "singleCoreScore": "654",
+    "multiCoreScore": "1121"
+  },
+  {
+    "cpuName": "Intel Core i3-6006U",
+    "singleCoreScore": "653",
+    "multiCoreScore": "1343"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1275 v2",
+    "singleCoreScore": "650",
+    "multiCoreScore": "2269"
+  },
+  {
+    "cpuName": "Intel Core i3-5010U",
+    "singleCoreScore": "648",
+    "multiCoreScore": "1315"
+  },
+  {
+    "cpuName": "AMD A10-9700",
+    "singleCoreScore": "648",
+    "multiCoreScore": "1592"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1620 v2",
+    "singleCoreScore": "647",
+    "multiCoreScore": "2382"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2667 v2",
+    "singleCoreScore": "646",
+    "multiCoreScore": "3998"
+  },
+  {
+    "cpuName": "Intel Pentium Gold G5400T",
+    "singleCoreScore": "646",
+    "multiCoreScore": "1342"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2643 v2",
+    "singleCoreScore": "643",
+    "multiCoreScore": "3214"
+  },
+  {
+    "cpuName": "Intel Core i7-3940XM",
+    "singleCoreScore": "639",
+    "multiCoreScore": "2105"
+  },
+  {
+    "cpuName": "Intel Core i5-3550",
+    "singleCoreScore": "638",
+    "multiCoreScore": "1903"
+  },
+  {
+    "cpuName": "Intel Celeron G5905T",
+    "singleCoreScore": "638",
+    "multiCoreScore": "1009"
+  },
+  {
+    "cpuName": "Intel Core i5-3570S",
+    "singleCoreScore": "636",
+    "multiCoreScore": "1792"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1230V2",
+    "singleCoreScore": "633",
+    "multiCoreScore": "2214"
+  },
+  {
+    "cpuName": "Intel Core i5-4202Y",
+    "singleCoreScore": "627",
+    "multiCoreScore": "1103"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1225 V2",
+    "singleCoreScore": "626",
+    "multiCoreScore": "1890"
+  },
+  {
+    "cpuName": "Intel Core i7-3820QM",
+    "singleCoreScore": "624",
+    "multiCoreScore": "2130"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2637 v2",
+    "singleCoreScore": "623",
+    "multiCoreScore": "2667"
+  },
+  {
+    "cpuName": "Intel Core i7-3820",
+    "singleCoreScore": "621",
+    "multiCoreScore": "2293"
+  },
+  {
+    "cpuName": "Intel Core i5-3470",
+    "singleCoreScore": "621",
+    "multiCoreScore": "1837"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2687W v2",
+    "singleCoreScore": "621",
+    "multiCoreScore": "4000"
+  },
+  {
+    "cpuName": "Intel Core M-5Y10c",
+    "singleCoreScore": "621",
+    "multiCoreScore": "1218"
+  },
+  {
+    "cpuName": "Intel Core i3-5005U",
+    "singleCoreScore": "620",
+    "multiCoreScore": "1248"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1270",
+    "singleCoreScore": "617",
+    "multiCoreScore": "2078"
+  },
+  {
+    "cpuName": "Intel Core i7-3840QM",
+    "singleCoreScore": "617",
+    "multiCoreScore": "2048"
+  },
+  {
+    "cpuName": "Intel Pentium G3460",
+    "singleCoreScore": "616",
+    "multiCoreScore": "1056"
+  },
+  {
+    "cpuName": "Intel Core i5-3475S",
+    "singleCoreScore": "615",
+    "multiCoreScore": "1702"
+  },
+  {
+    "cpuName": "Intel Core i7-3930K",
+    "singleCoreScore": "614",
+    "multiCoreScore": "2980"
+  },
+  {
+    "cpuName": "Intel Core i7-2600",
+    "singleCoreScore": "613",
+    "multiCoreScore": "2052"
+  },
+  {
+    "cpuName": "AMD A8-9600",
+    "singleCoreScore": "613",
+    "multiCoreScore": "1508"
+  },
+  {
+    "cpuName": "Intel Celeron G4900",
+    "singleCoreScore": "612",
+    "multiCoreScore": "1057"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2673 v2",
+    "singleCoreScore": "612",
+    "multiCoreScore": "4004"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1620",
+    "singleCoreScore": "611",
+    "multiCoreScore": "2237"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2609 v3",
+    "singleCoreScore": "611",
+    "multiCoreScore": "2724"
+  },
+  {
+    "cpuName": "Intel Core i5-3550S",
+    "singleCoreScore": "611",
+    "multiCoreScore": "1716"
+  },
+  {
+    "cpuName": "Intel Pentium G3450",
+    "singleCoreScore": "610",
+    "multiCoreScore": "1032"
+  },
+  {
+    "cpuName": "Intel Celeron G3930",
+    "singleCoreScore": "606",
+    "multiCoreScore": "1039"
+  },
+  {
+    "cpuName": "Intel Core i7-3720QM",
+    "singleCoreScore": "604",
+    "multiCoreScore": "2046"
+  },
+  {
+    "cpuName": "Intel Core i7-2960XM",
+    "singleCoreScore": "603",
+    "multiCoreScore": "1963"
+  },
+  {
+    "cpuName": "Intel Celeron G3920",
+    "singleCoreScore": "603",
+    "multiCoreScore": "1026"
+  },
+  {
+    "cpuName": "Intel Core i5-3450",
+    "singleCoreScore": "601",
+    "multiCoreScore": "1761"
+  },
+  {
+    "cpuName": "Intel Core i5-3470S",
+    "singleCoreScore": "601",
+    "multiCoreScore": "1725"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1220 v2",
+    "singleCoreScore": "601",
+    "multiCoreScore": "1845"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1660",
+    "singleCoreScore": "601",
+    "multiCoreScore": "3019"
+  },
+  {
+    "cpuName": "Intel Pentium G4400T",
+    "singleCoreScore": "599",
+    "multiCoreScore": "1057"
+  },
+  {
+    "cpuName": "Intel Pentium G3258",
+    "singleCoreScore": "597",
+    "multiCoreScore": "1050"
+  },
+  {
+    "cpuName": "Intel Core i7-3740QM",
+    "singleCoreScore": "596",
+    "multiCoreScore": "1981"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1650",
+    "singleCoreScore": "593",
+    "multiCoreScore": "2939"
+  },
+  {
+    "cpuName": "Intel Pentium G3420",
+    "singleCoreScore": "593",
+    "multiCoreScore": "1010"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1245",
+    "singleCoreScore": "593",
+    "multiCoreScore": "2042"
+  },
+  {
+    "cpuName": "Intel Core i3-4025U",
+    "singleCoreScore": "593",
+    "multiCoreScore": "1147"
+  },
+  {
+    "cpuName": "Intel Core i5-2500",
+    "singleCoreScore": "592",
+    "multiCoreScore": "1688"
+  },
+  {
+    "cpuName": "Intel Pentium G4560T",
+    "singleCoreScore": "591",
+    "multiCoreScore": "1234"
+  },
+  {
+    "cpuName": "Intel Core i7-3770T",
+    "singleCoreScore": "591",
+    "multiCoreScore": "1939"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2690 v2",
+    "singleCoreScore": "590",
+    "multiCoreScore": "4103"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2687W",
+    "singleCoreScore": "590",
+    "multiCoreScore": "3432"
+  },
+  {
+    "cpuName": "Intel Core i5-L16G7",
+    "singleCoreScore": "589",
+    "multiCoreScore": "1172"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1235",
+    "singleCoreScore": "588",
+    "multiCoreScore": "1995"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2690",
+    "singleCoreScore": "587",
+    "multiCoreScore": "3452"
+  },
+  {
+    "cpuName": "Intel Core i5-3350P",
+    "singleCoreScore": "586",
+    "multiCoreScore": "1747"
+  },
+  {
+    "cpuName": "Intel Core i3-3250",
+    "singleCoreScore": "586",
+    "multiCoreScore": "1206"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1230",
+    "singleCoreScore": "585",
+    "multiCoreScore": "1993"
+  },
+  {
+    "cpuName": "AMD FX-9830P",
+    "singleCoreScore": "585",
+    "multiCoreScore": "1425"
+  },
+  {
+    "cpuName": "Intel Pentium G3260",
+    "singleCoreScore": "584",
+    "multiCoreScore": "1004"
+  },
+  {
+    "cpuName": "Intel Celeron G3900",
+    "singleCoreScore": "583",
+    "multiCoreScore": "1000"
+  },
+  {
+    "cpuName": "Intel Pentium G3250",
+    "singleCoreScore": "583",
+    "multiCoreScore": "997"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2603 v4",
+    "singleCoreScore": "582",
+    "multiCoreScore": "2661"
+  },
+  {
+    "cpuName": "Intel Core i3-4030U",
+    "singleCoreScore": "581",
+    "multiCoreScore": "1180"
+  },
+  {
+    "cpuName": "Intel Core i7-2600S",
+    "singleCoreScore": "581",
+    "multiCoreScore": "1787"
+  },
+  {
+    "cpuName": "Intel Xeon Bronze 3106",
+    "singleCoreScore": "579",
+    "multiCoreScore": "3151"
+  },
+  {
+    "cpuName": "Intel Core i5-2500S",
+    "singleCoreScore": "575",
+    "multiCoreScore": "1494"
+  },
+  {
+    "cpuName": "Intel Core i7-3520M",
+    "singleCoreScore": "575",
+    "multiCoreScore": "1167"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1225",
+    "singleCoreScore": "568",
+    "multiCoreScore": "1694"
+  },
+  {
+    "cpuName": "Intel Core i5-3450S",
+    "singleCoreScore": "566",
+    "multiCoreScore": "1658"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2680 v2",
+    "singleCoreScore": "563",
+    "multiCoreScore": "3853"
+  },
+  {
+    "cpuName": "Intel Core i5-3335S",
+    "singleCoreScore": "563",
+    "multiCoreScore": "1651"
+  },
+  {
+    "cpuName": "Intel Core i7-2860QM",
+    "singleCoreScore": "562",
+    "multiCoreScore": "1659"
+  },
+  {
+    "cpuName": "AMD PRO A10-8770E",
+    "singleCoreScore": "562",
+    "multiCoreScore": "1296"
+  },
+  {
+    "cpuName": "Intel Core i5-3470T",
+    "singleCoreScore": "561",
+    "multiCoreScore": "1110"
+  },
+  {
+    "cpuName": "Intel Core i7-3630QM",
+    "singleCoreScore": "560",
+    "multiCoreScore": "1902"
+  },
+  {
+    "cpuName": "Intel Core i5-3340",
+    "singleCoreScore": "560",
+    "multiCoreScore": "1672"
+  },
+  {
+    "cpuName": "Intel Celeron G3900T",
+    "singleCoreScore": "560",
+    "multiCoreScore": "995"
+  },
+  {
+    "cpuName": "Intel Core i7-3540M",
+    "singleCoreScore": "560",
+    "multiCoreScore": "1143"
+  },
+  {
+    "cpuName": "Intel Xeon W3690",
+    "singleCoreScore": "558",
+    "multiCoreScore": "2618"
+  },
+  {
+    "cpuName": "Intel Core i5-3330",
+    "singleCoreScore": "558",
+    "multiCoreScore": "1645"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1240",
+    "singleCoreScore": "557",
+    "multiCoreScore": "1965"
+  },
+  {
+    "cpuName": "AMD PRO A12-9800B",
+    "singleCoreScore": "557",
+    "multiCoreScore": "1176"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2697 v2",
+    "singleCoreScore": "555",
+    "multiCoreScore": "4329"
+  },
+  {
+    "cpuName": "Intel Core i7-980X",
+    "singleCoreScore": "553",
+    "multiCoreScore": "2600"
+  },
+  {
+    "cpuName": "Intel Core i5-3340S",
+    "singleCoreScore": "553",
+    "multiCoreScore": "1512"
+  },
+  {
+    "cpuName": "Intel Core i5-2400",
+    "singleCoreScore": "551",
+    "multiCoreScore": "1601"
+  },
+  {
+    "cpuName": "Intel Core i5-4210Y",
+    "singleCoreScore": "551",
+    "multiCoreScore": "997"
+  },
+  {
+    "cpuName": "Intel Core i3-3240",
+    "singleCoreScore": "550",
+    "multiCoreScore": "1125"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2643",
+    "singleCoreScore": "550",
+    "multiCoreScore": "2049"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1607 v2",
+    "singleCoreScore": "550",
+    "multiCoreScore": "1744"
+  },
+  {
+    "cpuName": "Intel Pentium Silver N6005",
+    "singleCoreScore": "550",
+    "multiCoreScore": "1416"
+  },
+  {
+    "cpuName": "Intel Core i7-3615QM",
+    "singleCoreScore": "549",
+    "multiCoreScore": "1882"
+  },
+  {
+    "cpuName": "Intel Core i7-990X",
+    "singleCoreScore": "548",
+    "multiCoreScore": "2570"
+  },
+  {
+    "cpuName": "Intel Xeon W3680",
+    "singleCoreScore": "546",
+    "multiCoreScore": "2498"
+  },
+  {
+    "cpuName": "Intel Xeon X5690",
+    "singleCoreScore": "546",
+    "multiCoreScore": "2509"
+  },
+  {
+    "cpuName": "Intel Core i7-3635QM",
+    "singleCoreScore": "546",
+    "multiCoreScore": "1834"
+  },
+  {
+    "cpuName": "Intel Core i7-2760QM",
+    "singleCoreScore": "543",
+    "multiCoreScore": "1636"
+  },
+  {
+    "cpuName": "Intel Core i5-2405S",
+    "singleCoreScore": "543",
+    "multiCoreScore": "1421"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2667",
+    "singleCoreScore": "542",
+    "multiCoreScore": "2753"
+  },
+  {
+    "cpuName": "Intel Pentium G2130",
+    "singleCoreScore": "542",
+    "multiCoreScore": "936"
+  },
+  {
+    "cpuName": "Intel Core i5-2320",
+    "singleCoreScore": "541",
+    "multiCoreScore": "1564"
+  },
+  {
+    "cpuName": "Intel Core i7-975",
+    "singleCoreScore": "540",
+    "multiCoreScore": "1903"
+  },
+  {
+    "cpuName": "AMD 3015e",
+    "singleCoreScore": "540",
+    "multiCoreScore": "966"
+  },
+  {
+    "cpuName": "AMD A12-9720P",
+    "singleCoreScore": "539",
+    "multiCoreScore": "1209"
+  },
+  {
+    "cpuName": "Intel Core i5-3330S",
+    "singleCoreScore": "539",
+    "multiCoreScore": "1595"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2680",
+    "singleCoreScore": "538",
+    "multiCoreScore": "3391"
+  },
+  {
+    "cpuName": "Intel Core i7-3687U",
+    "singleCoreScore": "537",
+    "multiCoreScore": "1056"
+  },
+  {
+    "cpuName": "Intel Celeron 7305E",
+    "singleCoreScore": "536",
+    "multiCoreScore": "1383"
+  },
+  {
+    "cpuName": "Intel Core i3-3225",
+    "singleCoreScore": "535",
+    "multiCoreScore": "1134"
+  },
+  {
+    "cpuName": "Intel Pentium G2120",
+    "singleCoreScore": "534",
+    "multiCoreScore": "945"
+  },
+  {
+    "cpuName": "Intel Xeon X5680",
+    "singleCoreScore": "531",
+    "multiCoreScore": "2474"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2696 v2",
+    "singleCoreScore": "530",
+    "multiCoreScore": "3995"
+  },
+  {
+    "cpuName": "AMD FX-9590",
+    "singleCoreScore": "530",
+    "multiCoreScore": "2149"
+  },
+  {
+    "cpuName": "Intel Core i3-3220",
+    "singleCoreScore": "529",
+    "multiCoreScore": "1085"
+  },
+  {
+    "cpuName": "Intel Core i7-3610QM",
+    "singleCoreScore": "528",
+    "multiCoreScore": "1804"
+  },
+  {
+    "cpuName": "Intel Core i3-4010U",
+    "singleCoreScore": "528",
+    "multiCoreScore": "1069"
+  },
+  {
+    "cpuName": "AMD PRO A12-8800B",
+    "singleCoreScore": "528",
+    "multiCoreScore": "1143"
+  },
+  {
+    "cpuName": "Intel Pentium G3220",
+    "singleCoreScore": "526",
+    "multiCoreScore": "885"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2650 v2",
+    "singleCoreScore": "522",
+    "multiCoreScore": "3193"
+  },
+  {
+    "cpuName": "Intel Core i5-3320M",
+    "singleCoreScore": "520",
+    "multiCoreScore": "1053"
+  },
+  {
+    "cpuName": "Intel Core i5-3340M",
+    "singleCoreScore": "519",
+    "multiCoreScore": "1044"
+  },
+  {
+    "cpuName": "Intel Pentium G3240",
+    "singleCoreScore": "519",
+    "multiCoreScore": "887"
+  },
+  {
+    "cpuName": "Intel Xeon W3670",
+    "singleCoreScore": "519",
+    "multiCoreScore": "2348"
+  },
+  {
+    "cpuName": "Intel Core i7-2820QM",
+    "singleCoreScore": "518",
+    "multiCoreScore": "1633"
+  },
+  {
+    "cpuName": "Intel Core i3-4005U",
+    "singleCoreScore": "518",
+    "multiCoreScore": "1039"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1265L v2",
+    "singleCoreScore": "518",
+    "multiCoreScore": "1845"
+  },
+  {
+    "cpuName": "AMD FX-8800P",
+    "singleCoreScore": "518",
+    "multiCoreScore": "1184"
+  },
+  {
+    "cpuName": "Intel Core i3-3245",
+    "singleCoreScore": "518",
+    "multiCoreScore": "1177"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1220",
+    "singleCoreScore": "516",
+    "multiCoreScore": "1552"
+  },
+  {
+    "cpuName": "Intel Core i5-2310",
+    "singleCoreScore": "515",
+    "multiCoreScore": "1475"
+  },
+  {
+    "cpuName": "Intel Core i7-880",
+    "singleCoreScore": "514",
+    "multiCoreScore": "1678"
+  },
+  {
+    "cpuName": "Intel Core i5-2300",
+    "singleCoreScore": "512",
+    "multiCoreScore": "1503"
+  },
+  {
+    "cpuName": "Intel Core i3-2130",
+    "singleCoreScore": "512",
+    "multiCoreScore": "1043"
+  },
+  {
+    "cpuName": "Intel Core i7-2640M",
+    "singleCoreScore": "511",
+    "multiCoreScore": "1006"
+  },
+  {
+    "cpuName": "Intel Core i7-2620M",
+    "singleCoreScore": "510",
+    "multiCoreScore": "1010"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1607",
+    "singleCoreScore": "510",
+    "multiCoreScore": "1649"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2670",
+    "singleCoreScore": "509",
+    "multiCoreScore": "3048"
+  },
+  {
+    "cpuName": "Intel Core i7-875K",
+    "singleCoreScore": "509",
+    "multiCoreScore": "1766"
+  },
+  {
+    "cpuName": "Intel Core i5-3380M",
+    "singleCoreScore": "508",
+    "multiCoreScore": "1006"
+  },
+  {
+    "cpuName": "Intel Core i5-3230M",
+    "singleCoreScore": "507",
+    "multiCoreScore": "1023"
+  },
+  {
+    "cpuName": "Intel Core i3-2125",
+    "singleCoreScore": "507",
+    "multiCoreScore": "1027"
+  },
+  {
+    "cpuName": "AMD FX-9370",
+    "singleCoreScore": "506",
+    "multiCoreScore": "1997"
+  },
+  {
+    "cpuName": "AMD A10-8700P",
+    "singleCoreScore": "506",
+    "multiCoreScore": "1129"
+  },
+  {
+    "cpuName": "Intel Celeron G1840",
+    "singleCoreScore": "505",
+    "multiCoreScore": "867"
+  },
+  {
+    "cpuName": "Intel Core i5-3360M",
+    "singleCoreScore": "504",
+    "multiCoreScore": "1101"
+  },
+  {
+    "cpuName": "Intel Core i5-2400S",
+    "singleCoreScore": "504",
+    "multiCoreScore": "1365"
+  },
+  {
+    "cpuName": "Intel Core i7-3612QM",
+    "singleCoreScore": "504",
+    "multiCoreScore": "1692"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2670 v2",
+    "singleCoreScore": "503",
+    "multiCoreScore": "3391"
+  },
+  {
+    "cpuName": "AMD A10-9620P",
+    "singleCoreScore": "502",
+    "multiCoreScore": "1106"
+  },
+  {
+    "cpuName": "Intel Xeon X5675",
+    "singleCoreScore": "502",
+    "multiCoreScore": "2469"
+  },
+  {
+    "cpuName": "Intel Core i3-3210",
+    "singleCoreScore": "501",
+    "multiCoreScore": "1016"
+  },
+  {
+    "cpuName": "Intel Core i7-3632QM",
+    "singleCoreScore": "500",
+    "multiCoreScore": "1681"
+  },
+  {
+    "cpuName": "AMD FX-8370",
+    "singleCoreScore": "498",
+    "multiCoreScore": "2015"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1220L v2",
+    "singleCoreScore": "498",
+    "multiCoreScore": "997"
+  },
+  {
+    "cpuName": "Intel Core i3-2120",
+    "singleCoreScore": "496",
+    "multiCoreScore": "1021"
+  },
+  {
+    "cpuName": "Intel Core i7-2720QM",
+    "singleCoreScore": "496",
+    "multiCoreScore": "1565"
+  },
+  {
+    "cpuName": "Intel Core i5-3210M",
+    "singleCoreScore": "496",
+    "multiCoreScore": "1004"
+  },
+  {
+    "cpuName": "AMD FX-9800P",
+    "singleCoreScore": "496",
+    "multiCoreScore": "1119"
+  },
+  {
+    "cpuName": "Intel Core i5-2540M",
+    "singleCoreScore": "496",
+    "multiCoreScore": "992"
+  },
+  {
+    "cpuName": "Intel Xeon X5570",
+    "singleCoreScore": "494",
+    "multiCoreScore": "1804"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2665",
+    "singleCoreScore": "493",
+    "multiCoreScore": "2996"
+  },
+  {
+    "cpuName": "Intel Atom x6413E",
+    "singleCoreScore": "493",
+    "multiCoreScore": "1363"
+  },
+  {
+    "cpuName": "Intel Core i7-970",
+    "singleCoreScore": "492",
+    "multiCoreScore": "2268"
+  },
+  {
+    "cpuName": "Intel Xeon X5670",
+    "singleCoreScore": "491",
+    "multiCoreScore": "2243"
+  },
+  {
+    "cpuName": "Intel Celeron G1820",
+    "singleCoreScore": "490",
+    "multiCoreScore": "831"
+  },
+  {
+    "cpuName": "Intel Core i7-960",
+    "singleCoreScore": "489",
+    "multiCoreScore": "1640"
+  },
+  {
+    "cpuName": "Intel Core i7-965",
+    "singleCoreScore": "489",
+    "multiCoreScore": "1695"
+  },
+  {
+    "cpuName": "AMD FX-8350",
+    "singleCoreScore": "488",
+    "multiCoreScore": "1988"
+  },
+  {
+    "cpuName": "Intel Core i5-660",
+    "singleCoreScore": "488",
+    "multiCoreScore": "981"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2630 v2",
+    "singleCoreScore": "487",
+    "multiCoreScore": "2403"
+  },
+  {
+    "cpuName": "Intel Xeon W3565",
+    "singleCoreScore": "487",
+    "multiCoreScore": "1674"
+  },
+  {
+    "cpuName": "AMD FX-6350",
+    "singleCoreScore": "484",
+    "multiCoreScore": "1532"
+  },
+  {
+    "cpuName": "AMD PRO A6-9500B",
+    "singleCoreScore": "483",
+    "multiCoreScore": "668"
+  },
+  {
+    "cpuName": "Intel Pentium Silver N6000",
+    "singleCoreScore": "483",
+    "multiCoreScore": "1104"
+  },
+  {
+    "cpuName": "Intel Core i7-3537U",
+    "singleCoreScore": "482",
+    "multiCoreScore": "956"
+  },
+  {
+    "cpuName": "AMD A10-6800K",
+    "singleCoreScore": "481",
+    "multiCoreScore": "1135"
+  },
+  {
+    "cpuName": "AMD A10-7870K",
+    "singleCoreScore": "480",
+    "multiCoreScore": "1235"
+  },
+  {
+    "cpuName": "Intel Core i7-3667U",
+    "singleCoreScore": "480",
+    "multiCoreScore": "975"
+  },
+  {
+    "cpuName": "Intel Atom x6425E",
+    "singleCoreScore": "480",
+    "multiCoreScore": "1321"
+  },
+  {
+    "cpuName": "Intel Pentium G2030",
+    "singleCoreScore": "479",
+    "multiCoreScore": "809"
+  },
+  {
+    "cpuName": "Intel Pentium J6426",
+    "singleCoreScore": "479",
+    "multiCoreScore": "1322"
+  },
+  {
+    "cpuName": "Intel Core i7-870",
+    "singleCoreScore": "478",
+    "multiCoreScore": "1562"
+  },
+  {
+    "cpuName": "Intel Core i3-2105",
+    "singleCoreScore": "478",
+    "multiCoreScore": "973"
+  },
+  {
+    "cpuName": "Intel Pentium G2020",
+    "singleCoreScore": "477",
+    "multiCoreScore": "814"
+  },
+  {
+    "cpuName": "Intel Xeon W3550",
+    "singleCoreScore": "477",
+    "multiCoreScore": "1604"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2470 v2",
+    "singleCoreScore": "474",
+    "multiCoreScore": "3166"
+  },
+  {
+    "cpuName": "Intel Xeon X3460",
+    "singleCoreScore": "473",
+    "multiCoreScore": "1476"
+  },
+  {
+    "cpuName": "Intel Celeron J6413",
+    "singleCoreScore": "473",
+    "multiCoreScore": "1322"
+  },
+  {
+    "cpuName": "Intel Celeron N5105",
+    "singleCoreScore": "471",
+    "multiCoreScore": "1278"
+  },
+  {
+    "cpuName": "Intel Core i3-3220T",
+    "singleCoreScore": "468",
+    "multiCoreScore": "962"
+  },
+  {
+    "cpuName": "Intel Core i5-2520M",
+    "singleCoreScore": "467",
+    "multiCoreScore": "932"
+  },
+  {
+    "cpuName": "Intel Pentium G850",
+    "singleCoreScore": "467",
+    "multiCoreScore": "800"
+  },
+  {
+    "cpuName": "Intel Core i5-2435M",
+    "singleCoreScore": "467",
+    "multiCoreScore": "903"
+  },
+  {
+    "cpuName": "Intel Core i7-950",
+    "singleCoreScore": "466",
+    "multiCoreScore": "1554"
+  },
+  {
+    "cpuName": "Intel Xeon X5660",
+    "singleCoreScore": "466",
+    "multiCoreScore": "2214"
+  },
+  {
+    "cpuName": "Intel Xeon E5-1603",
+    "singleCoreScore": "465",
+    "multiCoreScore": "1471"
+  },
+  {
+    "cpuName": "Intel Core i3-3240T",
+    "singleCoreScore": "465",
+    "multiCoreScore": "1012"
+  },
+  {
+    "cpuName": "AMD Athlon X4 860K",
+    "singleCoreScore": "464",
+    "multiCoreScore": "1148"
+  },
+  {
+    "cpuName": "AMD Athlon X4 870K",
+    "singleCoreScore": "464",
+    "multiCoreScore": "1195"
+  },
+  {
+    "cpuName": "AMD FX-4170",
+    "singleCoreScore": "464",
+    "multiCoreScore": "1201"
+  },
+  {
+    "cpuName": "Intel Core i3-2100",
+    "singleCoreScore": "463",
+    "multiCoreScore": "942"
+  },
+  {
+    "cpuName": "AMD PRO A10-8700B",
+    "singleCoreScore": "463",
+    "multiCoreScore": "997"
+  },
+  {
+    "cpuName": "Intel Core i7-2670QM",
+    "singleCoreScore": "461",
+    "multiCoreScore": "1433"
+  },
+  {
+    "cpuName": "AMD PRO A10-8730B",
+    "singleCoreScore": "461",
+    "multiCoreScore": "929"
+  },
+  {
+    "cpuName": "AMD FX-8320",
+    "singleCoreScore": "460",
+    "multiCoreScore": "1813"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2630",
+    "singleCoreScore": "460",
+    "multiCoreScore": "2593"
+  },
+  {
+    "cpuName": "AMD A10-8750",
+    "singleCoreScore": "459",
+    "multiCoreScore": "1095"
+  },
+  {
+    "cpuName": "AMD PRO A8-8600B",
+    "singleCoreScore": "459",
+    "multiCoreScore": "1067"
+  },
+  {
+    "cpuName": "Intel Core i5-2450M",
+    "singleCoreScore": "458",
+    "multiCoreScore": "882"
+  },
+  {
+    "cpuName": "AMD FX-8310",
+    "singleCoreScore": "458",
+    "multiCoreScore": "1742"
+  },
+  {
+    "cpuName": "Intel Pentium G645",
+    "singleCoreScore": "457",
+    "multiCoreScore": "799"
+  },
+  {
+    "cpuName": "AMD A10-9600P",
+    "singleCoreScore": "457",
+    "multiCoreScore": "1031"
+  },
+  {
+    "cpuName": "AMD FX-6300",
+    "singleCoreScore": "456",
+    "multiCoreScore": "1433"
+  },
+  {
+    "cpuName": "AMD FX-4300",
+    "singleCoreScore": "456",
+    "multiCoreScore": "1111"
+  },
+  {
+    "cpuName": "Intel Core i5-760",
+    "singleCoreScore": "455",
+    "multiCoreScore": "1268"
+  },
+  {
+    "cpuName": "Intel Core i3-4020Y",
+    "singleCoreScore": "455",
+    "multiCoreScore": "854"
+  },
+  {
+    "cpuName": "AMD A10-5800B",
+    "singleCoreScore": "454",
+    "multiCoreScore": "1109"
+  },
+  {
+    "cpuName": "AMD A10-5800K",
+    "singleCoreScore": "453",
+    "multiCoreScore": "1104"
+  },
+  {
+    "cpuName": "AMD FX-8300",
+    "singleCoreScore": "453",
+    "multiCoreScore": "1711"
+  },
+  {
+    "cpuName": "Intel Core i5-650",
+    "singleCoreScore": "452",
+    "multiCoreScore": "926"
+  },
+  {
+    "cpuName": "AMD A10-7850K",
+    "singleCoreScore": "452",
+    "multiCoreScore": "1127"
+  },
+  {
+    "cpuName": "AMD Phenom II X6 1100T Black Edition",
+    "singleCoreScore": "452",
+    "multiCoreScore": "1812"
+  },
+  {
+    "cpuName": "Intel Celeron J6412",
+    "singleCoreScore": "452",
+    "multiCoreScore": "1293"
+  },
+  {
+    "cpuName": "Intel Core i5-580M",
+    "singleCoreScore": "451",
+    "multiCoreScore": "823"
+  },
+  {
+    "cpuName": "Intel Pentium G3220T",
+    "singleCoreScore": "451",
+    "multiCoreScore": "836"
+  },
+  {
+    "cpuName": "Intel Core i7-3517U",
+    "singleCoreScore": "451",
+    "multiCoreScore": "927"
+  },
+  {
+    "cpuName": "AMD A8-6600K",
+    "singleCoreScore": "450",
+    "multiCoreScore": "1091"
+  },
+  {
+    "cpuName": "AMD A10-6700",
+    "singleCoreScore": "450",
+    "multiCoreScore": "1091"
+  },
+  {
+    "cpuName": "Intel Pentium G840",
+    "singleCoreScore": "450",
+    "multiCoreScore": "784"
+  },
+  {
+    "cpuName": "AMD A8-6500B",
+    "singleCoreScore": "450",
+    "multiCoreScore": "978"
+  },
+  {
+    "cpuName": "Intel Core i7-2635QM",
+    "singleCoreScore": "449",
+    "multiCoreScore": "1387"
+  },
+  {
+    "cpuName": "Intel Celeron N4505",
+    "singleCoreScore": "449",
+    "multiCoreScore": "742"
+  },
+  {
+    "cpuName": "Intel Xeon E3-1260L",
+    "singleCoreScore": "448",
+    "multiCoreScore": "1469"
+  },
+  {
+    "cpuName": "Intel Core i7-940",
+    "singleCoreScore": "448",
+    "multiCoreScore": "1533"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2660",
+    "singleCoreScore": "448",
+    "multiCoreScore": "2654"
+  },
+  {
+    "cpuName": "Intel Core i5-2415M",
+    "singleCoreScore": "447",
+    "multiCoreScore": "903"
+  },
+  {
+    "cpuName": "Intel Core i7-860",
+    "singleCoreScore": "446",
+    "multiCoreScore": "1449"
+  },
+  {
+    "cpuName": "AMD FX-4350",
+    "singleCoreScore": "446",
+    "multiCoreScore": "1129"
+  },
+  {
+    "cpuName": "Intel Core i7-2675QM",
+    "singleCoreScore": "446",
+    "multiCoreScore": "1412"
+  },
+  {
+    "cpuName": "Intel Xeon X5650",
+    "singleCoreScore": "445",
+    "multiCoreScore": "2159"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2660 v2",
+    "singleCoreScore": "445",
+    "multiCoreScore": "3182"
+  },
+  {
+    "cpuName": "AMD Athlon X4 840",
+    "singleCoreScore": "445",
+    "multiCoreScore": "1105"
+  },
+  {
+    "cpuName": "Intel Core i3-560",
+    "singleCoreScore": "445",
+    "multiCoreScore": "940"
+  },
+  {
+    "cpuName": "AMD PRO A8-8650B",
+    "singleCoreScore": "444",
+    "multiCoreScore": "1037"
+  },
+  {
+    "cpuName": "AMD A10 PRO-7800B",
+    "singleCoreScore": "444",
+    "multiCoreScore": "1076"
+  },
+  {
+    "cpuName": "AMD FX-8320E",
+    "singleCoreScore": "443",
+    "multiCoreScore": "1697"
+  },
+  {
+    "cpuName": "Intel Xeon X5550",
+    "singleCoreScore": "443",
+    "multiCoreScore": "1853"
+  },
+  {
+    "cpuName": "Intel Core i7-2630QM",
+    "singleCoreScore": "442",
+    "multiCoreScore": "1378"
+  },
+  {
+    "cpuName": "AMD A10-7860K",
+    "singleCoreScore": "442",
+    "multiCoreScore": "1087"
+  },
+  {
+    "cpuName": "AMD A8-6500",
+    "singleCoreScore": "441",
+    "multiCoreScore": "1037"
+  },
+  {
+    "cpuName": "Intel Core i7-620M",
+    "singleCoreScore": "440",
+    "multiCoreScore": "814"
+  },
+  {
+    "cpuName": "AMD Athlon X4 750K",
+    "singleCoreScore": "440",
+    "multiCoreScore": "1001"
+  },
+  {
+    "cpuName": "Intel Pentium G2010",
+    "singleCoreScore": "440",
+    "multiCoreScore": "638"
+  },
+  {
+    "cpuName": "Intel Xeon W3530",
+    "singleCoreScore": "439",
+    "multiCoreScore": "1537"
+  },
+  {
+    "cpuName": "Intel Core i5-3437U",
+    "singleCoreScore": "439",
+    "multiCoreScore": "886"
+  },
+  {
+    "cpuName": "AMD FX-8150",
+    "singleCoreScore": "439",
+    "multiCoreScore": "1735"
+  },
+  {
+    "cpuName": "AMD PRO A12-8830B",
+    "singleCoreScore": "438",
+    "multiCoreScore": "988"
+  },
+  {
+    "cpuName": "Intel Celeron N4500",
+    "singleCoreScore": "438",
+    "multiCoreScore": "707"
+  },
+  {
+    "cpuName": "Intel Atom x6211E",
+    "singleCoreScore": "437",
+    "multiCoreScore": "802"
+  },
+  {
+    "cpuName": "Intel Celeron 3965U",
+    "singleCoreScore": "437",
+    "multiCoreScore": "783"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2640",
+    "singleCoreScore": "436",
+    "multiCoreScore": "2252"
+  },
+  {
+    "cpuName": "Intel Celeron N5100",
+    "singleCoreScore": "436",
+    "multiCoreScore": "1080"
+  },
+  {
+    "cpuName": "Intel Core i5-2410M",
+    "singleCoreScore": "435",
+    "multiCoreScore": "861"
+  },
+  {
+    "cpuName": "Intel Pentium G860",
+    "singleCoreScore": "435",
+    "multiCoreScore": "723"
+  },
+  {
+    "cpuName": "AMD A8-5600K",
+    "singleCoreScore": "435",
+    "multiCoreScore": "1055"
+  },
+  {
+    "cpuName": "AMD Athlon X4 760K",
+    "singleCoreScore": "435",
+    "multiCoreScore": "1021"
+  },
+  {
+    "cpuName": "Intel Pentium 4415U",
+    "singleCoreScore": "435",
+    "multiCoreScore": "902"
+  },
+  {
+    "cpuName": "Intel Xeon X3450",
+    "singleCoreScore": "435",
+    "multiCoreScore": "1480"
+  },
+  {
+    "cpuName": "Intel Core i5-2430M",
+    "singleCoreScore": "434",
+    "multiCoreScore": "862"
+  },
+  {
+    "cpuName": "AMD A10-7800",
+    "singleCoreScore": "433",
+    "multiCoreScore": "1080"
+  },
+  {
+    "cpuName": "AMD A8-7600",
+    "singleCoreScore": "431",
+    "multiCoreScore": "1044"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2695 v2",
+    "singleCoreScore": "429",
+    "multiCoreScore": "3923"
+  },
+  {
+    "cpuName": "Intel Core i5-3427U",
+    "singleCoreScore": "426",
+    "multiCoreScore": "875"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2420 v2",
+    "singleCoreScore": "426",
+    "multiCoreScore": "2137"
+  },
+  {
+    "cpuName": "Intel Core i3-550",
+    "singleCoreScore": "425",
+    "multiCoreScore": "865"
+  },
+  {
+    "cpuName": "Intel Pentium G640",
+    "singleCoreScore": "425",
+    "multiCoreScore": "714"
+  },
+  {
+    "cpuName": "Intel Pentium Silver J5040",
+    "singleCoreScore": "424",
+    "multiCoreScore": "1144"
+  },
+  {
+    "cpuName": "Intel Pentium G2030T",
+    "singleCoreScore": "423",
+    "multiCoreScore": "738"
+  },
+  {
+    "cpuName": "Intel Celeron 3955U",
+    "singleCoreScore": "423",
+    "multiCoreScore": "753"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2630L v2",
+    "singleCoreScore": "423",
+    "multiCoreScore": "2186"
+  },
+  {
+    "cpuName": "Intel Core i7-640M",
+    "singleCoreScore": "422",
+    "multiCoreScore": "798"
+  },
+  {
+    "cpuName": "AMD A8 PRO-7600B",
+    "singleCoreScore": "422",
+    "multiCoreScore": "1032"
+  },
+  {
+    "cpuName": "Intel Core i5-750",
+    "singleCoreScore": "421",
+    "multiCoreScore": "1168"
+  },
+  {
+    "cpuName": "Intel Core i7-860S",
+    "singleCoreScore": "421",
+    "multiCoreScore": "1276"
+  },
+  {
+    "cpuName": "Intel Pentium Gold 4417U",
+    "singleCoreScore": "420",
+    "multiCoreScore": "882"
+  },
+  {
+    "cpuName": "Intel Xeon W3520",
+    "singleCoreScore": "418",
+    "multiCoreScore": "1432"
+  },
+  {
+    "cpuName": "Intel Xeon X5460",
+    "singleCoreScore": "417",
+    "multiCoreScore": "1188"
+  },
+  {
+    "cpuName": "AMD FX-4130",
+    "singleCoreScore": "417",
+    "multiCoreScore": "1070"
+  },
+  {
+    "cpuName": "Intel Core i7-2920XM",
+    "singleCoreScore": "417",
+    "multiCoreScore": "1395"
+  },
+  {
+    "cpuName": "Intel Core i7-920",
+    "singleCoreScore": "415",
+    "multiCoreScore": "1417"
+  },
+  {
+    "cpuName": "Intel Core i7-930",
+    "singleCoreScore": "415",
+    "multiCoreScore": "1414"
+  },
+  {
+    "cpuName": "Intel Celeron G1620",
+    "singleCoreScore": "415",
+    "multiCoreScore": "720"
+  },
+  {
+    "cpuName": "Intel Pentium 4405U",
+    "singleCoreScore": "413",
+    "multiCoreScore": "854"
+  },
+  {
+    "cpuName": "Intel Celeron G1610",
+    "singleCoreScore": "412",
+    "multiCoreScore": "689"
+  },
+  {
+    "cpuName": "AMD FX-8120",
+    "singleCoreScore": "412",
+    "multiCoreScore": "1526"
+  },
+  {
+    "cpuName": "Intel Pentium G2020T",
+    "singleCoreScore": "412",
+    "multiCoreScore": "694"
+  },
+  {
+    "cpuName": "AMD A8-7650K",
+    "singleCoreScore": "412",
+    "multiCoreScore": "1034"
+  },
+  {
+    "cpuName": "Intel Core i5-3337U",
+    "singleCoreScore": "411",
+    "multiCoreScore": "834"
+  },
+  {
+    "cpuName": "AMD A6-7400K",
+    "singleCoreScore": "410",
+    "multiCoreScore": "576"
+  },
+  {
+    "cpuName": "AMD A6-6400K",
+    "singleCoreScore": "410",
+    "multiCoreScore": "576"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2609",
+    "singleCoreScore": "409",
+    "multiCoreScore": "1283"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2620 v2",
+    "singleCoreScore": "408",
+    "multiCoreScore": "2107"
+  },
+  {
+    "cpuName": "Intel Core i3-540",
+    "singleCoreScore": "407",
+    "multiCoreScore": "828"
+  },
+  {
+    "cpuName": "AMD FX-6200",
+    "singleCoreScore": "407",
+    "multiCoreScore": "1309"
+  },
+  {
+    "cpuName": "Intel Core i5-2557M",
+    "singleCoreScore": "405",
+    "multiCoreScore": "799"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2650",
+    "singleCoreScore": "405",
+    "multiCoreScore": "2428"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E8600",
+    "singleCoreScore": "404",
+    "multiCoreScore": "663"
+  },
+  {
+    "cpuName": "AMD A8-7500",
+    "singleCoreScore": "404",
+    "multiCoreScore": "971"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2620",
+    "singleCoreScore": "403",
+    "multiCoreScore": "1949"
+  },
+  {
+    "cpuName": "Intel Core i3-2120T",
+    "singleCoreScore": "401",
+    "multiCoreScore": "763"
+  },
+  {
+    "cpuName": "Intel Xeon D-2123IT",
+    "singleCoreScore": "401",
+    "multiCoreScore": "868"
+  },
+  {
+    "cpuName": "AMD FX-4100",
+    "singleCoreScore": "400",
+    "multiCoreScore": "1016"
+  },
+  {
+    "cpuName": "Intel Pentium G630",
+    "singleCoreScore": "400",
+    "multiCoreScore": "693"
+  },
+  {
+    "cpuName": "AMD PRO A10-8750B",
+    "singleCoreScore": "400",
+    "multiCoreScore": "924"
+  },
+  {
+    "cpuName": "Intel Core i5-3317U",
+    "singleCoreScore": "399",
+    "multiCoreScore": "806"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2430",
+    "singleCoreScore": "399",
+    "multiCoreScore": "1763"
+  },
+  {
+    "cpuName": "AMD Athlon X4 740",
+    "singleCoreScore": "399",
+    "multiCoreScore": "969"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T9900",
+    "singleCoreScore": "398",
+    "multiCoreScore": "638"
+  },
+  {
+    "cpuName": "Intel Xeon L5640",
+    "singleCoreScore": "398",
+    "multiCoreScore": "1934"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2640 v2",
+    "singleCoreScore": "397",
+    "multiCoreScore": "2381"
+  },
+  {
+    "cpuName": "Intel Core i5-560M",
+    "singleCoreScore": "396",
+    "multiCoreScore": "757"
+  },
+  {
+    "cpuName": "Intel Pentium 2020M",
+    "singleCoreScore": "396",
+    "multiCoreScore": "671"
+  },
+  {
+    "cpuName": "Intel Core i3-3120M",
+    "singleCoreScore": "394",
+    "multiCoreScore": "811"
+  },
+  {
+    "cpuName": "Intel Celeron 3865U",
+    "singleCoreScore": "394",
+    "multiCoreScore": "694"
+  },
+  {
+    "cpuName": "Intel Core i3-3110M",
+    "singleCoreScore": "393",
+    "multiCoreScore": "814"
+  },
+  {
+    "cpuName": "AMD A4-6300",
+    "singleCoreScore": "391",
+    "multiCoreScore": "566"
+  },
+  {
+    "cpuName": "AMD A8-5500B",
+    "singleCoreScore": "389",
+    "multiCoreScore": "961"
+  },
+  {
+    "cpuName": "Intel Core 2 Extreme X9650",
+    "singleCoreScore": "389",
+    "multiCoreScore": "1146"
+  },
+  {
+    "cpuName": "Intel Xeon E5450",
+    "singleCoreScore": "388",
+    "multiCoreScore": "1095"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E8500",
+    "singleCoreScore": "387",
+    "multiCoreScore": "634"
+  },
+  {
+    "cpuName": "Intel Core i7-820QM",
+    "singleCoreScore": "387",
+    "multiCoreScore": "977"
+  },
+  {
+    "cpuName": "AMD Phenom II X4 965 Black Edition",
+    "singleCoreScore": "386",
+    "multiCoreScore": "1171"
+  },
+  {
+    "cpuName": "Intel Pentium G620",
+    "singleCoreScore": "385",
+    "multiCoreScore": "662"
+  },
+  {
+    "cpuName": "AMD Phenom II X6 1090T Black Edition",
+    "singleCoreScore": "385",
+    "multiCoreScore": "1465"
+  },
+  {
+    "cpuName": "AMD A8-5500",
+    "singleCoreScore": "384",
+    "multiCoreScore": "895"
+  },
+  {
+    "cpuName": "Intel Xeon X3430",
+    "singleCoreScore": "382",
+    "multiCoreScore": "1084"
+  },
+  {
+    "cpuName": "AMD A10-5700",
+    "singleCoreScore": "381",
+    "multiCoreScore": "971"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q9650",
+    "singleCoreScore": "380",
+    "multiCoreScore": "1069"
+  },
+  {
+    "cpuName": "AMD A4-5300B",
+    "singleCoreScore": "380",
+    "multiCoreScore": "509"
+  },
+  {
+    "cpuName": "Intel Xeon X5450",
+    "singleCoreScore": "380",
+    "multiCoreScore": "1101"
+  },
+  {
+    "cpuName": "AMD FX-6100",
+    "singleCoreScore": "379",
+    "multiCoreScore": "1224"
+  },
+  {
+    "cpuName": "Intel Xeon X3440",
+    "singleCoreScore": "379",
+    "multiCoreScore": "1181"
+  },
+  {
+    "cpuName": "Intel Celeron 5205U",
+    "singleCoreScore": "379",
+    "multiCoreScore": "655"
+  },
+  {
+    "cpuName": "AMD A6-5400K",
+    "singleCoreScore": "378",
+    "multiCoreScore": "508"
+  },
+  {
+    "cpuName": "Intel Celeron G550",
+    "singleCoreScore": "378",
+    "multiCoreScore": "643"
+  },
+  {
+    "cpuName": "Intel Core 2 Extreme Q9300",
+    "singleCoreScore": "377",
+    "multiCoreScore": "988"
+  },
+  {
+    "cpuName": "Intel Pentium Silver J5005",
+    "singleCoreScore": "374",
+    "multiCoreScore": "1084"
+  },
+  {
+    "cpuName": "Intel Core i5-540M",
+    "singleCoreScore": "374",
+    "multiCoreScore": "725"
+  },
+  {
+    "cpuName": "AMD Phenom II X2 560 Black Edition",
+    "singleCoreScore": "374",
+    "multiCoreScore": "658"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2609 v2",
+    "singleCoreScore": "373",
+    "multiCoreScore": "1037"
+  },
+  {
+    "cpuName": "Intel Xeon E5-2420",
+    "singleCoreScore": "372",
+    "multiCoreScore": "1828"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E7600",
+    "singleCoreScore": "371",
+    "multiCoreScore": "619"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q9550",
+    "singleCoreScore": "371",
+    "multiCoreScore": "1042"
+  },
+  {
+    "cpuName": "Intel Pentium B980",
+    "singleCoreScore": "371",
+    "multiCoreScore": "643"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E8400",
+    "singleCoreScore": "369",
+    "multiCoreScore": "602"
+  },
+  {
+    "cpuName": "Intel Xeon E5440",
+    "singleCoreScore": "369",
+    "multiCoreScore": "1064"
+  },
+  {
+    "cpuName": "AMD A10-5757M",
+    "singleCoreScore": "368",
+    "multiCoreScore": "803"
+  },
+  {
+    "cpuName": "AMD A4-5300",
+    "singleCoreScore": "368",
+    "multiCoreScore": "504"
+  },
+  {
+    "cpuName": "Intel Core i7-840QM",
+    "singleCoreScore": "366",
+    "multiCoreScore": "995"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q9500",
+    "singleCoreScore": "366",
+    "multiCoreScore": "1035"
+  },
+  {
+    "cpuName": "Intel Core i7-640LM",
+    "singleCoreScore": "366",
+    "multiCoreScore": "680"
+  },
+  {
+    "cpuName": "AMD FX-7600P",
+    "singleCoreScore": "366",
+    "multiCoreScore": "823"
+  },
+  {
+    "cpuName": "Intel Core i7-920XM",
+    "singleCoreScore": "365",
+    "multiCoreScore": "1047"
+  },
+  {
+    "cpuName": "Intel Core i3-2370M",
+    "singleCoreScore": "365",
+    "multiCoreScore": "721"
+  },
+  {
+    "cpuName": "Intel Xeon E5540",
+    "singleCoreScore": "365",
+    "multiCoreScore": "1551"
+  },
+  {
+    "cpuName": "Intel Xeon E5645",
+    "singleCoreScore": "363",
+    "multiCoreScore": "1773"
+  },
+  {
+    "cpuName": "Intel Celeron G530",
+    "singleCoreScore": "363",
+    "multiCoreScore": "617"
+  },
+  {
+    "cpuName": "Intel Pentium Silver N5030",
+    "singleCoreScore": "363",
+    "multiCoreScore": "800"
+  },
+  {
+    "cpuName": "Intel Core i5-520M",
+    "singleCoreScore": "361",
+    "multiCoreScore": "698"
+  },
+  {
+    "cpuName": "AMD Phenom II X2 555 Black Edition",
+    "singleCoreScore": "361",
+    "multiCoreScore": "620"
+  },
+  {
+    "cpuName": "Intel Core i5-480M",
+    "singleCoreScore": "360",
+    "multiCoreScore": "675"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q9505",
+    "singleCoreScore": "360",
+    "multiCoreScore": "1070"
+  },
+  {
+    "cpuName": "AMD Phenom II X4 960T",
+    "singleCoreScore": "360",
+    "multiCoreScore": "996"
+  },
+  {
+    "cpuName": "Intel Xeon E5430",
+    "singleCoreScore": "359",
+    "multiCoreScore": "1055"
+  },
+  {
+    "cpuName": "Intel Core i3-530",
+    "singleCoreScore": "357",
+    "multiCoreScore": "745"
+  },
+  {
+    "cpuName": "Intel Celeron 4205U",
+    "singleCoreScore": "357",
+    "multiCoreScore": "600"
+  },
+  {
+    "cpuName": "Intel Core i7-740QM",
+    "singleCoreScore": "356",
+    "multiCoreScore": "989"
+  },
+  {
+    "cpuName": "Intel Xeon E5620",
+    "singleCoreScore": "355",
+    "multiCoreScore": "1457"
+  },
+  {
+    "cpuName": "Intel Pentium B970",
+    "singleCoreScore": "354",
+    "multiCoreScore": "565"
+  },
+  {
+    "cpuName": "Intel Pentium E6700",
+    "singleCoreScore": "353",
+    "multiCoreScore": "576"
+  },
+  {
+    "cpuName": "Intel Core i5-460M",
+    "singleCoreScore": "352",
+    "multiCoreScore": "696"
+  },
+  {
+    "cpuName": "AMD Athlon II X2 260",
+    "singleCoreScore": "349",
+    "multiCoreScore": "626"
+  },
+  {
+    "cpuName": "Intel Core i3-2348M",
+    "singleCoreScore": "347",
+    "multiCoreScore": "706"
+  },
+  {
+    "cpuName": "AMD Phenom II X4 955 Black Edition",
+    "singleCoreScore": "347",
+    "multiCoreScore": "1045"
+  },
+  {
+    "cpuName": "Intel Pentium E6600",
+    "singleCoreScore": "347",
+    "multiCoreScore": "558"
+  },
+  {
+    "cpuName": "Intel Xeon E5640",
+    "singleCoreScore": "347",
+    "multiCoreScore": "1400"
+  },
+  {
+    "cpuName": "Intel Pentium Silver N5000",
+    "singleCoreScore": "346",
+    "multiCoreScore": "854"
+  },
+  {
+    "cpuName": "Intel Celeron J4125",
+    "singleCoreScore": "346",
+    "multiCoreScore": "962"
+  },
+  {
+    "cpuName": "Intel Celeron 3867U",
+    "singleCoreScore": "346",
+    "multiCoreScore": "607"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E7500",
+    "singleCoreScore": "345",
+    "multiCoreScore": "567"
+  },
+  {
+    "cpuName": "Intel Celeron J4005",
+    "singleCoreScore": "345",
+    "multiCoreScore": "582"
+  },
+  {
+    "cpuName": "Intel Pentium E5800",
+    "singleCoreScore": "345",
+    "multiCoreScore": "550"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T9550",
+    "singleCoreScore": "345",
+    "multiCoreScore": "566"
+  },
+  {
+    "cpuName": "Intel Celeron N4020",
+    "singleCoreScore": "344",
+    "multiCoreScore": "547"
+  },
+  {
+    "cpuName": "Intel Core i5-450M",
+    "singleCoreScore": "344",
+    "multiCoreScore": "676"
+  },
+  {
+    "cpuName": "AMD A4-7300",
+    "singleCoreScore": "344",
+    "multiCoreScore": "555"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo P9500",
+    "singleCoreScore": "343",
+    "multiCoreScore": "583"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q9450",
+    "singleCoreScore": "341",
+    "multiCoreScore": "943"
+  },
+  {
+    "cpuName": "AMD Athlon II X2 270",
+    "singleCoreScore": "341",
+    "multiCoreScore": "586"
+  },
+  {
+    "cpuName": "AMD A8-3870",
+    "singleCoreScore": "341",
+    "multiCoreScore": "1059"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T9500",
+    "singleCoreScore": "341",
+    "multiCoreScore": "556"
+  },
+  {
+    "cpuName": "Intel Pentium E6500",
+    "singleCoreScore": "341",
+    "multiCoreScore": "562"
+  },
+  {
+    "cpuName": "AMD A10-4600M",
+    "singleCoreScore": "340",
+    "multiCoreScore": "730"
+  },
+  {
+    "cpuName": "AMD Phenom II X4 945",
+    "singleCoreScore": "340",
+    "multiCoreScore": "1010"
+  },
+  {
+    "cpuName": "Intel Core i3-2350M",
+    "singleCoreScore": "338",
+    "multiCoreScore": "665"
+  },
+  {
+    "cpuName": "Intel Pentium 3825U",
+    "singleCoreScore": "338",
+    "multiCoreScore": "693"
+  },
+  {
+    "cpuName": "Intel Celeron J4025",
+    "singleCoreScore": "337",
+    "multiCoreScore": "548"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E8300",
+    "singleCoreScore": "336",
+    "multiCoreScore": "575"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q9400",
+    "singleCoreScore": "336",
+    "multiCoreScore": "925"
+  },
+  {
+    "cpuName": "AMD A4-4020",
+    "singleCoreScore": "336",
+    "multiCoreScore": "438"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T9600",
+    "singleCoreScore": "335",
+    "multiCoreScore": "555"
+  },
+  {
+    "cpuName": "Intel Celeron 3215U",
+    "singleCoreScore": "335",
+    "multiCoreScore": "593"
+  },
+  {
+    "cpuName": "AMD A4-4000",
+    "singleCoreScore": "334",
+    "multiCoreScore": "465"
+  },
+  {
+    "cpuName": "AMD Phenom II X4 840",
+    "singleCoreScore": "333",
+    "multiCoreScore": "863"
+  },
+  {
+    "cpuName": "Intel Core i3-390M",
+    "singleCoreScore": "332",
+    "multiCoreScore": "624"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E6850",
+    "singleCoreScore": "331",
+    "multiCoreScore": "555"
+  },
+  {
+    "cpuName": "Intel Core i3-380M",
+    "singleCoreScore": "330",
+    "multiCoreScore": "641"
+  },
+  {
+    "cpuName": "Intel Core i3-2330M",
+    "singleCoreScore": "329",
+    "multiCoreScore": "669"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo P8800",
+    "singleCoreScore": "329",
+    "multiCoreScore": "535"
+  },
+  {
+    "cpuName": "Intel Xeon E5606",
+    "singleCoreScore": "329",
+    "multiCoreScore": "1040"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q8400",
+    "singleCoreScore": "327",
+    "multiCoreScore": "892"
+  },
+  {
+    "cpuName": "Intel Core i3-2328M",
+    "singleCoreScore": "327",
+    "multiCoreScore": "658"
+  },
+  {
+    "cpuName": "Intel Celeron 1005M",
+    "singleCoreScore": "326",
+    "multiCoreScore": "558"
+  },
+  {
+    "cpuName": "Intel Pentium B960",
+    "singleCoreScore": "325",
+    "multiCoreScore": "526"
+  },
+  {
+    "cpuName": "Intel Core i5-430M",
+    "singleCoreScore": "324",
+    "multiCoreScore": "649"
+  },
+  {
+    "cpuName": "Intel Celeron N4000",
+    "singleCoreScore": "324",
+    "multiCoreScore": "529"
+  },
+  {
+    "cpuName": "Intel Celeron J4105",
+    "singleCoreScore": "324",
+    "multiCoreScore": "924"
+  },
+  {
+    "cpuName": "Intel Pentium E5700",
+    "singleCoreScore": "324",
+    "multiCoreScore": "518"
+  },
+  {
+    "cpuName": "Intel Core i3-2310M",
+    "singleCoreScore": "323",
+    "multiCoreScore": "645"
+  },
+  {
+    "cpuName": "Intel Core i5-2467M",
+    "singleCoreScore": "323",
+    "multiCoreScore": "623"
+  },
+  {
+    "cpuName": "AMD Phenom II X4 925",
+    "singleCoreScore": "322",
+    "multiCoreScore": "966"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T9400",
+    "singleCoreScore": "321",
+    "multiCoreScore": "505"
+  },
+  {
+    "cpuName": "Intel Core i3-370M",
+    "singleCoreScore": "321",
+    "multiCoreScore": "649"
+  },
+  {
+    "cpuName": "Intel Celeron 3965Y",
+    "singleCoreScore": "320",
+    "multiCoreScore": "560"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E7400",
+    "singleCoreScore": "319",
+    "multiCoreScore": "510"
+  },
+  {
+    "cpuName": "Intel Pentium B940",
+    "singleCoreScore": "319",
+    "multiCoreScore": "552"
+  },
+  {
+    "cpuName": "Intel Celeron N4120",
+    "singleCoreScore": "319",
+    "multiCoreScore": "771"
+  },
+  {
+    "cpuName": "AMD A6-4400M",
+    "singleCoreScore": "318",
+    "multiCoreScore": "409"
+  },
+  {
+    "cpuName": "AMD Athlon II X4 645",
+    "singleCoreScore": "318",
+    "multiCoreScore": "955"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q9300",
+    "singleCoreScore": "316",
+    "multiCoreScore": "868"
+  },
+  {
+    "cpuName": "AMD Phenom II X4 820",
+    "singleCoreScore": "316",
+    "multiCoreScore": "921"
+  },
+  {
+    "cpuName": "AMD FX-7500",
+    "singleCoreScore": "315",
+    "multiCoreScore": "694"
+  },
+  {
+    "cpuName": "AMD Athlon II X4 640",
+    "singleCoreScore": "315",
+    "multiCoreScore": "952"
+  },
+  {
+    "cpuName": "Intel Celeron 3855U",
+    "singleCoreScore": "315",
+    "multiCoreScore": "538"
+  },
+  {
+    "cpuName": "Intel Pentium 4415Y",
+    "singleCoreScore": "313",
+    "multiCoreScore": "662"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T9300",
+    "singleCoreScore": "313",
+    "multiCoreScore": "504"
+  },
+  {
+    "cpuName": "AMD A6-5350M",
+    "singleCoreScore": "313",
+    "multiCoreScore": "444"
+  },
+  {
+    "cpuName": "Intel Pentium B950",
+    "singleCoreScore": "312",
+    "multiCoreScore": "511"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E7300",
+    "singleCoreScore": "312",
+    "multiCoreScore": "508"
+  },
+  {
+    "cpuName": "Intel Pentium E5400",
+    "singleCoreScore": "312",
+    "multiCoreScore": "509"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q8300",
+    "singleCoreScore": "311",
+    "multiCoreScore": "878"
+  },
+  {
+    "cpuName": "Intel Core i7-720QM",
+    "singleCoreScore": "311",
+    "multiCoreScore": "859"
+  },
+  {
+    "cpuName": "Intel Celeron 1037U",
+    "singleCoreScore": "311",
+    "multiCoreScore": "523"
+  },
+  {
+    "cpuName": "AMD A8-3850",
+    "singleCoreScore": "311",
+    "multiCoreScore": "908"
+  },
+  {
+    "cpuName": "Intel Celeron N4100",
+    "singleCoreScore": "308",
+    "multiCoreScore": "822"
+  },
+  {
+    "cpuName": "AMD Athlon II X3 440",
+    "singleCoreScore": "308",
+    "multiCoreScore": "721"
+  },
+  {
+    "cpuName": "AMD Athlon II X2 250",
+    "singleCoreScore": "307",
+    "multiCoreScore": "536"
+  },
+  {
+    "cpuName": "Intel Pentium G6950",
+    "singleCoreScore": "307",
+    "multiCoreScore": "526"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo P8700",
+    "singleCoreScore": "306",
+    "multiCoreScore": "493"
+  },
+  {
+    "cpuName": "Intel Pentium 2127U",
+    "singleCoreScore": "306",
+    "multiCoreScore": "532"
+  },
+  {
+    "cpuName": "AMD A4-4300M",
+    "singleCoreScore": "306",
+    "multiCoreScore": "400"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T8300",
+    "singleCoreScore": "306",
+    "multiCoreScore": "484"
+  },
+  {
+    "cpuName": "AMD Athlon II X3 450",
+    "singleCoreScore": "306",
+    "multiCoreScore": "759"
+  },
+  {
+    "cpuName": "AMD A8-3820",
+    "singleCoreScore": "305",
+    "multiCoreScore": "928"
+  },
+  {
+    "cpuName": "Intel Core i5-2537M",
+    "singleCoreScore": "304",
+    "multiCoreScore": "581"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E6700",
+    "singleCoreScore": "304",
+    "multiCoreScore": "513"
+  },
+  {
+    "cpuName": "Intel Core i3-350M",
+    "singleCoreScore": "303",
+    "multiCoreScore": "599"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E6750",
+    "singleCoreScore": "303",
+    "multiCoreScore": "504"
+  },
+  {
+    "cpuName": "Intel Pentium 3556U",
+    "singleCoreScore": "302",
+    "multiCoreScore": "493"
+  },
+  {
+    "cpuName": "Intel Pentium 3805U",
+    "singleCoreScore": "302",
+    "multiCoreScore": "582"
+  },
+  {
+    "cpuName": "AMD A6-3670",
+    "singleCoreScore": "302",
+    "multiCoreScore": "864"
+  },
+  {
+    "cpuName": "Intel Pentium E5500",
+    "singleCoreScore": "300",
+    "multiCoreScore": "480"
+  },
+  {
+    "cpuName": "Intel Pentium E5300",
+    "singleCoreScore": "300",
+    "multiCoreScore": "494"
+  },
+  {
+    "cpuName": "AMD A4-3420",
+    "singleCoreScore": "299",
+    "multiCoreScore": "531"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q6700",
+    "singleCoreScore": "298",
+    "multiCoreScore": "827"
+  },
+  {
+    "cpuName": "Intel Core i3-3227U",
+    "singleCoreScore": "296",
+    "multiCoreScore": "645"
+  },
+  {
+    "cpuName": "AMD A6-3650",
+    "singleCoreScore": "296",
+    "multiCoreScore": "920"
+  },
+  {
+    "cpuName": "AMD Athlon II X4 630",
+    "singleCoreScore": "296",
+    "multiCoreScore": "893"
+  },
+  {
+    "cpuName": "AMD Athlon II X4 635",
+    "singleCoreScore": "296",
+    "multiCoreScore": "863"
+  },
+  {
+    "cpuName": "Intel Celeron 1000M",
+    "singleCoreScore": "296",
+    "multiCoreScore": "506"
+  },
+  {
+    "cpuName": "AMD Athlon II X2 245",
+    "singleCoreScore": "296",
+    "multiCoreScore": "523"
+  },
+  {
+    "cpuName": "AMD Athlon II X2 240",
+    "singleCoreScore": "295",
+    "multiCoreScore": "505"
+  },
+  {
+    "cpuName": "Intel Pentium E6300",
+    "singleCoreScore": "294",
+    "multiCoreScore": "475"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q8200",
+    "singleCoreScore": "293",
+    "multiCoreScore": "827"
+  },
+  {
+    "cpuName": "AMD Athlon II X2 255",
+    "singleCoreScore": "293",
+    "multiCoreScore": "403"
+  },
+  {
+    "cpuName": "AMD Athlon II X3 445",
+    "singleCoreScore": "293",
+    "multiCoreScore": "639"
+  },
+  {
+    "cpuName": "AMD Athlon II X2 220",
+    "singleCoreScore": "293",
+    "multiCoreScore": "500"
+  },
+  {
+    "cpuName": "Intel Core i3-3217U",
+    "singleCoreScore": "292",
+    "multiCoreScore": "618"
+  },
+  {
+    "cpuName": "AMD Phenom II X4 810",
+    "singleCoreScore": "292",
+    "multiCoreScore": "875"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E7200",
+    "singleCoreScore": "292",
+    "multiCoreScore": "477"
+  },
+  {
+    "cpuName": "AMD Athlon II X4 631",
+    "singleCoreScore": "292",
+    "multiCoreScore": "881"
+  },
+  {
+    "cpuName": "AMD A4-3400",
+    "singleCoreScore": "291",
+    "multiCoreScore": "505"
+  },
+  {
+    "cpuName": "AMD A10-5750M",
+    "singleCoreScore": "291",
+    "multiCoreScore": "649"
+  },
+  {
+    "cpuName": "AMD A8-3800",
+    "singleCoreScore": "291",
+    "multiCoreScore": "889"
+  },
+  {
+    "cpuName": "AMD Athlon II X2 B24",
+    "singleCoreScore": "290",
+    "multiCoreScore": "484"
+  },
+  {
+    "cpuName": "Intel Celeron E3400",
+    "singleCoreScore": "290",
+    "multiCoreScore": "485"
+  },
+  {
+    "cpuName": "Intel Celeron E3500",
+    "singleCoreScore": "290",
+    "multiCoreScore": "443"
+  },
+  {
+    "cpuName": "AMD A8-4500M",
+    "singleCoreScore": "288",
+    "multiCoreScore": "646"
+  },
+  {
+    "cpuName": "Intel Pentium E5200",
+    "singleCoreScore": "288",
+    "multiCoreScore": "454"
+  },
+  {
+    "cpuName": "Intel Pentium 2117U",
+    "singleCoreScore": "285",
+    "multiCoreScore": "479"
+  },
+  {
+    "cpuName": "Intel Pentium P6200",
+    "singleCoreScore": "284",
+    "multiCoreScore": "488"
+  },
+  {
+    "cpuName": "AMD A10-7300",
+    "singleCoreScore": "284",
+    "multiCoreScore": "627"
+  },
+  {
+    "cpuName": "AMD Athlon II X4 620",
+    "singleCoreScore": "282",
+    "multiCoreScore": "862"
+  },
+  {
+    "cpuName": "AMD A10-4655M",
+    "singleCoreScore": "282",
+    "multiCoreScore": "578"
+  },
+  {
+    "cpuName": "Intel Celeron B820",
+    "singleCoreScore": "281",
+    "multiCoreScore": "491"
+  },
+  {
+    "cpuName": "AMD A8-5550M",
+    "singleCoreScore": "280",
+    "multiCoreScore": "659"
+  },
+  {
+    "cpuName": "Intel Pentium J4205",
+    "singleCoreScore": "280",
+    "multiCoreScore": "759"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo P8600",
+    "singleCoreScore": "279",
+    "multiCoreScore": "469"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo P8400",
+    "singleCoreScore": "277",
+    "multiCoreScore": "464"
+  },
+  {
+    "cpuName": "AMD Athlon II X3 425",
+    "singleCoreScore": "276",
+    "multiCoreScore": "639"
+  },
+  {
+    "cpuName": "Intel Pentium N4200",
+    "singleCoreScore": "274",
+    "multiCoreScore": "719"
+  },
+  {
+    "cpuName": "AMD A10-5745M",
+    "singleCoreScore": "274",
+    "multiCoreScore": "605"
+  },
+  {
+    "cpuName": "AMD A10 PRO-7350B",
+    "singleCoreScore": "273",
+    "multiCoreScore": "647"
+  },
+  {
+    "cpuName": "Intel Core i3-330M",
+    "singleCoreScore": "272",
+    "multiCoreScore": "560"
+  },
+  {
+    "cpuName": "AMD Athlon II X2 215",
+    "singleCoreScore": "272",
+    "multiCoreScore": "472"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T8100",
+    "singleCoreScore": "272",
+    "multiCoreScore": "428"
+  },
+  {
+    "cpuName": "Intel Celeron J3355",
+    "singleCoreScore": "272",
+    "multiCoreScore": "456"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo P7550",
+    "singleCoreScore": "272",
+    "multiCoreScore": "433"
+  },
+  {
+    "cpuName": "Intel Pentium P6100",
+    "singleCoreScore": "271",
+    "multiCoreScore": "446"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo P7450",
+    "singleCoreScore": "270",
+    "multiCoreScore": "463"
+  },
+  {
+    "cpuName": "Intel Core 2 Quad Q6600",
+    "singleCoreScore": "270",
+    "multiCoreScore": "770"
+  },
+  {
+    "cpuName": "Intel Celeron B830",
+    "singleCoreScore": "268",
+    "multiCoreScore": "471"
+  },
+  {
+    "cpuName": "Intel Celeron 2955U",
+    "singleCoreScore": "266",
+    "multiCoreScore": "455"
+  },
+  {
+    "cpuName": "AMD A8-7100",
+    "singleCoreScore": "264",
+    "multiCoreScore": "575"
+  },
+  {
+    "cpuName": "Intel Celeron 1017U",
+    "singleCoreScore": "263",
+    "multiCoreScore": "455"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E6600",
+    "singleCoreScore": "263",
+    "multiCoreScore": "420"
+  },
+  {
+    "cpuName": "Intel Pentium P6000",
+    "singleCoreScore": "263",
+    "multiCoreScore": "442"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T6670",
+    "singleCoreScore": "260",
+    "multiCoreScore": "399"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E6550",
+    "singleCoreScore": "260",
+    "multiCoreScore": "431"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T6600",
+    "singleCoreScore": "257",
+    "multiCoreScore": "397"
+  },
+  {
+    "cpuName": "Intel Celeron 3205U",
+    "singleCoreScore": "257",
+    "multiCoreScore": "461"
+  },
+  {
+    "cpuName": "Intel Celeron J3455",
+    "singleCoreScore": "256",
+    "multiCoreScore": "769"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T7700",
+    "singleCoreScore": "256",
+    "multiCoreScore": "417"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T6570",
+    "singleCoreScore": "255",
+    "multiCoreScore": "424"
+  },
+  {
+    "cpuName": "AMD A8-3520M",
+    "singleCoreScore": "255",
+    "multiCoreScore": "687"
+  },
+  {
+    "cpuName": "AMD A6-3430MX",
+    "singleCoreScore": "254",
+    "multiCoreScore": "681"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T7600",
+    "singleCoreScore": "254",
+    "multiCoreScore": "423"
+  },
+  {
+    "cpuName": "Intel Celeron N3350",
+    "singleCoreScore": "252",
+    "multiCoreScore": "415"
+  },
+  {
+    "cpuName": "Intel Celeron 1007U",
+    "singleCoreScore": "252",
+    "multiCoreScore": "420"
+  },
+  {
+    "cpuName": "AMD Phenom X3 8650",
+    "singleCoreScore": "252",
+    "multiCoreScore": "619"
+  },
+  {
+    "cpuName": "AMD A6-3620",
+    "singleCoreScore": "251",
+    "multiCoreScore": "782"
+  },
+  {
+    "cpuName": "Intel Pentium T4400",
+    "singleCoreScore": "250",
+    "multiCoreScore": "401"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T6500",
+    "singleCoreScore": "250",
+    "multiCoreScore": "390"
+  },
+  {
+    "cpuName": "Intel Pentium T4500",
+    "singleCoreScore": "249",
+    "multiCoreScore": "384"
+  },
+  {
+    "cpuName": "Intel Celeron E3300",
+    "singleCoreScore": "248",
+    "multiCoreScore": "398"
+  },
+  {
+    "cpuName": "Intel Celeron B800",
+    "singleCoreScore": "247",
+    "multiCoreScore": "414"
+  },
+  {
+    "cpuName": "Intel Celeron N3450",
+    "singleCoreScore": "244",
+    "multiCoreScore": "682"
+  },
+  {
+    "cpuName": "Intel Celeron B815",
+    "singleCoreScore": "244",
+    "multiCoreScore": "419"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T7500",
+    "singleCoreScore": "243",
+    "multiCoreScore": "373"
+  },
+  {
+    "cpuName": "AMD Phenom X4 9650",
+    "singleCoreScore": "243",
+    "multiCoreScore": "786"
+  },
+  {
+    "cpuName": "AMD A8-7410",
+    "singleCoreScore": "242",
+    "multiCoreScore": "631"
+  },
+  {
+    "cpuName": "AMD Athlon 64 X2 6000+",
+    "singleCoreScore": "242",
+    "multiCoreScore": "421"
+  },
+  {
+    "cpuName": "Intel Core i3-2377M",
+    "singleCoreScore": "239",
+    "multiCoreScore": "481"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo P7350",
+    "singleCoreScore": "238",
+    "multiCoreScore": "391"
+  },
+  {
+    "cpuName": "AMD A6-3420M",
+    "singleCoreScore": "238",
+    "multiCoreScore": "625"
+  },
+  {
+    "cpuName": "AMD Phenom X4 9550",
+    "singleCoreScore": "237",
+    "multiCoreScore": "729"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T7800",
+    "singleCoreScore": "237",
+    "multiCoreScore": "364"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E6400",
+    "singleCoreScore": "233",
+    "multiCoreScore": "374"
+  },
+  {
+    "cpuName": "AMD A8-3510MX",
+    "singleCoreScore": "233",
+    "multiCoreScore": "631"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T6400",
+    "singleCoreScore": "232",
+    "multiCoreScore": "359"
+  },
+  {
+    "cpuName": "Intel Atom x7-E3950",
+    "singleCoreScore": "231",
+    "multiCoreScore": "718"
+  },
+  {
+    "cpuName": "AMD A4-3300M",
+    "singleCoreScore": "231",
+    "multiCoreScore": "395"
+  },
+  {
+    "cpuName": "AMD A8-3500M",
+    "singleCoreScore": "231",
+    "multiCoreScore": "620"
+  },
+  {
+    "cpuName": "AMD Athlon 64 X2 5600+",
+    "singleCoreScore": "231",
+    "multiCoreScore": "401"
+  },
+  {
+    "cpuName": "AMD A6-6310",
+    "singleCoreScore": "229",
+    "multiCoreScore": "600"
+  },
+  {
+    "cpuName": "AMD A6-7310",
+    "singleCoreScore": "229",
+    "multiCoreScore": "595"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E4500",
+    "singleCoreScore": "229",
+    "multiCoreScore": "376"
+  },
+  {
+    "cpuName": "Intel Pentium 987",
+    "singleCoreScore": "228",
+    "multiCoreScore": "392"
+  },
+  {
+    "cpuName": "AMD A6-4455M",
+    "singleCoreScore": "228",
+    "multiCoreScore": "302"
+  },
+  {
+    "cpuName": "AMD A8-5545M",
+    "singleCoreScore": "225",
+    "multiCoreScore": "512"
+  },
+  {
+    "cpuName": "Intel Celeron 900",
+    "singleCoreScore": "224",
+    "multiCoreScore": "237"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T5870",
+    "singleCoreScore": "224",
+    "multiCoreScore": "369"
+  },
+  {
+    "cpuName": "AMD Athlon 5350",
+    "singleCoreScore": "223",
+    "multiCoreScore": "662"
+  },
+  {
+    "cpuName": "Intel Pentium T4300",
+    "singleCoreScore": "222",
+    "multiCoreScore": "372"
+  },
+  {
+    "cpuName": "AMD A8-6410",
+    "singleCoreScore": "221",
+    "multiCoreScore": "584"
+  },
+  {
+    "cpuName": "Intel Core i3-2367M",
+    "singleCoreScore": "221",
+    "multiCoreScore": "472"
+  },
+  {
+    "cpuName": "Intel Core i3-2375M",
+    "singleCoreScore": "221",
+    "multiCoreScore": "475"
+  },
+  {
+    "cpuName": "Intel Pentium T4200",
+    "singleCoreScore": "220",
+    "multiCoreScore": "376"
+  },
+  {
+    "cpuName": "AMD A6-3410MX",
+    "singleCoreScore": "220",
+    "multiCoreScore": "629"
+  },
+  {
+    "cpuName": "Intel Pentium E2200",
+    "singleCoreScore": "219",
+    "multiCoreScore": "351"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T7300",
+    "singleCoreScore": "218",
+    "multiCoreScore": "362"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T7200",
+    "singleCoreScore": "216",
+    "multiCoreScore": "342"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T7250",
+    "singleCoreScore": "215",
+    "multiCoreScore": "343"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T5850",
+    "singleCoreScore": "215",
+    "multiCoreScore": "325"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T5800",
+    "singleCoreScore": "215",
+    "multiCoreScore": "341"
+  },
+  {
+    "cpuName": "Intel Core i3-2365M",
+    "singleCoreScore": "214",
+    "multiCoreScore": "461"
+  },
+  {
+    "cpuName": "Intel Pentium E2180",
+    "singleCoreScore": "214",
+    "multiCoreScore": "346"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E4600",
+    "singleCoreScore": "214",
+    "multiCoreScore": "339"
+  },
+  {
+    "cpuName": "AMD A6-3400M",
+    "singleCoreScore": "213",
+    "multiCoreScore": "513"
+  },
+  {
+    "cpuName": "Intel Pentium E2220",
+    "singleCoreScore": "213",
+    "multiCoreScore": "375"
+  },
+  {
+    "cpuName": "AMD A4 Pro-3350B",
+    "singleCoreScore": "213",
+    "multiCoreScore": "538"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T5750",
+    "singleCoreScore": "211",
+    "multiCoreScore": "349"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T7100",
+    "singleCoreScore": "211",
+    "multiCoreScore": "355"
+  },
+  {
+    "cpuName": "AMD A6-5200",
+    "singleCoreScore": "208",
+    "multiCoreScore": "591"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E4300",
+    "singleCoreScore": "208",
+    "multiCoreScore": "351"
+  },
+  {
+    "cpuName": "AMD A4-7210",
+    "singleCoreScore": "199",
+    "multiCoreScore": "533"
+  },
+  {
+    "cpuName": "AMD Athlon 64 X2 5000+",
+    "singleCoreScore": "199",
+    "multiCoreScore": "341"
+  },
+  {
+    "cpuName": "Intel Pentium J3710",
+    "singleCoreScore": "197",
+    "multiCoreScore": "568"
+  },
+  {
+    "cpuName": "Intel Pentium T3200",
+    "singleCoreScore": "194",
+    "multiCoreScore": "320"
+  },
+  {
+    "cpuName": "Intel Pentium N3540",
+    "singleCoreScore": "192",
+    "multiCoreScore": "550"
+  },
+  {
+    "cpuName": "Intel Pentium N3530",
+    "singleCoreScore": "190",
+    "multiCoreScore": "547"
+  },
+  {
+    "cpuName": "AMD A4-6210",
+    "singleCoreScore": "188",
+    "multiCoreScore": "528"
+  },
+  {
+    "cpuName": "AMD E2-7110",
+    "singleCoreScore": "187",
+    "multiCoreScore": "541"
+  },
+  {
+    "cpuName": "AMD Athlon II P340",
+    "singleCoreScore": "187",
+    "multiCoreScore": "307"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo E6300",
+    "singleCoreScore": "186",
+    "multiCoreScore": "304"
+  },
+  {
+    "cpuName": "AMD Phenom II X4 P920",
+    "singleCoreScore": "182",
+    "multiCoreScore": "589"
+  },
+  {
+    "cpuName": "Intel Celeron J3060",
+    "singleCoreScore": "182",
+    "multiCoreScore": "318"
+  },
+  {
+    "cpuName": "Intel Atom Z3795",
+    "singleCoreScore": "181",
+    "multiCoreScore": "539"
+  },
+  {
+    "cpuName": "Intel Atom x7-Z8700",
+    "singleCoreScore": "179",
+    "multiCoreScore": "522"
+  },
+  {
+    "cpuName": "Intel Pentium N3700",
+    "singleCoreScore": "179",
+    "multiCoreScore": "517"
+  },
+  {
+    "cpuName": "Intel Celeron N2840",
+    "singleCoreScore": "178",
+    "multiCoreScore": "297"
+  },
+  {
+    "cpuName": "Intel Atom x7-Z8750",
+    "singleCoreScore": "178",
+    "multiCoreScore": "526"
+  },
+  {
+    "cpuName": "Intel Atom x5-Z8550",
+    "singleCoreScore": "174",
+    "multiCoreScore": "495"
+  },
+  {
+    "cpuName": "Intel Pentium N3520",
+    "singleCoreScore": "173",
+    "multiCoreScore": "485"
+  },
+  {
+    "cpuName": "Intel Celeron J1900",
+    "singleCoreScore": "172",
+    "multiCoreScore": "518"
+  },
+  {
+    "cpuName": "Intel Celeron J3160",
+    "singleCoreScore": "172",
+    "multiCoreScore": "502"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo SU7300",
+    "singleCoreScore": "171",
+    "multiCoreScore": "291"
+  },
+  {
+    "cpuName": "Intel Atom x5-Z8500",
+    "singleCoreScore": "171",
+    "multiCoreScore": "501"
+  },
+  {
+    "cpuName": "AMD Athlon II P320",
+    "singleCoreScore": "170",
+    "multiCoreScore": "311"
+  },
+  {
+    "cpuName": "Intel Pentium E2160",
+    "singleCoreScore": "170",
+    "multiCoreScore": "270"
+  },
+  {
+    "cpuName": "Intel Celeron N3160",
+    "singleCoreScore": "169",
+    "multiCoreScore": "516"
+  },
+  {
+    "cpuName": "Intel Celeron N2940",
+    "singleCoreScore": "167",
+    "multiCoreScore": "500"
+  },
+  {
+    "cpuName": "Intel Celeron N2930",
+    "singleCoreScore": "165",
+    "multiCoreScore": "491"
+  },
+  {
+    "cpuName": "Intel Pentium E2140",
+    "singleCoreScore": "165",
+    "multiCoreScore": "280"
+  },
+  {
+    "cpuName": "Intel Celeron N3150",
+    "singleCoreScore": "164",
+    "multiCoreScore": "502"
+  },
+  {
+    "cpuName": "AMD E2-6110",
+    "singleCoreScore": "163",
+    "multiCoreScore": "460"
+  },
+  {
+    "cpuName": "Intel Celeron N2830",
+    "singleCoreScore": "162",
+    "multiCoreScore": "271"
+  },
+  {
+    "cpuName": "AMD A4-5000",
+    "singleCoreScore": "161",
+    "multiCoreScore": "478"
+  },
+  {
+    "cpuName": "Intel Celeron 847",
+    "singleCoreScore": "158",
+    "multiCoreScore": "264"
+  },
+  {
+    "cpuName": "Intel Celeron N3050",
+    "singleCoreScore": "157",
+    "multiCoreScore": "274"
+  },
+  {
+    "cpuName": "AMD GX-415GA",
+    "singleCoreScore": "153",
+    "multiCoreScore": "444"
+  },
+  {
+    "cpuName": "Intel Pentium T2330",
+    "singleCoreScore": "152",
+    "multiCoreScore": "240"
+  },
+  {
+    "cpuName": "Intel Celeron N2807",
+    "singleCoreScore": "151",
+    "multiCoreScore": "248"
+  },
+  {
+    "cpuName": "Intel Celeron N2815",
+    "singleCoreScore": "149",
+    "multiCoreScore": "247"
+  },
+  {
+    "cpuName": "Intel Pentium SU2700",
+    "singleCoreScore": "141",
+    "multiCoreScore": "145"
+  },
+  {
+    "cpuName": "AMD E1-2500",
+    "singleCoreScore": "140",
+    "multiCoreScore": "236"
+  },
+  {
+    "cpuName": "Intel Atom x5-Z8350",
+    "singleCoreScore": "136",
+    "multiCoreScore": "375"
+  },
+  {
+    "cpuName": "AMD E2-3800",
+    "singleCoreScore": "136",
+    "multiCoreScore": "389"
+  },
+  {
+    "cpuName": "AMD Athlon 1640B",
+    "singleCoreScore": "135",
+    "multiCoreScore": "136"
+  },
+  {
+    "cpuName": "Intel Core 2 Duo T5500",
+    "singleCoreScore": "134",
+    "multiCoreScore": "233"
+  },
+  {
+    "cpuName": "Intel Atom x5-Z8300",
+    "singleCoreScore": "131",
+    "multiCoreScore": "355"
+  },
+  {
+    "cpuName": "AMD Athlon 64 3500+",
+    "singleCoreScore": "129",
+    "multiCoreScore": "116"
+  },
+  {
+    "cpuName": "AMD E1-6010",
+    "singleCoreScore": "128",
+    "multiCoreScore": "221"
+  },
+  {
+    "cpuName": "AMD E1-7010",
+    "singleCoreScore": "127",
+    "multiCoreScore": "220"
+  },
+  {
+    "cpuName": "AMD E-450",
+    "singleCoreScore": "111",
+    "multiCoreScore": "181"
+  },
+  {
+    "cpuName": "AMD E2-1800",
+    "singleCoreScore": "111",
+    "multiCoreScore": "187"
+  },
+  {
+    "cpuName": "AMD E1-1500",
+    "singleCoreScore": "108",
+    "multiCoreScore": "191"
+  },
+  {
+    "cpuName": "AMD E-350",
+    "singleCoreScore": "106",
+    "multiCoreScore": "182"
+  },
+  {
+    "cpuName": "AMD E1-1200",
+    "singleCoreScore": "97",
+    "multiCoreScore": "162"
+  },
+  {
+    "cpuName": "AMD Turion 64 X2 TL-50",
+    "singleCoreScore": "96",
+    "multiCoreScore": "153"
+  },
+  {
+    "cpuName": "AMD E1-2100",
+    "singleCoreScore": "92",
+    "multiCoreScore": "162"
+  },
+  {
+    "cpuName": "AMD E-300",
+    "singleCoreScore": "87",
+    "multiCoreScore": "148"
+  },
+  {
+    "cpuName": "Intel Atom D525",
+    "singleCoreScore": "77",
+    "multiCoreScore": "187"
+  },
+  {
+    "cpuName": "AMD C-50",
+    "singleCoreScore": "71",
+    "multiCoreScore": "124"
+  },
+  {
+    "cpuName": "Intel Atom N550",
+    "singleCoreScore": "64",
+    "multiCoreScore": "141"
+  },
+  {
+    "cpuName": "Intel Atom N455",
+    "singleCoreScore": "53",
+    "multiCoreScore": "80"
+  }
+]

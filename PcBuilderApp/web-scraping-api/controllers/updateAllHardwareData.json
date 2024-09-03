@@ -838,5 +838,905 @@
     "price": "R$ 239,99",
     "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F477149%2Fmemoria-xpg-gammix-d35-16gb-3200mhz-ddr4-cl16-branco-ax4u320016g16a-swhd35_1695153123_m.jpg&w=384&q=75",
     "productUrl": "https://www.kabum.com.br/produto/477149/memoria-ram-xpg-gammix-d35-16gb-3200mhz-ddr4-cl16-branco-ax4u320016g16a-swhd35"
+  },
+  {
+    "productName": "Processador AMD Ryzen 7 5700X3D, 3.6 GHz, (4.1GHz Max Turbo), Cachê 4MB, 8 Núcleos, 16 Threads, AM4 - 100-100001503WOF",
+    "price": "R$ 1.349,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F520369%2Fprocessador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023990_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-100-100001503wof"
+  },
+  {
+    "productName": "Processador AMD Ryzen 7 5700X, 3.4GHz (4.6GHz Max Turbo), Cache 36MB, AM4, Sem Vídeo - 100-100000926WOF",
+    "price": "R$ 1.258,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F320797%2Fprocessador-amd-ryzen-7-5700x-cache-36mb-3-8ghz-4-6ghz-max-turbo-am4-100-100000926wof_1647636511_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/320797/processador-amd-ryzen-7-5700x-3-4ghz-4-6ghz-max-turbo-cache-36mb-am4-sem-video-100-100000926wof"
+  },
+  {
+    "productName": "Processador AMD Ryzen 5 5600X, 3.7GHz (4.6GHz Max Turbo), Cache 35MB, 6 Núcleos, 12 Threads, AM4 - 100-100000065BOX",
+    "price": "R$ 999,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F129451%2Fprocessador-amd-ryzen-9-5950x-cache-72mb-3-4ghz-4-9ghz-max-turbo-am4-100-100000065box_1602603581_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/129451/processador-amd-ryzen-5-5600x-3-7ghz-4-6ghz-max-turbo-cache-35mb-6-nucleos-12-threads-am4-100-100000065box"
+  },
+  {
+    "productName": "Processador AMD Ryzen 3 3200G, 3.6GHz (4GHz Max Turbo), Cache 4MB, Quad Core, 4 Threads, AM4 - YD3200C5FHBOX",
+    "price": "R$ 399,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F102248%2Fprocessador-amd-ryzen-3-3200g-cache-4mb-3-6ghz-4ghz-max-turbo-am4-yd3200c5fhbox_1607691191_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/102248/processador-amd-ryzen-3-3200g-3-6ghz-4ghz-max-turbo-cache-4mb-quad-core-4-threads-am4-yd3200c5fhbox"
+  },
+  {
+    "productName": "Processador AMD Ryzen 5 5500, 3.6GHz, Cache 16MB, Hexa Core, 12 Threads, AM4 - 100-100000457BOX",
+    "price": "R$ 678,60",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F356695%2FProcessador-AMD-Ryzen-5-5500-3-6GHz-Cache-16MB-Hexa-Core-12-Threads-AM4-100-100000457BOX_1725045709_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/356695/processador-amd-ryzen-5-5500-3-6ghz-cache-16mb-hexa-core-12-threads-am4-100-100000457box"
+  },
+  {
+    "productName": "Processador AMD Ryzen 7 5800X, 3.8GHz (4.7GHz Max Turbo), Cache 36MB, Octa Core, 16 Threads, AM4 - 100-100000063WOF",
+    "price": "R$ 1.399,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F129459%2Fprocessador-amd-ryzen-9-5900x-cache-70mb-3-7ghz-4-8ghz-max-turbo-am4-100-100000063wof_1602600708_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/129459/processador-amd-ryzen-7-5800x-3-8ghz-4-7ghz-max-turbo-cache-36mb-octa-core-16-threads-am4-100-100000063wof"
+  },
+  {
+    "productName": "Processador AMD Ryzen 7 7800X3D, 5.0GHz Max Turbo, Cache 104MB, AM5, 8 Núcleos, Vídeo Integrado - 100-100000910WOF",
+    "price": "R$ 3.399,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F426262%2Fprocessador-amd-ryzen-7-7800x3d-5-0ghz-max-turbo-cache-104mb-am5-8-nucleos-video-integrado-100-100000910wof_1680784502_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/426262/processador-amd-ryzen-7-7800x3d-5-0ghz-max-turbo-cache-104mb-am5-8-nucleos-video-integrado-100-100000910wof"
+  },
+  {
+    "productName": "Processador AMD Ryzen 7 5700G, 3.8GHz (4.6GHz Max Turbo), Cache 20MB, 8 Núcleos, 16 Threads, Vídeo Integrado, AM4 - 100-100000263BOX",
+    "price": "R$ 1.299,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F181089%2Fprocessador-amd-ryzen-7-5700g-3-8ghz-4-6ghz-max-turbo-am4-video-integrado-8-nucleos-100-100000263box_1627588652_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/181089/processador-amd-ryzen-7-5700g-3-8ghz-4-6ghz-max-turbo-cache-20mb-8-nucleos-16-threads-video-integrado-am4-100-100000263box"
+  },
+  {
+    "productName": "Processador AMD Ryzen 9 7900X3D, 5.6GHz Max Turbo, Cache 140MB, AM5, 12 Núcleos, Vídeo Integrado - 100-100000909WOF",
+    "price": "R$ 3.899,98",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F426261%2Fprocessador-amd-ryzen-9-7900x3d-5-6ghz-max-turbo-cache-140mb-am5-12-nucleos-video-integrado-100-100000909wof_1676552311_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/426261/processador-amd-ryzen-9-7900x3d-5-6ghz-max-turbo-cache-140mb-am5-12-nucleos-video-integrado-100-100000909wof"
+  },
+  {
+    "productName": "Processador AMD Ryzen 5 4600G, 3.7GHz (4.2GHz Max Turbo), Cache 11MB, AM4, Vídeo Integrado - 100-100000147BOX",
+    "price": "R$ 959,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F333145%2Fprocessador-amd-ryzen-5-4600g-cache-11mb-3-7ghz-4-2ghz-max-turbo-am4-video-integrado-100-100000147box_1653338731_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/333145/processador-amd-ryzen-5-4600g-3-7ghz-4-2ghz-max-turbo-cache-11mb-am4-video-integrado-100-100000147box"
+  },
+  {
+    "productName": "Processador AMD Ryzen 9 5900X, 3.7GHz (4.8GHz Max Turbo), Cache 70MB, 12 Núcleos, 24 Threads, AM4 - 100-100000061WOF",
+    "price": "R$ 4.059,82",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F129460%2Fprocessador-amd-ryzen-9-5900x-cache-70mb-3-8ghz-4-7ghz-max-turbo-am4-100-100000061wof_1604585280_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/129460/processador-amd-ryzen-9-5900x-3-7ghz-4-8ghz-max-turbo-cache-70mb-12-nucleos-24-threads-am4-100-100000061wof"
+  },
+  {
+    "productName": "Processador AMD Ryzen 9 7900, 5.4GHz Max Turbo, Cache 76MB, AM5, 12 Núcleos, Vídeo Integrado - 100-100000590BOX",
+    "price": "R$ 2.378,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F405802%2Fprocessador-amd-ryzen-5-7900-5-4ghz-max-turbo-cache-76mb-am5-12-nucleos-video-integrado-100-100000590box_1673293476_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/405802/processador-amd-ryzen-9-7900-5-4ghz-max-turbo-cache-76mb-am5-12-nucleos-video-integrado-100-100000590box"
+  },
+  {
+    "productName": "Processador AMD Ryzen 5 5600GT, 4.6GHz, Cache 19MB, AM4, 6 núcleos, 12 threads, Placa de Vídeo, Com Cooler - 100-100001488",
+    "price": "R$ 848,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F523518%2FProcessador-AMD-Ryzen-5-5600GT-4-6GHz-Cache-19MB-AM4-6-n-cleos-12-threads-Placa-de-V-deo-Com-Cooler-100-100001488_1723203053_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/523518/processador-amd-ryzen-5-5600gt-4-6ghz-cache-19mb-am4-6-nucleos-12-threads-placa-de-video-com-cooler-100-100001488"
+  },
+  {
+    "productName": "Processador AMD Ryzen 5 4600G Box, 1900MHz, Cache 3MB, Hexa Core, 12 Threads - 100-100000147",
+    "price": "R$ 720,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F357990%2FProcessador-AMD-Ryzen-5-4600G-Box-1900MHz-Cache-3MB-Hexa-Core-12-Threads-100-100000147_1723141552_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/357990/processador-amd-ryzen-5-4600g-box-1900mhz-cache-3mb-hexa-core-12-threads-100-100000147"
+  },
+  {
+    "productName": "Processador AMD Ryzen 7 7700X, 5.4GHz Max Turbo, Cache 40MB, AM5, 8 Núcleos, Vídeo Integrado - 100-100000591WOF",
+    "price": "R$ 2.599,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F378413%2Fprocessador-amd-ryzen-7-7700x-5-4ghz-max-turbo-cache-40mb-am5-8-nucleos-video-integrado-100-100000591wof_1662136328_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/378413/processador-amd-ryzen-7-7700x-5-4ghz-max-turbo-cache-40mb-am5-8-nucleos-video-integrado-100-100000591wof"
+  },
+  {
+    "productName": "Processador AMD Ryzen 7 5800X3D, 3.4GHz (4.5GHz Max Turbo), Cache 100MB, AM4, Sem Vídeo - 100-100000651WOF",
+    "price": "R$ 3.202,33",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F320796%2Fprocessador-amd-ryzen-5-5500-cache-19mb-3-7ghz-4-2ghz-max-turbo-am4-100-100000457box_1647636457_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/320796/processador-amd-ryzen-7-5800x3d-3-4ghz-4-5ghz-max-turbo-cache-100mb-am4-sem-video-100-100000651wof"
+  },
+  {
+    "productName": "Processador AMD Ryzen 9 7900X, 5.6GHz Max Turbo, Cache 76MB, AM5, 12 Núcleos, Vídeo Integrado - 100-100000589WOF",
+    "price": "R$ 3.898,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F378412%2Fprocessador-amd-ryzen-9-7900x-5-6ghz-max-turbo-cache-76mb-am5-12-nucleos-video-integrado-100-100000589wof_1662134312_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/378412/processador-amd-ryzen-9-7900x-5-6ghz-max-turbo-cache-76mb-am5-12-nucleos-video-integrado-100-100000589wof"
+  },
+  {
+    "productName": "Processador AMD Ryzen 5 7600X, 5.3GHz Max Turbo, Cache 38MB, AM5, 6 Núcleos, Vídeo Integrado - 100-100000593WOF",
+    "price": "R$ 1.448,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F378414%2Fprocessador-amd-ryzen-5-7600x-5-3ghz-max-turbo-cache-38mb-am5-6-nucleos-video-integrado-100-100000593wof_1662137195_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/378414/processador-amd-ryzen-5-7600x-5-3ghz-max-turbo-cache-38mb-am5-6-nucleos-video-integrado-100-100000593wof"
+  },
+  {
+    "productName": "Processador AMD Ryzen 7 5700G, 4.6GHz Max Turbo, Cache 20MB, Octa Core, AM4, Ví­deo Integrado - 100-100000263BOX",
+    "price": "R$ 1.178,87",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F203463%2FProcessador-AMD-Ryzen-7-5700G-4-6GHz-Max-Turbo-Cache-20MB-Octa-Core-AM4-V-deo-Integrado-100-100000263BOX_1722540823_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/203463/processador-amd-ryzen-7-5700g-4-6ghz-max-turbo-cache-20mb-octa-core-am4-vi-deo-integrado-100-100000263box"
+  },
+  {
+    "productName": "Processador AMD Ryzen 7 5700X3D, 3.0GHz, (4.1GHz Max Turbo), Cachê 4MB, 8 Núcleos, 16 Threads, AM4, Sem Cooler - 100-100001503WOF",
+    "price": "R$ 1.655,08",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F530634%2FProcessador-AMD-Ryzen-7-5700X3D-3-0GHz-4-1GHz-Max-Turbo-Cach-4MB-8-N-cleos-16-Threads-AM4-Sem-Cooler-100-100001503WOF_1723729874_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/530634/processador-amd-ryzen-7-5700x3d-3-0ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-sem-cooler-100-100001503wof"
+  },
+  {
+    "productName": "Fonte Gamer Fortrek ATX Crusader, 500W, sem cabo, Preto - 76955",
+    "price": "R$ 129,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F397238%2Ffonte-gamer-fortrek-atx-crusader-500w-sem-cabo-preto-76955_1721235457_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/397238/fonte-gamer-fortrek-atx-crusader-500w-sem-cabo-preto-76955"
+  },
+  {
+    "productName": "Fonte Fortrek Black Hawk, 500W, 80 Plus Bronze, PFC Ativo, sem cabo, Preto - 70459",
+    "price": "R$ 218,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F136023%2Ffonte-fortrek-black-hawk-500w-80-plus-bronze-pfc-ativo-sem-cabo-preto-70459_1721235140_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/136023/fonte-fortrek-black-hawk-500w-80-plus-bronze-pfc-ativo-sem-cabo-preto-70459"
+  },
+  {
+    "productName": "Fonte Duex DX 500FSE+, 500W, 80 Plus Bronze, PFC Ativo, com cabo, Preto - Duex fse +",
+    "price": "R$ 189,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F377920%2Ffonte-duex-dx-500fse-500w-80-plus-bronze-pfc-ativo-115v-230v-preto-duex-fse-_1661460703_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/377920/fonte-duex-dx-500fse-500w-80-plus-bronze-pfc-ativo-com-cabo-preto-duex-fse-"
+  },
+  {
+    "productName": "Fonte EVGA 500 BV, 500W, 80 Plus Bronze, Bivolt - 100-BV-0500-K1",
+    "price": "R$ 299,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F521094%2Ffonte-evga-500-bv-500w-80-plus-bronze-bivolt-100-bv-0500-k1_1713805099_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/521094/fonte-evga-500-bv-500w-80-plus-bronze-bivolt-100-bv-0500-k1"
+  },
+  {
+    "productName": "Fonte Redragon RGPS, 500W, 80 Plus Bronze - GC-PS001-1",
+    "price": "R$ 264,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F499176%2Ffonte-redragon-rgps-500w-80-plus-bronze-gc-ps001-1_1696964141_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/499176/fonte-redragon-rgps-500w-80-plus-bronze-gc-ps001-1"
+  },
+  {
+    "productName": "Fonte Aerocool VX-500, 500W, sem cabo, Preto - EN57136",
+    "price": "R$ 174,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F69297%2F69297_1534791954_index_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/69297/fonte-aerocool-vx-500-500w-sem-cabo-preto-en57136"
+  },
+  {
+    "productName": "Fonte Aerocool KCAS, 500W, 80 Plus Bronze, PFC Ativo, sem cabo, Preto - EN53367",
+    "price": "R$ 258,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F57437%2F57437_index_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/57437/fonte-aerocool-kcas-500w-80-plus-bronze-pfc-ativo-sem-cabo-preto-en53367"
+  },
+  {
+    "productName": "Fonte Tronos ATX, 500W Real, Bivolt - TRS/5330-B",
+    "price": "R$ 111,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F147341%2FFonte-Tronos-ATX-500W-Real-Bivolt-TRS-5330-B_1686589728_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/147341/fonte-tronos-atx-500w-real-bivolt-trs-5330-b"
+  },
+  {
+    "productName": "Fonte F3 FT-500, 500W, 80 Plus White, Bivolt, Com Cabo, Preto - FT-500",
+    "price": "R$ 189,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F531143%2Ffonte-f3-ft-500-500w-80-plus-white-bivolt-com-cabo-preto-ft-500_1714416484_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/531143/fonte-f3-ft-500-500w-80-plus-white-bivolt-com-cabo-preto-ft-500"
+  },
+  {
+    "productName": "Fonte Knup ATX, 500W Real, 24P, Com Cabo, Bivolt - KP-522",
+    "price": "R$ 138,80",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F159161%2FFonte-Knup-ATX-500W-Real-24P-Com-Cabo-Bivolt-KP-522_1721839364_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/159161/fonte-knup-atx-500w-real-24p-com-cabo-bivolt-kp-522"
+  },
+  {
+    "productName": "Fonte Motospeed Hyrax 500W, ATX, 80 Plus Bronze, com Cabos, Bivolt",
+    "price": "R$ 234,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F229577%2Ffonte-motospeed-hyrax-bronze-500w-atx-bivolt-com-cabos-preto-hft500b_1631647391_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/229577/fonte-motospeed-hyrax-500w-atx-80-plus-bronze-com-cabos-bivolt"
+  },
+  {
+    "productName": "Fonte One Power ATX, 500W - MP500W3-I",
+    "price": "R$ 167,03",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F184541%2FFonte-One-Power-ATX-500W-MP500W3-I_1713910517_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/184541/fonte-one-power-atx-500w-mp500w3-i"
+  },
+  {
+    "productName": "Fonte Gamemax Gs600, 600w, 80plus White, Pfc Ativo, Preta",
+    "price": "R$ 250,94",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F173965%2FFonte-Gamemax-Gs600-600w-80plus-White-Pfc-Ativo-Preta_1715958007_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/173965/fonte-gamemax-gs600-600w-80plus-white-pfc-ativo-preta"
+  },
+  {
+    "productName": "Fonte Duex ATX 500W Real, 80 Plus Bronze, PFC Ativo, 20+4P - DX 500FSE",
+    "price": "R$ 200,96",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F286389%2FFonte-Duex-ATX-500W-Real-80-Plus-Bronze-PFC-Ativo-20-4P-DX-500FSE_1723059876_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/286389/fonte-duex-atx-500w-real-80-plus-bronze-pfc-ativo-20-4p-dx-500fse"
+  },
+  {
+    "productName": "Fonte Brazilpc Atx 500w Brazilpc Bpc/5350-m 24 Pinos Box",
+    "price": "R$ 94,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F426045%2FFonte-Brazilpc-Atx-500w-Brazilpc-Bpc-5350-m-24-Pinos-Box_1690903710_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/426045/fonte-brazilpc-atx-500w-brazilpc-bpc-5350-m-24-pinos-box"
+  },
+  {
+    "productName": "Fonte Atx 500w Real Bpc/5350-m, 24 Pinos, Com Cabo Box",
+    "price": "R$ 85,41",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F463872%2FFonte-Atx-500w-Real-Bpc-5350-m-24-Pinos-Com-Cabo-Box_1712777305_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/463872/fonte-atx-500w-real-bpc-5350-m-24-pinos-com-cabo-box"
+  },
+  {
+    "productName": "Fonte PCYes Shocker, 500W, 80 Plus White, Modular, PFC Ativo, Branco Ghost - FM500WWG",
+    "price": "R$ 349,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F593853%2Ffonte-pcyes-shocker-500w-80-plus-white-modular-pfc-ativo-branco-ghost-fm500wwg_1721763013_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/593853/fonte-pcyes-shocker-500w-80-plus-white-modular-pfc-ativo-branco-ghost-fm500wwg"
+  },
+  {
+    "productName": "Fonte Thermaltake TT Smart ATX2.3, 600W, 80+ White, A-PFC - PS-SPD-0600NPCWBZ-W",
+    "price": "R$ 347,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F173835%2FFonte-Thermaltake-TT-Smart-ATX2-3-600W-80-White-A-PFC-PS-SPD-0600NPCWBZ-W_1723749651_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/173835/fonte-thermaltake-tt-smart-atx2-3-600w-80-white-a-pfc-ps-spd-0600npcwbz-w"
+  },
+  {
+    "productName": "Fonte Brazilpc Bpc/500pfca, Atx 500w, Real Apfc, 24 Pinos Box",
+    "price": "R$ 156,87",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F428916%2FFonte-Brazilpc-Bpc-500pfca-Atx-500w-Real-Apfc-24-Pinos-Box_1682357966_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/428916/fonte-brazilpc-bpc-500pfca-atx-500w-real-apfc-24-pinos-box"
+  },
+  {
+    "productName": "Fonte GAMDIAS Kratos E1, 500W, 110/220V Chaveada, LED RGB, Sem Cabo - GD-Z500ZZZ",
+    "price": "R$ 190,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F159246%2FFonte-GAMDIAS-Kratos-E1-500W-110-220V-Chaveada-LED-RGB-Sem-Cabo-GD-Z500ZZZ_1724166103_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/159246/fonte-gamdias-kratos-e1-500w-110-220v-chaveada-led-rgb-sem-cabo-gd-z500zzz"
+  },
+  {
+    "productName": "Fonte MSI MAG A600DN, 600W, 80 Plus White, PFC Ativo, Com Cabo, Preto - 306-7ZP6B22-809",
+    "price": "R$ 259,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F369655%2Ffonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475815_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/369655/fonte-msi-mag-a600dn-600w-80-plus-white-pfc-ativo-com-cabo-preto-306-7zp6b22-809"
+  },
+  {
+    "productName": "Fonte Redragon RGPS, 600W, 80 Plus Bronze, PFC Ativo, Sem Cabo, Preto - GC-PS002-1",
+    "price": "R$ 287,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F115377%2Ffonte-redragon-rgps-600w-80-plus-gc-ps002-1_1595274916_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/115377/fonte-redragon-rgps-600w-80-plus-bronze-pfc-ativo-sem-cabo-preto-gc-ps002-1"
+  },
+  {
+    "productName": "Fonte EVGA 600 W1, 600W, 80+ WHITE 100-W1-0600-K - 100-W1-0600-K",
+    "price": "R$ 339,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F518028%2Ffonte-evga-600-w1-600w-80-white-100-w1-0600-k-100-w1-0600-k_1715785119_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/518028/fonte-evga-600-w1-600w-80-white-100-w1-0600-k-100-w1-0600-k"
+  },
+  {
+    "productName": "Fonte Duex Dx 600wfse+ 600w, ATX, Bivolt Automático, 80 Plus Bronze, PFC Ativo, Preto",
+    "price": "R$ 236,79",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F460328%2FFonte-Duex-Dx-600wfse-600w-ATX-Bivolt-Autom-tico-80-Plus-Bronze-PFC-Ativo-Preto_1719849528_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/460328/fonte-duex-dx-600wfse-600w-atx-bivolt-automatico-80-plus-bronze-pfc-ativo-preto"
+  },
+  {
+    "productName": "Fonte Gamemax GS600, 600W, 80 Plus White, PFC Ativo, com cabo, Preto - GS600",
+    "price": "R$ 269,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F368437%2Ffonte-gamemax-gs600-600w-80-plus-white-pfc-ativo-com-cabo-preto-gs600_1716910931_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/368437/fonte-gamemax-gs600-600w-80-plus-white-pfc-ativo-com-cabo-preto-gs600"
+  },
+  {
+    "productName": "Fonte Gamer Tronos Atx 600w Trs/6350-b Real 24 Pinos Bivolt",
+    "price": "R$ 132,10",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F593833%2FFonte-Gamer-Tronos-Atx-600w-Trs-6350-b-Real-24-Pinos-Bivolt_1718292236_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/593833/fonte-gamer-tronos-atx-600w-trs-6350-b-real-24-pinos-bivolt"
+  },
+  {
+    "productName": "Fonte De Alimentação Gamer PCyes Shocker Full Modular 600w 80 Plus White - White Ghost",
+    "price": "R$ 359,93",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F594944%2FFonte-De-Alimenta-o-Gamer-PCyes-Shocker-Full-Modular-600w-80-Plus-White-White-Ghost_1725040150_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/594944/fonte-de-alimentacao-gamer-pcyes-shocker-full-modular-600w-80-plus-white-white-ghost"
+  },
+  {
+    "productName": "Fonte PCYes Shocker, 600W, 80 Plus White, Modular, PFC Ativo, Preto Vulcan - FM600WBV",
+    "price": "R$ 399,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F593854%2Ffonte-pcyes-shocker-600w-80-plus-white-modular-pfc-ativo-preto-vulcan-fm600wbv_1721763740_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/593854/fonte-pcyes-shocker-600w-80-plus-white-modular-pfc-ativo-preto-vulcan-fm600wbv"
+  },
+  {
+    "productName": "Fonte C3Tech PS-G600B, 600W, 80 Plus Bronze, PFC Ativo, sem cabo, Preto - PS-G600B",
+    "price": "R$ 309,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F110491%2Ffonte-c3tech-ps-g600b-500w-80-plus-bronze-ps-g600b_1582733096_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/110491/fonte-c3tech-ps-g600b-600w-80-plus-bronze-pfc-ativo-sem-cabo-preto-ps-g600b"
+  },
+  {
+    "productName": "Fonte Redragon RGPS-600W, 600W, PFC Ativo, Bivolt, Cabos Fixos, Sem Cabo de Força, FAN 14cm, GC-PS002-1",
+    "price": "R$ 333,01",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F173816%2FFonte-Redragon-RGPS-600W-600W-PFC-Ativo-Bivolt-Cabos-Fixos-Sem-Cabo-de-For-a-FAN-14cm-GC-PS002-1_1722542719_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/173816/fonte-redragon-rgps-600w-600w-pfc-ativo-bivolt-cabos-fixos-sem-cabo-de-forca-fan-14cm-gc-ps002-1"
+  },
+  {
+    "productName": "Fonte Draxen ATX, 600W, 80 Plus Bronze, PFC Ativo - DN600",
+    "price": "R$ 289,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F274302%2FFonte-Draxen-ATX-600W-80-Plus-Bronze-PFC-Ativo-DN600_1709761695_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/274302/fonte-draxen-atx-600w-80-plus-bronze-pfc-ativo-dn600"
+  },
+  {
+    "productName": "Fonte BRX ATX, 600W, 80 Plus Bronze, Rainbow RGB, Automática",
+    "price": "R$ 349,69",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F375654%2FFonte-BRX-ATX-600W-80-Plus-Bronze-Rainbow-RGB-Autom-tica_1690222696_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/375654/fonte-brx-atx-600w-80-plus-bronze-rainbow-rgb-automatica"
+  },
+  {
+    "productName": "Fonte Dmix ATX Gamer, 600W Real, Bivolt, Silenciosa, Para PC, 24 Pinos",
+    "price": "R$ 251,65",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F157702%2FFonte-Dmix-ATX-Gamer-600W-Real-Bivolt-Silenciosa-Para-PC-24-Pinos_1718746938_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/157702/fonte-dmix-atx-gamer-600w-real-bivolt-silenciosa-para-pc-24-pinos"
+  },
+  {
+    "productName": "Fonte Cooler Master Elite Nex W600 600w 80 Plus White Preta",
+    "price": "R$ 598,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F570982%2FFonte-Cooler-Master-Elite-Nex-W600-600w-80-Plus-White-Preta_1713838224_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/570982/fonte-cooler-master-elite-nex-w600-600w-80-plus-white-preta"
+  },
+  {
+    "productName": "Fonte Aerocool ATX, 600W, 80 Plus Bronze, Bivolt, FAN 120mm, Sem Cabo, KCAS",
+    "price": "R$ 278,80",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F139494%2FFonte-Aerocool-ATX-600W-80-Plus-Bronze-Bivolt-FAN-120mm-Sem-Cabo-KCAS_1725279930_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/139494/fonte-aerocool-atx-600w-80-plus-bronze-bivolt-fan-120mm-sem-cabo-kcas"
+  },
+  {
+    "productName": "Fonte Vinik Gamer Dash, 600W, FAN LED RGB, Preto - VFG600WPR",
+    "price": "R$ 203,89",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F325973%2FFonte-Vinik-Gamer-Dash-600W-FAN-LED-RGB-Preto-VFG600WPR_1721398518_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/325973/fonte-vinik-gamer-dash-600w-fan-led-rgb-preto-vfg600wpr"
+  },
+  {
+    "productName": "Fonte Tronos, 600W Real, PFC Ativo, Bivolt - TN/6350-B",
+    "price": "R$ 479,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F185377%2FFonte-Tronos-600W-Real-PFC-Ativo-Bivolt-TN-6350-B_1718291034_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/185377/fonte-tronos-600w-real-pfc-ativo-bivolt-tn-6350-b"
+  },
+  {
+    "productName": "Fonte Duex 600fse++ 600w 80+ Bronze Pfc Ativo, Full Modular",
+    "price": "R$ 269,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F507205%2FFonte-Duex-600fse-600w-80-Bronze-Pfc-Ativo-Full-Modular_1724505050_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/507205/fonte-duex-600fse-600w-80-bronze-pfc-ativo-full-modular"
+  },
+  {
+    "productName": "Fonte Brazil PC Bpc/6350-B, Atx 600W Real, 24 Pinos Box",
+    "price": "R$ 150,75",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F426043%2FFonte-Brazil-PC-Bpc-6350-B-Atx-600W-Real-24-Pinos-Box_1682357934_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/426043/fonte-brazil-pc-bpc-6350-b-atx-600w-real-24-pinos-box"
+  },
+  {
+    "productName": "Fonte De Alimentação Onepower, 600w, Bivolt, Preto - Mp-600-opasw",
+    "price": "R$ 172,87",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F520143%2FFonte-De-Alimenta-o-Onepower-600w-Bivolt-Preto-Mp-600-opasw_1705415285_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/520143/fonte-de-alimentacao-onepower-600w-bivolt-preto-mp-600-opasw"
+  },
+  {
+    "productName": "Fonte EVGA 700 W1, 700W, 80+ WHITE 100-W1-0700-K - 100-W1-0700-K1",
+    "price": "R$ 409,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F518029%2Ffonte-evga-700-w1-700w-80-white-100-w1-0700-k-100-w1-0700-k1_1715786663_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/518029/fonte-evga-700-w1-700w-80-white-100-w1-0700-k-100-w1-0700-k1"
+  },
+  {
+    "productName": "Fonte Aerocool 700W 80 Plus Bronze KCAS-700 EN53381",
+    "price": "R$ 319,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F62205%2F62205_index_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/62205/fonte-aerocool-700w-80-plus-bronze-kcas-700-en53381"
+  },
+  {
+    "productName": "Fonte Gamer C3tech, 700W, 80 Plus Bronze, Pfc Ativo, ATX - Ps-G700b",
+    "price": "R$ 352,44",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F508671%2FFonte-Gamer-C3tech-700W-80-Plus-Bronze-Pfc-Ativo-ATX-Ps-G700b_1722546328_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/508671/fonte-gamer-c3tech-700w-80-plus-bronze-pfc-ativo-atx-ps-g700b"
+  },
+  {
+    "productName": "Fonte Cooler Master G700 700w, 80 Plus Gold, Pfc Ativo, Mpw-7001-acaag-br",
+    "price": "R$ 622,44",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F507252%2FFonte-Cooler-Master-G700-700w-80-Plus-Gold-Pfc-Ativo-Mpw-7001-acaag-br_1724877293_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/507252/fonte-cooler-master-g700-700w-80-plus-gold-pfc-ativo-mpw-7001-acaag-br"
+  },
+  {
+    "productName": "Fonte de Alimentação Brazil PC, 700W Real, 80 Plus Silver, Modular, PFC Ativo, ATX",
+    "price": "R$ 473,41",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F428923%2FFonte-de-Alimenta-o-Brazil-PC-700W-Real-80-Plus-Silver-Modular-PFC-Ativo-ATX_1722977659_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/428923/fonte-de-alimentacao-brazil-pc-700w-real-80-plus-silver-modular-pfc-ativo-atx"
+  },
+  {
+    "productName": "Fonte Cooler Master G700, 700W, 80 Plus Gold, PFC Ativo, MPW-7001-ACAAG-WO",
+    "price": "R$ 549,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F405264%2FFonte-Cooler-Master-G700-700W-80-Plus-Gold-PFC-Ativo-MPW-7001-ACAAG-WO_1723172571_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/405264/fonte-cooler-master-g700-700w-80-plus-gold-pfc-ativo-mpw-7001-acaag-wo"
+  },
+  {
+    "productName": "Fonte Cougar BXM700, 700W, 80 Plus Bronze, Semi-Modular - 31BX070006P01",
+    "price": "R$ 619,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F173890%2FFonte-Cougar-BXM700-700W-80-Plus-Bronze-Semi-Modular-31BX070006P01_1722692566_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/173890/fonte-cougar-bxm700-700w-80-plus-bronze-semi-modular-31bx070006p01"
+  },
+  {
+    "productName": "Fonte Gamer Atx Aerocool, Kcas 700w, 80 Plus Full, Range Apfc",
+    "price": "R$ 509,87",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F543716%2FFonte-Gamer-Atx-Aerocool-Kcas-700w-80-Plus-Full-Range-Apfc_1712063892_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/543716/fonte-gamer-atx-aerocool-kcas-700w-80-plus-full-range-apfc"
+  },
+  {
+    "productName": "Fonte Cowboy Gamer ATX, 700W - CB-201",
+    "price": "R$ 228,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F398094%2FFonte-Cowboy-Gamer-ATX-700W-CB-201_1699893495_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/398094/fonte-cowboy-gamer-atx-700w-cb-201"
+  },
+  {
+    "productName": "Fonte C3Tech ATX, 700W, 80 Plus White, PS-G700M",
+    "price": "R$ 340,81",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F171676%2FFonte-C3Tech-ATX-700W-80-Plus-White-PS-G700M_1719253009_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/171676/fonte-c3tech-atx-700w-80-plus-white-ps-g700m"
+  },
+  {
+    "productName": "Fonte Gamer Aerocool ATX KCAS, 700W, Sem Cabo, Preto - EN53381",
+    "price": "R$ 312,80",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F253939%2FFonte-Gamer-Aerocool-ATX-KCAS-700W-Sem-Cabo-Preto-EN53381_1724883896_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/253939/fonte-gamer-aerocool-atx-kcas-700w-sem-cabo-preto-en53381"
+  },
+  {
+    "productName": "Fonte Redragon RGPS, 700W, 80 Plus Bronze, Modular, PFC Ativo, Sem cabo, Bivolt, Preto - GC-PS005-1",
+    "price": "R$ 655,69",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F157986%2FFonte-Redragon-RGPS-700W-80-Plus-Bronze-Modular-PFC-Ativo-Sem-cabo-Bivolt-Preto-GC-PS005-1_1723170647_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/157986/fonte-redragon-rgps-700w-80-plus-bronze-modular-pfc-ativo-sem-cabo-bivolt-preto-gc-ps005-1"
+  },
+  {
+    "productName": "Fonte BRX ATX, 700W, 80 Plus, RGB, Automática",
+    "price": "R$ 889,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F232029%2FFonte-BRX-ATX-700W-80-Plus-RGB-Autom-tica_1712768900_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/232029/fonte-brx-atx-700w-80-plus-rgb-automatica"
+  },
+  {
+    "productName": "Fonte Gamer Atx Aerocool, 700w, Sem Cabo - Vx-700",
+    "price": "R$ 437,74",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F548757%2FFonte-Gamer-Atx-Aerocool-700w-Sem-Cabo-Vx-700_1712845695_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/548757/fonte-gamer-atx-aerocool-700w-sem-cabo-vx-700"
+  },
+  {
+    "productName": "Fonte Thermaltake TT Smart, 700W, 80+ White - PS-SPD-0700NPCW-W",
+    "price": "R$ 435,63",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F173837%2FFonte-Thermaltake-TT-Smart-700W-80-White-PS-SPD-0700NPCW-W_1723747978_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/173837/fonte-thermaltake-tt-smart-700w-80-white-ps-spd-0700npcw-w"
+  },
+  {
+    "productName": "Fonte ATX Gamemax Gx700, 700W, 80 Plus Gold, Pfc Ativo, Black - Gx700wbkpss7710br",
+    "price": "R$ 566,72",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F506265%2FFonte-ATX-Gamemax-Gx700-700W-80-Plus-Gold-Pfc-Ativo-Black-Gx700wbkpss7710br_1721744690_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/506265/fonte-atx-gamemax-gx700-700w-80-plus-gold-pfc-ativo-black-gx700wbkpss7710br"
+  },
+  {
+    "productName": "Fonte De Alimentação Redragon Gc-ps026 700w Atx / Não Modular / 80 Plus Bronze",
+    "price": "R$ 607,36",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F589694%2FFonte-De-Alimenta-o-Redragon-Gc-ps026-700w-Atx-N-o-Modular-80-Plus-Bronze_1718913252_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/589694/fonte-de-alimentacao-redragon-gc-ps026-700w-atx-nao-modular-80-plus-bronze"
+  },
+  {
+    "productName": "Fonte C3tech Atx, 700w, 80 Plus White, Ps-g700m",
+    "price": "R$ 542,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F596227%2FFonte-C3tech-Atx-700w-80-Plus-White-Ps-g700m_1718996914_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/596227/fonte-c3tech-atx-700w-80-plus-white-ps-g700m"
+  },
+  {
+    "productName": "Fonte 700w 80 Plus Bronze | Goldentec",
+    "price": "R$ 399,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F630206%2FFonte-700w-80-Plus-Bronze-Goldentec_1724701718_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/630206/fonte-700w-80-plus-bronze-goldentec"
+  },
+  {
+    "productName": "Fonte Gamer Aerocool ATX KCAS, 800W, 80 Plus Bronze, PFC Ativo, Bivolt, Preto - 79602",
+    "price": "R$ 399,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F431189%2Ffonte-gamer-aerocool-atx-kcas-800w-80-plus-bronze-pfc-ativo-bivolt-preto-79602_1715683851_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/431189/fonte-gamer-aerocool-atx-kcas-800w-80-plus-bronze-pfc-ativo-bivolt-preto-79602"
+  },
+  {
+    "productName": "Fonte Cooler Master ATX, 800W Real, 80 Plus Gold, Pfc Ativo, Sem Cabo, Preto - MPW-8001-ACAAG-WO",
+    "price": "R$ 499,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F237004%2FFonte-Cooler-Master-ATX-800W-Real-80-Plus-Gold-Pfc-Ativo-Sem-Cabo-Preto-MPW-8001-ACAAG-WO_1724847049_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/237004/fonte-cooler-master-atx-800w-real-80-plus-gold-pfc-ativo-sem-cabo-preto-mpw-8001-acaag-wo"
+  },
+  {
+    "productName": "Fonte Gamemax GX800, 800W, 80 Plus Gold, PFC Ativo, com cabo, Preto - GX800WBKPSS7710BR",
+    "price": "R$ 608,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F496006%2Ffonte-gamemax-gx800-800w-80-plus-gold-pfc-ativo-com-cabo-preto-gx800wbkpss7710br_1716909932_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/496006/fonte-gamemax-gx800-800w-80-plus-gold-pfc-ativo-com-cabo-preto-gx800wbkpss7710br"
+  },
+  {
+    "productName": "Fonte Brazil PC ATX 800W, Real Pro Full Modular, 80plus, Bronze - Ps/Fm800brz80",
+    "price": "R$ 364,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F452749%2FFonte-Brazil-PC-ATX-800W-Real-Pro-Full-Modular-80plus-Bronze-Ps-Fm800brz80_1710943689_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/452749/fonte-brazil-pc-atx-800w-real-pro-full-modular-80plus-bronze-ps-fm800brz80"
+  },
+  {
+    "productName": "Fonte ATX 800w Automatica Storm-z Full Modular",
+    "price": "R$ 492,15",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F414515%2FFonte-ATX-800w-Automatica-Storm-z-Full-Modular_1691517494_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/414515/fonte-atx-800w-automatica-storm-z-full-modular"
+  },
+  {
+    "productName": "Fonte, Aerocool, KCAS, 800W, 80 Plus Bronze, não-modular, PFC Ativo, bivolt automática, sem LED/RGB, com cabo",
+    "price": "R$ 408,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F443864%2FFonte-Aerocool-KCAS-800W-80-Plus-Bronze-n-o-modular-PFC-Ativo-bivolt-autom-tica-sem-LED-RGB-com-cabo_1725040773_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/443864/fonte-aerocool-kcas-800w-80-plus-bronze-nao-modular-pfc-ativo-bivolt-automatica-sem-led-rgb-com-cabo"
+  },
+  {
+    "productName": "Fonte Gamer Atx Aerocool Kcas, 800w, 80 Plus, Full Range",
+    "price": "R$ 610,91",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F542171%2FFonte-Gamer-Atx-Aerocool-Kcas-800w-80-Plus-Full-Range_1711457293_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/542171/fonte-gamer-atx-aerocool-kcas-800w-80-plus-full-range"
+  },
+  {
+    "productName": "Fonte ATX Gamemax Gx800, 800W, 80 Plus Gold, Pfc Ativo, Black - Gx800wbkpss7710br",
+    "price": "R$ 543,23",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F506259%2FFonte-ATX-Gamemax-Gx800-800W-80-Plus-Gold-Pfc-Ativo-Black-Gx800wbkpss7710br_1716589154_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/506259/fonte-atx-gamemax-gx800-800w-80-plus-gold-pfc-ativo-black-gx800wbkpss7710br"
+  },
+  {
+    "productName": "Fonte 1stplayer Dk Premium 8.0, 800w - Dkp-ps-800ax",
+    "price": "R$ 452,67",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F610847%2FFonte-1stplayer-Dk-Premium-8-0-800w-Dkp-ps-800ax_1721748918_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/610847/fonte-1stplayer-dk-premium-8-0-800w-dkp-ps-800ax"
+  },
+  {
+    "productName": "Fonte Gamemax Gamer ATX, 800W, 80 Plus Bronze, Semi-Modular, PFC Ativo, Preta - GM800",
+    "price": "R$ 1.139,90",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F178189%2FFonte-Gamemax-Gamer-ATX-800W-80-Plus-Bronze-Semi-Modular-PFC-Ativo-Preta-GM800_1710879499_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/178189/fonte-gamemax-gamer-atx-800w-80-plus-bronze-semi-modular-pfc-ativo-preta-gm800"
+  },
+  {
+    "productName": "Fonte 800w Hp Enterprise, 12v, P39385-001 - P39385-001",
+    "price": "R$ 2.665,30",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F498409%2FFonte-800w-Hp-Enterprise-12v-P39385-001-P39385-001_1696527522_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/498409/fonte-800w-hp-enterprise-12v-p39385-001-p39385-001"
+  },
+  {
+    "productName": "Fonte MSI MPG A1000G, 1000W, 80 Plus Gold, Modular, PCIe 5.0, PFC Ativo, Bivolt, Preto - MPG A1000G PCIE5",
+    "price": "R$ 999,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F508059%2Ffonte-msi-mpg-a1000g-1000w-80-plus-gold-modular-pfc-ativo-bivolt-preto-mpg-a1000g-pcie5_1710334843_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/508059/fonte-msi-mpg-a1000g-1000w-80-plus-gold-modular-pcie-5-0-pfc-ativo-bivolt-preto-mpg-a1000g-pcie5"
+  },
+  {
+    "productName": "Fonte ASUS TUF Gaming, 1000W, 80 Plus Gold, Full Modular, PFC Ativo, Preto - 90YE00S1-B0BA00",
+    "price": "R$ 1.349,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F406109%2Ffonte-asus-tuf-gaming-1000w-80-plus-gold-bivolt-preto-90ye00s1-b0ba00_1683576144_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/406109/fonte-asus-tuf-gaming-1000w-80-plus-gold-full-modular-pfc-ativo-preto-90ye00s1-b0ba00"
+  },
+  {
+    "productName": "Fonte ASUS ROG Loki SFX-L, 1000W, 80 Plus Platinum, Modular, PFC Ativo, sem cabo, Preto - 90YE00N1-B0BA00",
+    "price": "R$ 1.789,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F406101%2Ffonte-asus-rog-loki-sfx-l-1000w-80-plus-platinum-argb-bivolt-preto-90ye00n1-b0ba00_1675107734_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/406101/fonte-asus-rog-loki-sfx-l-1000w-80-plus-platinum-modular-pfc-ativo-sem-cabo-preto-90ye00n1-b0ba00"
+  },
+  {
+    "productName": "Fonte Gamer Rise Mode Zeus 1000W, Platinum, Full Modular, PFC Ativo, Preto - RM-PSU-01-PA-1000",
+    "price": "R$ 799,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F525054%2Ffonte-gamer-rise-mode-zeus-1000w-80-plus-platinum-full-modular-pfc-ativo-preto-rm-psu-01-pa-1000_1723123929_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/525054/fonte-gamer-rise-mode-zeus-1000w-platinum-full-modular-pfc-ativo-preto-rm-psu-01-pa-1000"
+  },
+  {
+    "productName": "Fonte Asus TUF-GAMING-1000G-WHITE, 1000W, 80 Plus Gold, Branco, PCIe 5.0, Aura Sync - 90YE00S5-B0BA00",
+    "price": "R$ 1.699,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F523071%2Ffonte-asus-tuf-gaming-1000g-white-1000w-80-plus-gold-branco-pcie-5-0-aura-sync-90ye00s5-b0ba00_1722283185_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/523071/fonte-asus-tuf-gaming-1000g-white-1000w-80-plus-gold-branco-pcie-5-0-aura-sync-90ye00s5-b0ba00"
+  },
+  {
+    "productName": "Fonte Aerocool KCAS 1000GM, 1000W, 80 Plus Gold, Modular, Full Range APFC, Sem Cabo, Preto - 81062",
+    "price": "R$ 699,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F549619%2Ffonte-aerocool-kcas-1000gm-1000w-80-plus-gold-modular-full-range-apfc-sem-cabo-preto-81062_1715267468_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/549619/fonte-aerocool-kcas-1000gm-1000w-80-plus-gold-modular-full-range-apfc-sem-cabo-preto-81062"
+  },
+  {
+    "productName": "Fonte XPG Cyber Coreii 1000P-BKCBR, 1000W, 80 Plus Platinum, Modular, PFC Ativo - 15260159",
+    "price": "R$ 1.439,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F514901%2Ffonte-xpg-cyber-coreii-1000p-bkcbr-1000w-80-plus-platinum-modular-pfc-ativo-15260159_1714501232_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/514901/fonte-xpg-cyber-coreii-1000p-bkcbr-1000w-80-plus-platinum-modular-pfc-ativo-15260159"
+  },
+  {
+    "productName": "Fonte Redragon 1000W, 80 Plus Platinum, Modular, PFC Ativo, Bivolt, Branco - GC-PS017W",
+    "price": "R$ 1.499,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F521830%2Ffonte-redragon-1000w-80-plus-platinum-full-modular-pfc-ativo-bivolt-branco-gc-ps017w_1709134081_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/521830/fonte-redragon-1000w-80-plus-platinum-modular-pfc-ativo-bivolt-branco-gc-ps017w"
+  },
+  {
+    "productName": "Fonte ASUS ROG Strix Aura Edition, 1000W, 80 Plus Gold, Modular, PFC Ativo, sem cabo , Preto - 90YE00P1-B0BA00",
+    "price": "R$ 1.753,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F406104%2Ffonte-asus-rog-strix-aura-edition-1000w-80-plus-gold-argb-bivolt-preto-90ye00p1-b0ba00_1675363134_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/406104/fonte-asus-rog-strix-aura-edition-1000w-80-plus-gold-modular-pfc-ativo-sem-cabo-preto-90ye00p1-b0ba00"
+  },
+  {
+    "productName": "Fonte Corsair 1000w 80 Plus Gold Rm1000e Full Modular - Cp-9020264-ww",
+    "price": "R$ 1.399,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F602458%2FFonte-Corsair-1000w-80-Plus-Gold-Rm1000e-Full-Modular-Cp-9020264-ww_1723176649_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/602458/fonte-corsair-1000w-80-plus-gold-rm1000e-full-modular-cp-9020264-ww"
+  },
+  {
+    "productName": "Fonte Mymax ATX, 1000W, 80 Plus Silver, PFC Ativo - MPSU/FP1000",
+    "price": "R$ 449,10",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F259694%2FFonte-Mymax-ATX-1000W-80-Plus-Silver-PFC-Ativo-MPSU-FP1000_1717535506_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/259694/fonte-mymax-atx-1000w-80-plus-silver-pfc-ativo-mpsu-fp1000"
+  },
+  {
+    "productName": "Fonte DeepCool 1000W, 80 Plus Gold, Modular, PFC Ativo, Bivolt, Sem Cabo, Preto - R-PXA00G-FC0B-WO",
+    "price": "R$ 1.198,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F532938%2Ffonte-deepcool-1000w-80-plus-gold-modular-pfc-ativo-bivolt-sem-cabo-preto-r-pxa00g-fc0b-wo-_1713470841_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/532938/fonte-deepcool-1000w-80-plus-gold-modular-pfc-ativo-bivolt-sem-cabo-preto-r-pxa00g-fc0b-wo"
+  },
+  {
+    "productName": "Fonte Corsair RM1000E 1000W, 80 Plus Gold, Full Modular, Bivolt, Sem Cabo, Preto - CP-9020264-WW",
+    "price": "R$ 1.753,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F516979%2Ffonte-corsair-rm1000e-1000w-80-plus-gold-full-modular-bivolt-sem-cabo-preto-cp-9020264-ww_1708112520_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/516979/fonte-corsair-rm1000e-1000w-80-plus-gold-full-modular-bivolt-sem-cabo-preto-cp-9020264-ww"
+  },
+  {
+    "productName": "Fonte EVGA Super NOVA 1000 GT, 1000W, 80 Plus Gold, Full Modular, Auto Eco Mode com Fan FDB, Power ON Self Tester Incluso - 220-GT-1000-X1",
+    "price": "R$ 1.299,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F518026%2Ffonte-evga-super-nova-1000-gt-1000w-80-plus-gold-full-modular-auto-eco-mode-com-fan-fdb-power-on-self-tester-incluso-220-gt-1000-x1_1714763047_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/518026/fonte-evga-super-nova-1000-gt-1000w-80-plus-gold-full-modular-auto-eco-mode-com-fan-fdb-power-on-self-tester-incluso-220-gt-1000-x1"
+  },
+  {
+    "productName": "Fonte EVGA Super NOVA 850 G5, 1000W, 80 Plus Gold, Full Modular, Eco Mode com Fan FDB, Power ON Self Tester Incluso - 220-G5-1000-X1",
+    "price": "R$ 1.399,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F518027%2Ffonte-evga-super-nova-850-g5-1000w-80-plus-gold-full-modular-eco-mode-com-fan-fdb-power-on-self-tester-incluso-220-g5-1000-x1_1715782245_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/518027/fonte-evga-super-nova-850-g5-1000w-80-plus-gold-full-modular-eco-mode-com-fan-fdb-power-on-self-tester-incluso-220-g5-1000-x1"
+  },
+  {
+    "productName": "Fonte ATX Mymax 1000W, 80 Plus Silver, Pfc Ativo, Modular - Mpsu/fp1000w",
+    "price": "R$ 539,91",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F484877%2FFonte-ATX-Mymax-1000W-80-Plus-Silver-Pfc-Ativo-Modular-Mpsu-fp1000w_1717535575_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/484877/fonte-atx-mymax-1000w-80-plus-silver-pfc-ativo-modular-mpsu-fp1000w"
+  },
+  {
+    "productName": "Fonte NZXT C Series 1000W, 80 Plus Gold v2, Full-modular, PFC Ativo, Bivolt, Preto - PA-0G1BB-US",
+    "price": "R$ 1.359,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F504740%2Ffonte-nzxt-c-series-1000w-80-plus-gold-v2-full-modular-pfc-ativo-bivolt-preto-pa-0g1bb-us_1710860171_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/504740/fonte-nzxt-c-series-1000w-80-plus-gold-v2-full-modular-pfc-ativo-bivolt-preto-pa-0g1bb-us"
+  },
+  {
+    "productName": "Fonte Asus ROG-STRIX-1000G-AURA-WHITE-GAMING, 1000W, 80 Plus Gold, Branco, PCIe 5.0, Aura Sync - 90YE00P5-B0BA00",
+    "price": "R$ 2.199,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F523070%2Ffonte-asus-rog-strix-1000g-aura-white-gaming-1000w-80-plus-gold-branco-pcie-5-0-aura-sync-90ye00p5-b0ba00_1722282561_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/523070/fonte-asus-rog-strix-1000g-aura-white-gaming-1000w-80-plus-gold-branco-pcie-5-0-aura-sync-90ye00p5-b0ba00"
+  },
+  {
+    "productName": "Fonte Corsair ATX RM1000X, 1000W, 80 Plus Gold, Full Modular, Sem Cabo De Força - CP-9020201-WW",
+    "price": "R$ 1.789,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F384971%2FFonte-Corsair-ATX-RM1000X-1000W-80-Plus-Gold-Full-Modular-Sem-Cabo-De-For-a-CP-9020201-WW_1712674690_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/384971/fonte-corsair-atx-rm1000x-1000w-80-plus-gold-full-modular-sem-cabo-de-forca-cp-9020201-ww"
+  },
+  {
+    "productName": "Fonte Redragon 1000W, 80 Plus Platinum, Modular, PFC Ativo, Bivolt, Preto - GC-PS017",
+    "price": "R$ 1.339,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F521833%2Ffonte-redragon-1000w-80-plus-platinum-full-modular-pfc-ativo-bivolt-preto-gc-ps017_1709139643_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/521833/fonte-redragon-1000w-80-plus-platinum-modular-pfc-ativo-bivolt-preto-gc-ps017"
+  },
+  {
+    "productName": "Placa Mãe Asus TUF GAMING A520M-PLUS II, AMD AM4, mATX, DDR4",
+    "price": "R$ 559,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F165133%2Fplaca-mae-asus-tuf-gaming-a520m-plus-ii-amd-am4-matx-ddr4-90mb17g0-m0eay0_1632513548_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/165133/placa-mae-asus-tuf-gaming-a520m-plus-ii-amd-am4-matx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Gigabyte B550M Aorus Elite (rev. 1.3), AMD AM4, Micro ATX, DDR4 - B550M AORUS ELITE",
+    "price": "R$ 829,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F114781%2Fplaca-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908595_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/114781/placa-mae-gigabyte-b550m-aorus-elite-rev-1-3-amd-am4-micro-atx-ddr4-b550m-aorus-elite"
+  },
+  {
+    "productName": "Placa-Mãe MSI MPG B550 Gaming Plus, AMD AM4, ATX",
+    "price": "R$ 1.060,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F114335%2Fplaca-mae-msi-mpg-b550-gaming-plus-amd-am4-atx_1594999681_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/114335/placa-mae-msi-mpg-b550-gaming-plus-amd-am4-atx"
+  },
+  {
+    "productName": "Placa-Mãe MSI B550M Pro-VDH WiFi, AMD AM4, mATX",
+    "price": "R$ 929,98",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F114338%2Fplaca-mae-msi-b550m-pro-vdh-wifi-amd-am4-matx_1594996441_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/114338/placa-mae-msi-b550m-pro-vdh-wifi-amd-am4-matx"
+  },
+  {
+    "productName": "Placa Mãe Asus TUF Gaming B550M-Plus, AMD AM4, mATX, DDR4",
+    "price": "R$ 899,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F115216%2Fplaca-mae-asus-tuf-gaming-b550m-plus-amd-am4-matx-ddr4_1724074976_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/115216/placa-mae-asus-tuf-gaming-b550m-plus-amd-am4-matx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe MSI A520M-A PRO, AMD AM4, mATX, DDR4",
+    "price": "R$ 424,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F280890%2Fplaca-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881948_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe MSI B450M-A Pro Max, AMD AM4, Micro-ATX, DDR4",
+    "price": "R$ 494,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F458886%2Fplaca-mae-msi-b450m-a-pro-max-amd-am4-micro-atx-ddr4_1699991851_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/458886/placa-mae-msi-b450m-a-pro-max-amd-am4-micro-atx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe ASRock B450M Steel Legend, AMD AM4, mATX, DDR4",
+    "price": "R$ 739,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F100672%2Fplaca-mae-asrock-b450m-steel-legend-amd-am4-matx-ddr4-90-mxb9y0-a0uayz_placa-mae-asrock-b450m-steel-legend-amd-am4-matx-ddr4-90-mxb9y0-a0uayz_1552586908_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/100672/placa-mae-asrock-b450m-steel-legend-amd-am4-matx-ddr4"
+  },
+  {
+    "productName": "Placa-Mãe Asus TUF Gaming B450M-Plus II, AMD AM4, mATX, DDR4",
+    "price": "R$ 659,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F128437%2Fplaca-mae-asus-tuf-b450m-plus-ii_1601898339_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/128437/placa-mae-asus-tuf-gaming-b450m-plus-ii-amd-am4-matx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Gigabyte B650M Gaming (Rev.1.0), AMD AM5, mATX, DDR5, RGB, WiFi - B650M GAMING WIFI",
+    "price": "R$ 959,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F513870%2Fplaca-mae-gigabyte-b650m-gaming-amd-am5-matx-ddr5-rgb-wifi-b650m-gaming-wifi_1710355766_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/513870/placa-mae-gigabyte-b650m-gaming-rev-1-0-amd-am5-matx-ddr5-rgb-wifi-b650m-gaming-wifi"
+  },
+  {
+    "productName": "Placa-Mãe MSI B450M Pro-VDH Max p/ AMD AM4, m-ATX, DDR4",
+    "price": "R$ 559,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F108499%2Fplaca-mae-msi-b450m-pro-vdh-max-p-amd-am4-m-atx-ddr4-_1576079415_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/108499/placa-mae-msi-b450m-pro-vdh-max-p-amd-am4-m-atx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe MSI B650M Gaming Plus, AMD AM5, M-ATX, DDR5, Wi-Fi - B650M GAMING PLUS WIFI",
+    "price": "R$ 1.410,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F524345%2Fplaca-mae-msi-b650m-gaming-plus-amd-am5-m-atx-ddr5-wi-fi-b650m-gaming-plus-wifi_1719852351_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/524345/placa-mae-msi-b650m-gaming-plus-amd-am5-m-atx-ddr5-wi-fi-b650m-gaming-plus-wifi"
+  },
+  {
+    "productName": "Placa Mãe Gigabyte A520M DS3H V2, AMD, Micro ATX, DDR4 - A520M DS3H V2",
+    "price": "R$ 584,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F457818%2Fplaca-mae-gigabyte-a520m-ds3h-v2-amd-micro-atx-ddr4-a520m-ds3h-v2_1689160432_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/457818/placa-mae-gigabyte-a520m-ds3h-v2-amd-micro-atx-ddr4-a520m-ds3h-v2"
+  },
+  {
+    "productName": "Placa Mãe Asus TUF GAMING A620M-PLUS WIFI, AMD AM5, mATX, DDR5, Wi-Fi, Bluetooth - 90MB1F00-M0EAY0",
+    "price": "R$ 954,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F461377%2Fplaca-mae-asus-tuf-gaming-a620m-plus-wifi-amd-am5-matx-ddr5-wi-fi-bluetooth-90mb1f00-m0eay0_1696363566_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/461377/placa-mae-asus-tuf-gaming-a620m-plus-wifi-amd-am5-matx-ddr5-wi-fi-bluetooth-90mb1f00-m0eay0"
+  },
+  {
+    "productName": "Placa Mãe MSI Pro A620M-E, AMD AM5, M-ATX, DDR5 - PRO A620M-E",
+    "price": "R$ 679,98",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F524344%2Fplaca-mae-msi-pro-a620m-e-amd-am5-m-atx-ddr5-pro-a620m-e_1719851208_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/524344/placa-mae-msi-pro-a620m-e-amd-am5-m-atx-ddr5-pro-a620m-e"
+  },
+  {
+    "productName": "Placa Mãe Asus Prime A520M-E, AMD AM4, mATX, DDR4",
+    "price": "R$ 484,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F129653%2Fplaca-mae-asus-prime-a520-e-amd-am4-matx-ddr4_1602791074_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/129653/placa-mae-asus-prime-a520m-e-amd-am4-matx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Asus TUF Gaming B650M-Plus, AMD AM5 B650, mATX, DDR5 - 90MB1BG0-M0EAY0",
+    "price": "R$ 1.379,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F392052%2Fplaca-mae-asus-tuf-gaming-b650m-plus-amd-am5-b650-matx-ddr5-90mb1bg0-m0eay0_1667218379_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/392052/placa-mae-asus-tuf-gaming-b650m-plus-amd-am5-b650-matx-ddr5-90mb1bg0-m0eay0"
+  },
+  {
+    "productName": "Placa-Mãe Asus TUF Gaming B550M-PLUS, AMD AM4, mATX , DDR4, M.2, Aura para fita RGB - 90MB14A0-C1BAY0",
+    "price": "R$ 839,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F172706%2FPlaca-M-e-Asus-TUF-Gaming-B550M-PLUS-AMD-AM4-mATX-DDR4-M-2-Aura-para-fita-RGB-90MB14A0-C1BAY0_1723064964_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/172706/placa-mae-asus-tuf-gaming-b550m-plus-amd-am4-matx-ddr4-m-2-aura-para-fita-rgb-90mb14a0-c1bay0"
+  },
+  {
+    "productName": "Placa Mãe Asus Prime B550M-A, AMD AM4, mATX, DDR4",
+    "price": "R$ 704,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F113870%2Fplaca-mae-asus-prime-b550m-a-amd-am4-matx-ddr4_1593548521_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/113870/placa-mae-asus-prime-b550m-a-amd-am4-matx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Asus TUF Gaming B650M-Plus Wi-Fi, AMD AM5 B650, mATX, DDR5, Wi-Fi - 90MB1BF0-M0EAY0",
+    "price": "R$ 1.459,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F392051%2Fplaca-mae-asus-tuf-gaming-b650m-plus-wifi-amd-am5-b650-matx-ddr5-90mb1bf0-m0eay0_1667216583_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/392051/placa-mae-asus-tuf-gaming-b650m-plus-wi-fi-amd-am5-b650-matx-ddr5-wi-fi-90mb1bf0-m0eay0"
+  },
+  {
+    "productName": "Placa Mãe Asus Prime H610M-A D4, LGA 1700 H610, mATX, DDR4",
+    "price": "R$ 589,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F276263%2Fplaca-mae-asus-prime-h610m-a-d4-lga-1700-h610-matx-ddr4_1675105751_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/276263/placa-mae-asus-prime-h610m-a-d4-lga-1700-h610-matx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Gigabyte H610M (rev. 1.0), Intel LGA1700, H610, DDR4, mATX - H610M H DDR4",
+    "price": "R$ 539,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F315273%2Fplaca-mae-gigabyte-h610m-rev-1-0-intel-lga1700-h610-ddr4-matx-h610m-h-ddr4_1647527046_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/315273/placa-mae-gigabyte-h610m-rev-1-0-intel-lga1700-h610-ddr4-matx-h610m-h-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Asus Prime H510M-A, Intel Socket LGA1200, microATX, DDR4",
+    "price": "R$ 519,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F151573%2Fplaca-mae-asus-prime-h510m-a-intel-socket-lga1200-microatx-ddr4-90mb17c0-m0eay0_1626122770_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/151573/placa-mae-asus-prime-h510m-a-intel-socket-lga1200-microatx-ddr4"
+  },
+  {
+    "productName": "Placa-Mãe Gigabyte H510M H V2, Intel LGA 1200, 10ª E 11ª Geração, mATX, DDR4 - H510M H V2",
+    "price": "R$ 474,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F517013%2Fplaca-mae-gigabyte-h510m-h-v2-intel-lga-1200-10-e-11-geracao-matx-ddr4-h510m-h-v2_1704722765_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/517013/placa-mae-gigabyte-h510m-h-v2-intel-lga-1200-10-e-11-geracao-matx-ddr4-h510m-h-v2"
+  },
+  {
+    "productName": "Placa Mãe MSI B560M PRO-E, Intel LGA 1200, mATX, DDR4",
+    "price": "R$ 565,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F280944%2Fplaca-mae-msi-b560m-pro-e-lga-1200-matx-ddr4_1646832447_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/280944/placa-mae-msi-b560m-pro-e-intel-lga-1200-matx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe ASRock B660M Phantom Gaming 4, Intel, M-ATX, DDR4, Socket, LGA 1700",
+    "price": "R$ 694,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F495982%2Fplaca-mae-asrock-b660m-phantom-gaming-4-intel-m-atx-ddr4-socket-lga-1700_1698090845_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/495982/placa-mae-asrock-b660m-phantom-gaming-4-intel-m-atx-ddr4-socket-lga-1700"
+  },
+  {
+    "productName": "Placa Mãe MSI Pro H610M-E DDR4, Intel LGA 1700, M-ATX, DDR4 - PRO H610M-E DDR4",
+    "price": "R$ 594,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F524359%2Fplaca-mae-msi-pro-h610m-e-ddr4-intel-lga-1700-m-atx-ddr4-pro-h610m-e-ddr4_1719940017_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/524359/placa-mae-msi-pro-h610m-e-ddr4-intel-lga-1700-m-atx-ddr4-pro-h610m-e-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Asus Prime H610M-E D4, Intel LGA 1700, mATX, DDR4",
+    "price": "R$ 699,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F321070%2Fplaca-mae-asus-prime-h610m-e-d4-intel-lga-1700-h610-matx-ddr4-90mb19n0-c1bay0_1648577141_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/321070/placa-mae-asus-prime-h610m-e-d4-intel-lga-1700-matx-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Gigabyte H410M H V2, Intel, Micro ATX, DDR4 - H410M H V2",
+    "price": "R$ 559,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F457817%2Fplaca-mae-gigabyte-h410m-h-v2-intel-micro-atx-ddr4-h410m-h-v2_1689171117_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/457817/placa-mae-gigabyte-h410m-h-v2-intel-micro-atx-ddr4-h410m-h-v2"
+  },
+  {
+    "productName": "Placa Mãe MSI Pro B760M-E, Intel LGA 1700, M-ATX, DD4 - PRO B760M-E DDR4",
+    "price": "R$ 584,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F524349%2Fplaca-mae-msi-pro-b760m-e-intel-lga-1700-m-atx-dd5-pro-b760m-e-ddr4_1719945686_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/524349/placa-mae-msi-pro-b760m-e-intel-lga-1700-m-atx-dd4-pro-b760m-e-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Gigabyte H610M H V3, Intel LGA 1700, M-ATX, DDR4, M.2",
+    "price": "R$ 669,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F582110%2Fplaca-mae-gigabyte-h610m-h-v3-intel-lga-1700-m-atx-ddr4-m-2-_1716836946_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/582110/placa-mae-gigabyte-h610m-h-v3-intel-lga-1700-m-atx-ddr4-m-2"
+  },
+  {
+    "productName": "Placa Mãe Gigabyte B760M AORUS ELITE (rev. 1.0), LGA 1700, DDR5",
+    "price": "R$ 1.294,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F419108%2Fplaca-mae-gigabyte-b760m-aorus-elite_1677686877_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/419108/placa-mae-gigabyte-b760m-aorus-elite-rev-1-0-lga-1700-ddr5"
+  },
+  {
+    "productName": "Placa Mãe ASUS Prime H510M-A R2.0, Intel, ATX, DDR4, LGA 1200, H470 - 90MB1FP0-M0EAY0",
+    "price": "R$ 504,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F463545%2Fplaca-mae-asus-prime-h510m-a-r2-0-intel-atx-ddr4-lga-1200-h470-90mb1fp0-m0eay0_1699384935_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/463545/placa-mae-asus-prime-h510m-a-r2-0-intel-atx-ddr4-lga-1200-h470-90mb1fp0-m0eay0"
+  },
+  {
+    "productName": "Placa Mãe ASRock H610M-HVS Intel, M-ATX, DDR4, Socket LGA 1700, HDMI, VGA",
+    "price": "R$ 499,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F495981%2Fplaca-mae-asrock-h610m-hvs-intel-m-atx-ddr4-socket-lga-1700-hdmi-vga_1698088130_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/495981/placa-mae-asrock-h610m-hvs-intel-m-atx-ddr4-socket-lga-1700-hdmi-vga"
+  },
+  {
+    "productName": "Placa Mãe Asus TUF GAMING B760M-Plus, Intel LGA 1700, mATX, D4, DDR4 - 90MB1DI0-M0EAY0",
+    "price": "R$ 1.414,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F404822%2Fplaca-mae-asus-tuf-gaming-b760m-plus-intel-lga-1700-d4-ddr4-matx-90mb1di0-m0eay0_1674052878_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/404822/placa-mae-asus-tuf-gaming-b760m-plus-intel-lga-1700-matx-d4-ddr4-90mb1di0-m0eay0"
+  },
+  {
+    "productName": "Placa Mãe Asus Tuf Gaming Z790-Plus, Intel, ATX, DDR5, RGB, Wi-Fi, Bluetooth - 90MB1D80-M1EAY0",
+    "price": "R$ 1.999,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F427131%2Fplaca-mae-asus-ruf-gaming-z790-plus-wifi-90mb1d80-m0eay0_1685021659_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/427131/placa-mae-asus-tuf-gaming-z790-plus-intel-atx-ddr5-rgb-wi-fi-bluetooth-90mb1d80-m1eay0"
+  },
+  {
+    "productName": "Placa Mãe MSI Pro B760-P DDR4 II, Intel LGA 1700, ATX, DDR4 - PRO B760-P DDR4 II",
+    "price": "R$ 1.050,00",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F524348%2Fplaca-mae-msi-pro-b760-p-ddr4-ii-intel-lga-1700-atx-ddr4-pro-b760-p-ddr4-ii_1719943290_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/524348/placa-mae-msi-pro-b760-p-ddr4-ii-intel-lga-1700-atx-ddr4-pro-b760-p-ddr4-ii"
+  },
+  {
+    "productName": "Placa Mãe Gigabyte H610M H V2, Intel, M-ATX, DDR4 - H610M H V2 DDR4",
+    "price": "R$ 494,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F510902%2Fplaca-mae-gigabyte-h610m-h-v2-intel-m-atx-ddr4-h610m-h-v2-ddr4_1704720607_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/510902/placa-mae-gigabyte-h610m-h-v2-intel-m-atx-ddr4-h610m-h-v2-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Gigabyte B760M Gaming DDR4, Intel LGA 1700 MATX, DDR4 - B760M GAMING DDR4",
+    "price": "R$ 834,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F525602%2Fplaca-mae-gigabyte-b760m-gaming-ddr4-intel-lga-1700-matx-ddr4-b760m-gaming-ddr4_1716493708_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/525602/placa-mae-gigabyte-b760m-gaming-ddr4-intel-lga-1700-matx-ddr4-b760m-gaming-ddr4"
+  },
+  {
+    "productName": "Placa Mãe Asus Prime B760-Plus, Intel LGA 1700, D4,DDR4, ATX - 90MB1CW0-M0EAY0",
+    "price": "R$ 1.169,99",
+    "imageUrl": "/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F404819%2Fplaca-mae-asus-prime-b760-plus-intel-lga-1700-d4-ddr4-atx-90mb1cw0-m0eay0_1674046088_m.jpg&w=384&q=75",
+    "productUrl": "https://www.kabum.com.br/produto/404819/placa-mae-asus-prime-b760-plus-intel-lga-1700-d4-ddr4-atx-90mb1cw0-m0eay0"
   }
 ]

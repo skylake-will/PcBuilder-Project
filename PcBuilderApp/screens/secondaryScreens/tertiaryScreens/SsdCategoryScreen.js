@@ -1,15 +1,14 @@
-// CpuCategoryScreen.js
 import React from 'react';
 import { View, Text, FlatList, StyleSheet, TouchableOpacity, Image } from 'react-native';
-import CpuData from '../../../web-scraping-api/controllers/updateAllHardwareData.json'; // Adjust path as necessary
+import SsdData from '../../../web-scraping-api/controllers/updateAllHardwareData.json'; // Adjust path as necessary
 
-export default function CpuCategoryScreen({ route, navigation }) {
+export default function SsdCategoryScreen({ route, navigation }) {
   // Destructure category with a default empty string
   const { category = '' } = route.params || {};
 
   // Validate and filter data based on category
-  const cpuData = CpuData ? CpuData.filter(item =>
-    item.productName.includes(category) && item.productName.includes('Processador')
+  const ssdData = SsdData ? SsdData.filter(item =>
+    item.productName.includes(category) && item.productName.includes('SSD')
   ) : [];
 
   // Function to prepend base URL if needed
@@ -22,19 +21,19 @@ export default function CpuCategoryScreen({ route, navigation }) {
   };
 
   const handleOptionSelect = (item) => {
-    navigation.navigate('DetailScreen', { item, type: 'CPU' });
+    navigation.navigate('DetailScreen', { item, type: 'SSD' });
   };
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Selecione o CPU {category}</Text>
+      <Text style={styles.title}>Select a {category} Option</Text>
       <FlatList
-        data={cpuData}
+        data={ssdData}
         keyExtractor={(item) => item.productUrl} // Use a unique identifier
         renderItem={({ item }) => (
           <TouchableOpacity style={styles.button} onPress={() => handleOptionSelect(item)}>
             <Image
-              source={{ uri: item.imageUrl ? prependBaseUrl(item.imageUrl) : 'https://www.kabum.com.br' }} // Placeholder image
+              source={{ uri: item.imageUrl ? prependBaseUrl(item.imageUrl) : 'https://www.kabum.com.br' }} // Use a placeholder if image URL is missing
               style={styles.image}
               resizeMode="cover"
             />
@@ -58,37 +57,28 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 24,
     marginBottom: 20,
-    color: '#6a1b9a', // Purple color
-    fontWeight: 'bold',
+    color: 'purple',
   },
   button: {
-    width: '90%',
+    width: '80%',
     padding: 15,
-    backgroundColor: '#6a1b9a', // Purple color
+    backgroundColor: 'purple',
     justifyContent: 'center',
     alignItems: 'center',
-    borderRadius: 10,
-    marginBottom: 15,
-    elevation: 5, // Adds shadow on Android
-    shadowColor: '#000', // Shadow color for iOS
-    shadowOffset: { width: 0, height: 3 }, // Shadow offset
-    shadowOpacity: 0.2, // Shadow opacity
-    shadowRadius: 5, // Shadow blur radius
+    borderRadius: 5,
+    marginBottom: 10,
   },
   image: {
-    width: 100,
+    width: 100, // Adjust width and height as needed
     height: 100,
-    borderRadius: 10,
     marginBottom: 10,
   },
   buttonText: {
-    color: '#fff',
+    color: 'white',
     fontSize: 18,
-    fontWeight: 'bold',
-    textAlign: 'center',
   },
   buttonPrice: {
-    color: '#fff',
+    color: 'white',
     fontSize: 16,
     marginTop: 5,
   },
