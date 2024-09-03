@@ -1,19 +1,25 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, StyleSheet, TextInput, Button, Image, ScrollView, TouchableOpacity } from 'react-native';
+import { View, Text, StyleSheet, TextInput, Button, Image, ScrollView, TouchableOpacity, Alert } from 'react-native';
 import * as ImagePicker from 'expo-image-picker';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import axios from 'axios'; // Import axios for HTTP requests
+
+const API_URL = 'https://your-api-url.com'; // Replace with your API URL
 
 export default function ProfileScreen({ navigation }) {
   const [name, setName] = useState('');
   const [image, setImage] = useState('');
+  const [token, setToken] = useState(''); // State to store JWT token
 
   useEffect(() => {
     const loadProfile = async () => {
       try {
         const savedName = await AsyncStorage.getItem('profileName');
         const savedImage = await AsyncStorage.getItem('profileImage');
+        const savedToken = await AsyncStorage.getItem('authToken'); // Get token from AsyncStorage
         if (savedName !== null) setName(savedName);
         if (savedImage !== null) setImage(savedImage);
+        if (savedToken !== null) setToken(savedToken);
       } catch (error) {
         console.error('Failed to load profile', error);
       }
@@ -36,6 +42,7 @@ export default function ProfileScreen({ navigation }) {
         if (uri) {
           setImage(uri);
           await AsyncStorage.setItem('profileImage', uri);
+          // Optionally, upload image to server
         }
       }
     } catch (error) {
@@ -46,6 +53,14 @@ export default function ProfileScreen({ navigation }) {
   const handleNameChange = async (newName) => {
     setName(newName);
     await AsyncStorage.setItem('profileName', newName);
+    // Optionally, update profile name on server
+    try {
+      await axios.post(`${API_URL}/update-profile`, { name: newName }, {
+        headers: { Authorization: `Bearer ${token}` }
+      });
+    } catch (error) {
+      console.error('Error updating profile:', error);
+    }
   };
 
   return (
@@ -73,6 +88,12 @@ export default function ProfileScreen({ navigation }) {
         onPress={() => navigation.navigate('YourBuildsScreen')}
       >
         <Text style={styles.buttonText}>Your Builds</Text>
+      </TouchableOpacity>
+      <TouchableOpacity 
+        style={styles.button} 
+        onPress={() => navigation.navigate('SignUpScreen')}
+      >
+        <Text style={styles.buttonText}>Login / Signup</Text>
       </TouchableOpacity>
     </ScrollView>
   );

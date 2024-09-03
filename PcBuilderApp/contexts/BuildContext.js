@@ -271,7 +271,7 @@ export const BuildProvider = ({ children }) => {
     }
 
     // Ensure valid component types
-    const validTypes = ['CPU', 'GPU', 'Fonte', 'RAM', 'SSD', 'Gabinete'];
+    const validTypes = ['CPU', 'GPU', 'Fonte', 'RAM', 'SSD', 'Gabinete', 'Motherboard'];
     if (!validTypes.includes(type)) {
       console.error('Invalid component type:', type);
       return;

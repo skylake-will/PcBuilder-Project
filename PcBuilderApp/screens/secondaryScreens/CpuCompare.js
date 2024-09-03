@@ -30,7 +30,7 @@ export default function CpuScreen({ navigation }) {
         style={styles.button}
         onPress={() => {
           console.log('Navigating to CompareCategoryScreen with category: Intel Core i5');
-          navigation.navigate('CompareCategoryScreen', { category: 'i5' });
+          navigation.navigate('CompareCategoryScreen', { category: ' Intel Core i5' });
         }}
       >
         <Text style={styles.buttonText}>Intel Core i5</Text>

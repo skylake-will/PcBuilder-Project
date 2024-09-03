@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useCallback } from 'react';
 import { View, Text, FlatList, StyleSheet, TouchableOpacity, Image, SafeAreaView, ActivityIndicator } from 'react-native';
 import GeekbenchData from '../../../web-scraping-api/controllers/geekbenchData.json'; 
 import GpubenchData from '../../../web-scraping-api/controllers/gpuBenchmarkData.json';
@@ -16,16 +16,17 @@ export default function CompareCategoryScreen({ route, navigation }) {
   const [isRefreshing, setIsRefreshing] = useState(false);
 
   // Determine category type
-  const isCpuCategory = category.toLowerCase().includes('ryzen') || category.toLowerCase().includes('core');
+  const categoryLowerCase = category.toLowerCase();
+  const isCpuCategory = categoryLowerCase.includes('ryzen') || categoryLowerCase.includes('core') || categoryLowerCase.includes('intel');
   const isGpuCategory = !isCpuCategory;
 
   // Filter data based on the category
   const cpuData = isCpuCategory ? GeekbenchData.filter(item =>
-    item.cpuName && item.cpuName.toLowerCase().includes(category.toLowerCase())
+    item.cpuName && item.cpuName.toLowerCase().includes(categoryLowerCase)
   ) : [];
   
   const gpuData = isGpuCategory ? GpubenchData.filter(item =>
-    item.gpuName && item.gpuName.toLowerCase().includes(category.toLowerCase())
+    item.gpuName && item.gpuName.toLowerCase().includes(categoryLowerCase)
   ) : [];
 
   // Combine CPU and GPU data
@@ -36,16 +37,18 @@ export default function CompareCategoryScreen({ route, navigation }) {
 
   // Get data for the current page
   const paginatedData = combinedData.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
-  
-  const handleOptionSelect = (item) => {
+
+  // Handle option selection
+  const handleOptionSelect = useCallback((item) => {
     if (isCpuCategory) {
       toggleCpuSelection(item);
     } else if (isGpuCategory) {
       toggleGpuSelection(item);
     }
-  };
+  }, [isCpuCategory, isGpuCategory, toggleCpuSelection, toggleGpuSelection]);
 
-  const handleCompare = () => {
+  // Navigate to DetailedComparison
+  const handleCompare = useCallback(() => {
     if (isCpuCategory && selectedCpus.length < 2) {
       alert('Please select at least two CPUs for comparison');
       return;
@@ -58,9 +61,10 @@ export default function CompareCategoryScreen({ route, navigation }) {
       selectedCpus: isCpuCategory ? selectedCpus : undefined,
       selectedGpus: isGpuCategory ? selectedGpus : undefined 
     });
-  };
+  }, [isCpuCategory, isGpuCategory, selectedCpus, selectedGpus, navigation]);
 
-  const handlePageChange = (direction) => {
+  // Change page
+  const handlePageChange = useCallback((direction) => {
     setCurrentPage(prevPage => {
       if (direction === 'next') {
         return Math.min(prevPage + 1, totalPages);
@@ -68,9 +72,10 @@ export default function CompareCategoryScreen({ route, navigation }) {
         return Math.max(prevPage - 1, 1);
       }
     });
-  };
+  }, [totalPages]);
 
-  const loadMoreData = () => {
+  // Load more data
+  const loadMoreData = useCallback(() => {
     if (currentPage < totalPages) {
       setIsLoading(true);
       setTimeout(() => {
@@ -78,24 +83,24 @@ export default function CompareCategoryScreen({ route, navigation }) {
         setIsLoading(false);
       }, 1000); // Simulate network delay
     }
-  };
+  }, [currentPage, totalPages]);
 
-  const refreshData = () => {
+  // Refresh data
+  const refreshData = useCallback(() => {
     setIsRefreshing(true);
     setTimeout(() => {
       setCurrentPage(1);
       setIsRefreshing(false);
     }, 1000); // Simulate network delay
-  };
+  }, []);
 
+  // Prepend base URL if needed
   const prependBaseUrl = (url) => {
     const baseUrl = 'https://www.kabum.com.br';
-    if (url && !url.startsWith('http')) {
-      return `${baseUrl}${url}`;
-    }
-    return url;
+    return url && !url.startsWith('http') ? `${baseUrl}${url}` : url;
   };
 
+  // Render item
   const renderItem = ({ item }) => {
     const isCpuItem = item.cpuName;
     const isGpuItem = item.gpuName;

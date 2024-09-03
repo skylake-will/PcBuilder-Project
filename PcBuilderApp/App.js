@@ -29,6 +29,10 @@ import CompareCategoryScreen from './screens/secondaryScreens/tertiaryScreens/Co
 import DetailedComparison from './screens/secondaryScreens/tertiaryScreens/DetailedComparison';
 import GpuCompare from './screens/secondaryScreens/GpuCompare';
 import CpuCompare from './screens/secondaryScreens/CpuCompare';
+import LoginScreen from './screens/LoginScreen';
+import SignupScreen from './screens/SignUpScreen';
+import MoboScreen from './screens/secondaryScreens/MoboScreen';
+import MotherboardCategoryScreen from './screens/secondaryScreens/tertiaryScreens/MoboCategoryScreen';
 
 const Tab = createBottomTabNavigator();
 const Stack = createNativeStackNavigator();
@@ -94,7 +98,7 @@ export default function App() {
           <Stack.Screen name="GabineteScreen" component={GabineteScreen} options={{ headerShown: false }} />
           <Stack.Screen name="CompareScreen" component={CompareScreen} options={{ headerShown: false }} />
           <Stack.Screen name="YourBuildsScreen" component={YourBuildsScreen} options={{ headerShown: false }} />
-          <Stack.Screen name="PCs" component={PCs} options={{ headerShown: false }} />
+          <Stack.Screen name="PCs" component={PCs} options={{ headerShown: true }} />
           <Stack.Screen name="SelectBuildScreen" component={SelectBuildScreen} options={{ headerShown: false }} />
           <Stack.Screen name="DetailScreen" component={DetailScreen} options={{ headerShown: false }} />
           <Stack.Screen name="CpuCategoryScreen" component={CpuCategoryScreen} options={{ headerShown: false }} />
@@ -105,6 +109,10 @@ export default function App() {
           <Stack.Screen name="DetailedComparison" component={DetailedComparison} options={{ headerShown: false }} />
           <Stack.Screen name='GpuCompare' component={GpuCompare} options={{headerShwon: false}} />
           <Stack.Screen name='CpuCompare' component={CpuCompare} options={{headerShwon: false}} />
+          <Stack.Screen name='LoginScreen' component={LoginScreen} />
+          <Stack.Screen name='SignUpScreen' component={SignupScreen} />
+          <Stack.Screen name='MoboScreen' component={MoboScreen} />
+          <Stack.Screen name='MoboCategoryScreen' component={MotherboardCategoryScreen} />
         </Stack.Navigator>
       </BuildProvider>
     </NavigationContainer>

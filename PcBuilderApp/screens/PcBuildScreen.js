@@ -1,10 +1,10 @@
 import React from 'react';
-import { View, Text, StyleSheet, Button, TouchableOpacity } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
 export default function PcBuildScreen({ navigation }) {
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>Selecionar peças</Text>
+      <Text style={styles.header}>Selecionar Peças</Text>
       <View style={styles.grid}>
         <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('CpuScreen')}>
           <Text style={styles.buttonText}>CPU</Text>
@@ -12,11 +12,11 @@ export default function PcBuildScreen({ navigation }) {
         <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('GpuScreen')}>
           <Text style={styles.buttonText}>GPU</Text>
         </TouchableOpacity>
-        <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('CpuScreen')}>
-          <Text style={styles.buttonText}>PLACA MÃE</Text>
+        <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('MoboCategoryScreen')}>
+          <Text style={styles.buttonText}>Placa Mãe</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('FonteScreen')}>
-          <Text style={styles.buttonText}>FONTE</Text>
+          <Text style={styles.buttonText}>Fonte</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('RamScreen')}>
           <Text style={styles.buttonText}>RAM</Text>
@@ -36,12 +36,14 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 16,
-    backgroundColor: '#f5f5f5',
+    backgroundColor: '#e0e0e0',
   },
   header: {
-    fontSize: 26,
-    marginBottom: 16,
-    color: 'purple',
+    fontSize: 28,
+    marginBottom: 24,
+    color: '#4a148c', // Deep purple
+    fontWeight: 'bold',
+    textAlign: 'center',
   },
   grid: {
     flex: 1,
@@ -53,15 +55,21 @@ const styles = StyleSheet.create({
   button: {
     width: 120,
     height: 120,
-    backgroundColor: 'purple',
+    backgroundColor: '#6a1b9a', // Slightly lighter purple
     justifyContent: 'center',
     alignItems: 'center',
-    borderRadius: 10,
+    borderRadius: 15,
     margin: 10,
+    elevation: 4, // Adds shadow on Android
+    shadowColor: '#000', // Shadow color for iOS
+    shadowOffset: { width: 0, height: 4 }, // Shadow offset
+    shadowOpacity: 0.3, // Shadow opacity
+    shadowRadius: 8, // Shadow blur radius
   },
   buttonText: {
-    color: 'white',
-    fontSize: 18,
+    color: '#fff',
+    fontSize: 16,
     textAlign: 'center',
+    fontWeight: '600',
   },
 });

@@ -1,15 +1,21 @@
 import React, { useState } from 'react';
 import { View, TextInput, TouchableOpacity, Text, StyleSheet, Alert } from 'react-native';
 
-export default function LoginScreen({ navigation }) {
+export default function SignupScreen({ navigation }) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
+  const [confirmPassword, setConfirmPassword] = useState('');
   const [loading, setLoading] = useState(false);
 
-  const handleLogin = async () => {
+  const handleSignup = async () => {
+    if (password !== confirmPassword) {
+      Alert.alert('Error', 'Passwords do not match');
+      return;
+    }
+
     setLoading(true);
     try {
-      const response = await fetch('http://192.168.1.2:3001/api/login', { // Use your local network IP
+      const response = await fetch('http://192.168.1.101:3000/api/register', { 
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -18,21 +24,14 @@ export default function LoginScreen({ navigation }) {
       });
 
       if (response.ok) {
-        const data = await response.json();
-        if (data.token) {
-          Alert.alert('Success', 'Login successful');
-          // Save the token or navigate to a different screen
-          navigation.replace('HomeScreen'); // Navigate to Home screen after successful login
-        } else {
-          Alert.alert('Login Failed', 'Unexpected response from server');
-        }
+        Alert.alert('Success', 'Signup successful');
+        navigation.replace('LoginScreen'); // Navigate to Login screen after successful signup
       } else {
         const errorData = await response.json();
-        Alert.alert('Login Failed', errorData.message || 'Unknown error occurred');
+        Alert.alert('Signup Failed', errorData.message || 'Unknown error occurred');
       }
     } catch (error) {
-      console.error('Login error:', error); // Log error to console
-      Alert.alert('Login Failed', error.message || 'Error connecting to the server');
+      Alert.alert('Signup Failed', 'Error connecting to the server');
     } finally {
       setLoading(false);
     }
@@ -40,7 +39,7 @@ export default function LoginScreen({ navigation }) {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>Log In</Text>
+      <Text style={styles.header}>Create Your Account</Text>
       <TextInput
         style={styles.input}
         placeholder="Email"
@@ -56,11 +55,18 @@ export default function LoginScreen({ navigation }) {
         onChangeText={setPassword}
         secureTextEntry
       />
-      <TouchableOpacity style={styles.button} onPress={handleLogin} disabled={loading}>
-        <Text style={styles.buttonText}>{loading ? 'Logging in...' : 'Log In'}</Text>
+      <TextInput
+        style={styles.input}
+        placeholder="Confirm Password"
+        value={confirmPassword}
+        onChangeText={setConfirmPassword}
+        secureTextEntry
+      />
+      <TouchableOpacity style={styles.button} onPress={handleSignup} disabled={loading}>
+        <Text style={styles.buttonText}>{loading ? 'Signing up...' : 'Sign Up'}</Text>
       </TouchableOpacity>
-      <TouchableOpacity onPress={() => navigation.navigate('SignupScreen')}>
-        <Text style={styles.loginText}>Don't have an account? Sign up</Text>
+      <TouchableOpacity onPress={() => navigation.navigate('LoginScreen')}>
+        <Text style={styles.loginText}>Already have an account? Log in</Text>
       </TouchableOpacity>
     </View>
   );

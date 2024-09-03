@@ -1,3 +1,4 @@
+// PCs.js
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, Image, ScrollView } from 'react-native';
 import { useBuildContext } from '../../../contexts/BuildContext'; // Adjust path as necessary
@@ -9,7 +10,7 @@ export default function PCs({ route, navigation }) {
 
   // Function to navigate to the component selection screen with proper capitalization
   const navigateToSelectionScreen = (type) => {
-    const screenType = type.charAt(0).toUpperCase() + type.slice(1) + 'Screen'; // Capitalize and append 'Screen'
+    const screenType = type.charAt(0).toUpperCase() + type.slice(1).toLowerCase() + 'Screen'; // Capitalize and append 'Screen'
     navigation.navigate(screenType, { build }); // Pass build name to selection screen
   };
 
@@ -69,6 +70,7 @@ export default function PCs({ route, navigation }) {
       {renderProductDetail('ssd', buildDetails.SSD)}
       {renderProductDetail('fonte', buildDetails.Fonte)}
       {renderProductDetail('gabinete', buildDetails.Gabinete)}
+      {renderProductDetail('Mobo', buildDetails.Motherboard)}
     </ScrollView>
   );
 }

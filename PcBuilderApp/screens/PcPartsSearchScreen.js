@@ -1,37 +1,35 @@
-import React, { useState, useEffect } from 'react';
-import { View, Text, StyleSheet, TextInput, Button, ScrollView, ActivityIndicator, TouchableOpacity } from 'react-native';
-import { useBuildContext } from '../contexts/BuildContext';
+import React, { useState } from 'react';
+import { View, Text, StyleSheet, TextInput, Button, ScrollView, ActivityIndicator, TouchableOpacity, Image } from 'react-native';
+// Import your JSON data
+import hardwareData from '../web-scraping-api/controllers/updateAllHardwareData.json'; // Adjust the path to your JSON file
 
 export default function PcPartsSearchScreen({ navigation }) {
-  const { builds } = useBuildContext(); // Access builds from context
   const [searchQuery, setSearchQuery] = useState('');
   const [loading, setLoading] = useState(false);
   const [results, setResults] = useState([]);
   const [error, setError] = useState(null);
 
-  // Function to extract CPU options from builds
-  const getCpuOptions = () => {
-    const cpuOptions = [];
-    for (const buildName in builds) {
-      const build = builds[buildName];
-      if (build.CPU) {
-        cpuOptions.push(build.CPU);
-      }
-    }
-    return cpuOptions;
-  };
+  // Function to tokenize text into words
+  const tokenize = (text) => text.toLowerCase().split(/\s+/);
 
-  // Handle search logic
+  // Function to handle search logic
   const handleSearch = () => {
     setLoading(true);
     setError(null);
 
     try {
-      const cpuOptions = getCpuOptions();
-      const query = searchQuery.toLowerCase().trim();
-      const filteredResults = cpuOptions.filter(cpu =>
-        cpu.productName.toLowerCase().includes(query)
-      );
+      const queryTokens = tokenize(searchQuery.trim());
+      if (queryTokens.length === 0) {
+        setError('Search query cannot be empty.');
+        setLoading(false);
+        return;
+      }
+
+      // Filter data based on whether any word in productName matches the search query
+      const filteredResults = hardwareData.filter(item => {
+        const productTokens = tokenize(item.productName);
+        return queryTokens.some(queryToken => productTokens.includes(queryToken));
+      });
 
       setResults(filteredResults);
 
@@ -59,14 +57,20 @@ export default function PcPartsSearchScreen({ navigation }) {
       {error && <Text style={styles.error}>{error}</Text>}
       {results.length > 0 && (
         <View style={styles.results}>
-          {results.map((cpu, index) => (
+          {results.map((item, index) => (
             <TouchableOpacity
               key={index}
               style={styles.resultItem}
-              onPress={() => navigation.navigate('CpuDetailScreen', { cpu })}
+              onPress={() => navigation.navigate('DetailScreen', { item })}
             >
-              <Text style={styles.resultText}>{cpu.productName}</Text>
-              <Text style={styles.resultText}>Price: {cpu.price}</Text>
+              <Image
+                source={{ uri: item.imageUrl.startsWith('/') ? `https://www.kabum.com.br${item.imageUrl}` : item.imageUrl }}
+                style={styles.resultImage}
+              />
+              <View style={styles.resultTextContainer}>
+                <Text style={styles.resultText}>{item.productName}</Text>
+                <Text style={styles.resultText}>Price: {item.price}</Text>
+              </View>
             </TouchableOpacity>
           ))}
         </View>
@@ -108,10 +112,21 @@ const styles = StyleSheet.create({
     width: '100%',
   },
   resultItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
     padding: 15,
     backgroundColor: 'white',
     borderBottomColor: 'gray',
     borderBottomWidth: 1,
+  },
+  resultImage: {
+    width: 100,
+    height: 100,
+    borderRadius: 10,
+    marginRight: 10,
+  },
+  resultTextContainer: {
+    flex: 1,
   },
   resultText: {
     fontSize: 18,
