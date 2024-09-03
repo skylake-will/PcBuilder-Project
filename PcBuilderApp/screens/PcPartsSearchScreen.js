@@ -1,6 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, StyleSheet, TextInput, Button, ScrollView, ActivityIndicator, TouchableOpacity } from 'react-native';
-import { useBuildContext } from '../contexts/BuildContext';
+import { View, Text, StyleSheet, TextInput, Button, ScrollView, ActivityIndicator, TouchableOpacity, Image } from 'react-native';
+// import { useBuildContext } from '../web-scraping-api/controllers/updateAllHardwareData.json';
+import hardwareData from '../web-scraping-api/controllers/updateAllHardwareData.json'; // Importe o arquivo JSON
+
+// Defina a função prependBaseUrl
+const prependBaseUrl = (url) => {
+  const baseUrl = 'https://www.kabum.com.br';
+  return url.startsWith('http') ? url : `${baseUrl}${url}`;
+};
 
 export default function PcPartsSearchScreen({ navigation }) {
   const [searchQuery, setSearchQuery] = useState('');
@@ -8,17 +15,6 @@ export default function PcPartsSearchScreen({ navigation }) {
   const [results, setResults] = useState([]);
   const [error, setError] = useState(null);
 
-  // Function to extract CPU options from builds
-  const getCpuOptions = () => {
-    const cpuOptions = [];
-    for (const buildName in builds) {
-      const build = builds[buildName];
-      if (build.CPU) {
-        cpuOptions.push(build.CPU);
-      }
-    }
-    return cpuOptions;
-  };
 
   // Handle search logic
   const handleSearch = () => {
@@ -26,12 +22,11 @@ export default function PcPartsSearchScreen({ navigation }) {
     setError(null);
 
     try {
-      const cpuOptions = getCpuOptions();
       const query = searchQuery.toLowerCase().trim();
-      const filteredResults = cpuOptions.filter(cpu =>
-        cpu.productName.toLowerCase().includes(query)
+      const filteredResults = hardwareData.filter(item =>
+        item.productName.toLowerCase().includes(query)
       );
-
+      
       setResults(filteredResults);
 
       if (filteredResults.length === 0) {
@@ -75,10 +70,15 @@ export default function PcPartsSearchScreen({ navigation }) {
             <TouchableOpacity
               key={index}
               style={styles.resultItem}
-              onPress={() => navigation.navigate('CpuDetailScreen', { cpu })}
+              onPress={() => navigation.navigate('DetailScreen', { item })}
             >
-              <Text style={styles.resultText}>{cpu.productName}</Text>
-              <Text style={styles.resultText}>Price: {cpu.price}</Text>
+             <Image 
+             source={{ uri: item.imageUrl ? prependBaseUrl(item.imageUrl) : 'https://www.kabum.com.br' }} 
+             style={styles.image} 
+             resizeMode="cover"
+             />
+              <Text style={styles.resultText}>{item.productName}</Text>
+              <Text style={styles.resultText}>Price: {item.price}</Text>
             </TouchableOpacity>
           ))}
         </View>
@@ -120,23 +120,12 @@ const styles = StyleSheet.create({
     width: '100%',
   },
   resultItem: {
-    flexDirection: 'row',
-    alignItems: 'center',
     padding: 15,
     backgroundColor: 'white',
     borderBottomColor: 'gray',
     borderBottomWidth: 1,
     flexDirection: 'row',
     alignItems: 'center',
-  },
-  resultImage: {
-    width: 100,
-    height: 100,
-    borderRadius: 10,
-    marginRight: 10,
-  },
-  resultTextContainer: {
-    flex: 1,
   },
   resultText: {
     fontSize: 18,
